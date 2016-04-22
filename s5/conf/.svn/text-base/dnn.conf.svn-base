@@ -1,0 +1,6 @@
+# Setup the DNN training
+
+hid_layers=0     # Initialize with 0 hidden layers. Only last layer 
+# is randomly generated, hidden layers are pre-trained.
+
+learn_rate=0.008 # Default learning rate value is 0.008

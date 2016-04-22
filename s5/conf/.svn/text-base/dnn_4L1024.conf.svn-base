@@ -1,0 +1,14 @@
+# Setup the DNN training
+
+# features
+apply_cmvn=true # apply Cepstral Mean Normalization (no CVN)
+splice=10 # concatenate +/- 10 frames on DNN input
+feat_type=plain # use plain FBANK features
+
+# topology
+hid_layers=4 # Initialize with 2 hidden layers.
+hid_dim=1024  # use 512 sigmoid neurons per hidden layer.
+
+# training
+learn_rate=0.008 # Default learning rate value is 0.008
+

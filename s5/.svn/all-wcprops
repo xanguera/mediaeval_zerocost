@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repositorio/research/!svn/ver/5030/mami/kaldi/s5
+END
+run.sh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repositorio/research/!svn/ver/5030/mami/kaldi/s5/run.sh
+END
+steps
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repositorio/research/!svn/ver/5029/mami/kaldi/s5/steps
+END
+utils
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repositorio/research/!svn/ver/5029/mami/kaldi/s5/utils
+END
+RESULTS
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repositorio/research/!svn/ver/5028/mami/kaldi/s5/RESULTS
+END
+process-wav-to-lat-and-ctm.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repositorio/research/!svn/ver/5028/mami/kaldi/s5/process-wav-to-lat-and-ctm.sh
+END
+process-examples.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repositorio/research/!svn/ver/5028/mami/kaldi/s5/process-examples.sh
+END
+check_overlapping_sent.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repositorio/research/!svn/ver/5028/mami/kaldi/s5/check_overlapping_sent.sh
+END
+path.sh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repositorio/research/!svn/ver/5028/mami/kaldi/s5/path.sh
+END
+cmd.sh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repositorio/research/!svn/ver/5028/mami/kaldi/s5/cmd.sh
+END

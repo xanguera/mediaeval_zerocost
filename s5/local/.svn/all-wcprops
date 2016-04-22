@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repositorio/research/!svn/ver/5030/mami/kaldi/s5/local
+END
+train_lm.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repositorio/research/!svn/ver/5030/mami/kaldi/s5/local/train_lm.sh
+END
+prepare_data.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repositorio/research/!svn/ver/5030/mami/kaldi/s5/local/prepare_data.sh
+END
+train_lm_mitlm.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repositorio/research/!svn/ver/5030/mami/kaldi/s5/local/train_lm_mitlm.sh
+END
+normalizer_phone.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repositorio/research/!svn/ver/5029/mami/kaldi/s5/local/normalizer_phone.sh
+END
+score.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repositorio/research/!svn/ver/5029/mami/kaldi/s5/local/score.sh
+END
+text_rem_dup_utts.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repositorio/research/!svn/ver/5029/mami/kaldi/s5/local/text_rem_dup_utts.sh
+END
+normalizer.sh.old
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repositorio/research/!svn/ver/5029/mami/kaldi/s5/local/normalizer.sh.old
+END
+align_nnet_ctm.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repositorio/research/!svn/ver/5029/mami/kaldi/s5/local/align_nnet_ctm.sh
+END
+normalizer_test.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repositorio/research/!svn/ver/5029/mami/kaldi/s5/local/normalizer_test.sh
+END
+normalizer.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repositorio/research/!svn/ver/5029/mami/kaldi/s5/local/normalizer.sh
+END
+train_lm_sri.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repositorio/research/!svn/ver/5029/mami/kaldi/s5/local/train_lm_sri.sh
+END
+remove_dup_utts.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repositorio/research/!svn/ver/5029/mami/kaldi/s5/local/remove_dup_utts.sh
+END

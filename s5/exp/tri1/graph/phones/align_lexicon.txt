@@ -1,0 +1,4626 @@
+!SIL !SIL SIL_S
+<SPOKEN_NOISE> <SPOKEN_NOISE> SPN_S
+<UNK> <UNK> SPN_S
+<eps> <eps> SIL
+a a a_S
+aakening aakening a_B a_I k_I e_I n_I i_I n_I g_E
+ac ac a_B c_E
+acid acid a_B c_I i_I d_E
+acquy acquy a_B c_I q_I u_I y_E
+acre acre a_B c_I r_I e_E
+ad ad a_B d_E
+adrenalin adrenalin a_B d_I r_I e_I n_I a_I l_I i_I n_E
+advance advance a_B d_I v_I a_I n_I c_I e_E
+aghanistan aghanistan a_B g_I h_I a_I n_I i_I s_I t_I a_I n_E
+ai ai a_B i_E
+aids aids a_B i_I d_I s_E
+ak ak a_B k_E
+akkad akkad a_B k_I k_I a_I d_E
+album album a_B l_I b_I u_I m_E
+alô alô a_B l_I ô_E
+am am a_B m_E
+amentiu amentiu a_B m_I e_I n_I t_I i_I u_E
+amicom amicom a_B m_I i_I c_I o_I m_E
+amidam amidam a_B m_I i_I d_I a_I m_E
+amin amin a_B m_I i_I n_E
+amip amip a_B m_I i_I p_E
+amoniac amoniac a_B m_I o_I n_I i_I a_I c_E
+ampe ampe a_B m_I p_I e_E
+an an a_B n_E
+anbom anbom a_B n_I b_I o_I m_E
+anbum anbum a_B n_I b_I u_I m_E
+anbumin anbumin a_B n_I b_I u_I m_I i_I n_E
+andjety andjety a_B n_I d_I j_I e_I t_I y_E
+ang ang a_B n_I g_E
+anh anh a_B n_I h_E
+anpha anpha a_B n_I p_I h_I a_E
+anten anten a_B n_I t_I e_I n_E
+ao ao a_B o_E
+apartment apartment a_B p_I a_I r_I t_I m_I e_I n_I t_E
+apxe apxe a_B p_I x_I e_E
+arenhét arenhét a_B r_I e_I n_I h_I é_I t_E
+aspirin aspirin a_B s_I p_I i_I r_I i_I n_E
+ate ate a_B t_I e_E
+au au a_B u_E
+audio audio a_B u_I d_I i_I o_E
+ax ax a_B x_E
+axetic axetic a_B x_I e_I t_I i_I c_E
+axeton axeton a_B x_I e_I t_I o_I n_E
+axit axit a_B x_I i_I t_E
+axêtilen axêtilen a_B x_I ê_I t_I i_I l_I e_I n_E
+ay ay a_B y_E
+aỏ aỏ a_B ỏ_E
+b b b_S
+ba ba b_B a_E
+bach bach b_B a_I c_I h_E
+ban ban b_B a_I n_E
+bang bang b_B a_I n_I g_E
+banh banh b_B a_I n_I h_E
+bao bao b_B a_I o_E
+bar bar b_B a_I r_E
+bay bay b_B a_I y_E
+be be b_B e_E
+bem bem b_B e_I m_E
+beng beng b_B e_I n_I g_E
+beo beo b_B e_I o_E
+berili berili b_B e_I r_I i_I l_I i_E
+bi bi b_B i_E
+bia bia b_B i_I a_E
+bich bich b_B i_I c_I h_E
+bien bien b_B i_I e_I n_E
+biet biet b_B i_I e_I t_E
+binh binh b_B i_I n_I h_E
+bitexco bitexco b_B i_I t_I e_I x_I c_I o_E
+biê biê b_B i_I ê_E
+biên biên b_B i_I ê_I n_E
+biếc biếc b_B i_I ế_I c_E
+biếm biếm b_B i_I ế_I m_E
+biến biến b_B i_I ế_I n_E
+biếng biếng b_B i_I ế_I n_I g_E
+biết biết b_B i_I ế_I t_E
+biếu biếu b_B i_I ế_I u_E
+biền biền b_B i_I ề_I n_E
+biển biển b_B i_I ể_I n_E
+biểu biểu b_B i_I ể_I u_E
+biện biện b_B i_I ệ_I n_E
+biệt biệt b_B i_I ệ_I t_E
+bo bo b_B o_E
+bom bom b_B o_I m_E
+bon bon b_B o_I n_E
+bong bong b_B o_I n_I g_E
+brókoli brókoli b_B r_I ó_I k_I o_I l_I i_E
+bulgaria bulgaria b_B u_I l_I g_I a_I r_I i_I a_E
+bun bun b_B u_I n_E
+bus bus b_B u_I s_E
+buôn buôn b_B u_I ô_I n_E
+buông buông b_B u_I ô_I n_I g_E
+buýt buýt b_B u_I ý_I t_E
+buốt buốt b_B u_I ố_I t_E
+buồi buồi b_B u_I ồ_I i_E
+buồm buồm b_B u_I ồ_I m_E
+buồn buồn b_B u_I ồ_I n_E
+buồng buồng b_B u_I ồ_I n_I g_E
+buổi buổi b_B u_I ổ_I i_E
+buộc buộc b_B u_I ộ_I c_E
+buớc buớc b_B u_I ớ_I c_E
+byeok byeok b_B y_I e_I o_I k_E
+byeol byeol b_B y_I e_I o_I l_E
+bà bà b_B à_E
+bài bài b_B à_I i_E
+bàn bàn b_B à_I n_E
+bàng bàng b_B à_I n_I g_E
+bành bành b_B à_I n_I h_E
+bào bào b_B à_I o_E
+bàu bàu b_B à_I u_E
+bày bày b_B à_I y_E
+bá bá b_B á_E
+bác bác b_B á_I c_E
+bách bách b_B á_I c_I h_E
+bái bái b_B á_I i_E
+bám bám b_B á_I m_E
+bán bán b_B á_I n_E
+báng báng b_B á_I n_I g_E
+bánh bánh b_B á_I n_I h_E
+báo báo b_B á_I o_E
+bát bát b_B á_I t_E
+báu báu b_B á_I u_E
+bâ bâ b_B â_E
+bâu bâu b_B â_I u_E
+bây bây b_B â_I y_E
+bâykờn bâykờn b_B â_I y_I k_I ờ_I n_E
+bã bã b_B ã_E
+bãi bãi b_B ã_I i_E
+bão bão b_B ã_I o_E
+bè bè b_B è_E
+bèo bèo b_B è_I o_E
+bé bé b_B é_E
+béclin béclin b_B é_I c_I l_I i_I n_E
+bén bén b_B é_I n_E
+béo béo b_B é_I o_E
+bét bét b_B é_I t_E
+bê bê b_B ê_E
+bên bên b_B ê_I n_E
+bênh bênh b_B ê_I n_I h_E
+bêu bêu b_B ê_I u_E
+bì bì b_B ì_E
+bìa bìa b_B ì_I a_E
+bìm bìm b_B ì_I m_E
+bình bình b_B ì_I n_I h_E
+bìu bìu b_B ì_I u_E
+bí bí b_B í_E
+bích bích b_B í_I c_I h_E
+bít bít b_B í_I t_E
+bíttếch bíttếch b_B í_I t_I t_I ế_I c_I h_E
+bò bò b_B ò_E
+bòn bòn b_B ò_I n_E
+bòng bòng b_B ò_I n_I g_E
+bó bó b_B ó_E
+bóc bóc b_B ó_I c_E
+bói bói b_B ó_I i_E
+bón bón b_B ó_I n_E
+bóng bóng b_B ó_I n_I g_E
+bóp bóp b_B ó_I p_E
+bót bót b_B ó_I t_E
+bô bô b_B ô_E
+bôi bôi b_B ô_I i_E
+bôm bôm b_B ô_I m_E
+bông bông b_B ô_I n_I g_E
+bõ bõ b_B õ_E
+bõm bõm b_B õ_I m_E
+bù bù b_B ù_E
+bùa bùa b_B ù_I a_E
+bùi bùi b_B ù_I i_E
+bùn bùn b_B ù_I n_E
+bùng bùng b_B ù_I n_I g_E
+bùt bùt b_B ù_I t_E
+bú bú b_B ú_E
+búa búa b_B ú_I a_E
+búi búi b_B ú_I i_E
+bún bún b_B ú_I n_E
+búng búng b_B ú_I n_I g_E
+búp búp b_B ú_I p_E
+bút bút b_B ú_I t_E
+búyt búyt b_B ú_I y_I t_E
+băm băm b_B ă_I m_E
+băn băn b_B ă_I n_E
+băng băng b_B ă_I n_I g_E
+bĩnh bĩnh b_B ĩ_I n_I h_E
+bơ bơ b_B ơ_E
+bơi bơi b_B ơ_I i_E
+bơm bơm b_B ơ_I m_E
+bơn bơn b_B ơ_I n_E
+bưng bưng b_B ư_I n_I g_E
+bưu bưu b_B ư_I u_E
+bươu bươu b_B ư_I ơ_I u_E
+bước bước b_B ư_I ớ_I c_E
+bướm bướm b_B ư_I ớ_I m_E
+bướng bướng b_B ư_I ớ_I n_I g_E
+bướu bướu b_B ư_I ớ_I u_E
+bưởi bưởi b_B ư_I ở_I i_E
+bược bược b_B ư_I ợ_I c_E
+bạ bạ b_B ạ_E
+bạc bạc b_B ạ_I c_E
+bạch bạch b_B ạ_I c_I h_E
+bại bại b_B ạ_I i_E
+bạn bạn b_B ạ_I n_E
+bạo bạo b_B ạ_I o_E
+bạt bạt b_B ạ_I t_E
+bả bả b_B ả_E
+bản bản b_B ả_I n_E
+bảng bảng b_B ả_I n_I g_E
+bảnh bảnh b_B ả_I n_I h_E
+bảo bảo b_B ả_I o_E
+bảy bảy b_B ả_I y_E
+bấc bấc b_B ấ_I c_E
+bấm bấm b_B ấ_I m_E
+bất bất b_B ấ_I t_E
+bấu bấu b_B ấ_I u_E
+bấy bấy b_B ấ_I y_E
+bầm bầm b_B ầ_I m_E
+bần bần b_B ầ_I n_E
+bầu bầu b_B ầ_I u_E
+bầy bầy b_B ầ_I y_E
+bẩm bẩm b_B ẩ_I m_E
+bẩn bẩn b_B ẩ_I n_E
+bẫm bẫm b_B ẫ_I m_E
+bẫy bẫy b_B ẫ_I y_E
+bậc bậc b_B ậ_I c_E
+bận bận b_B ậ_I n_E
+bật bật b_B ậ_I t_E
+bậu bậu b_B ậ_I u_E
+bậy bậy b_B ậ_I y_E
+bắc bắc b_B ắ_I c_E
+bắn bắn b_B ắ_I n_E
+bắng bắng b_B ắ_I n_I g_E
+bắp bắp b_B ắ_I p_E
+bắt bắt b_B ắ_I t_E
+bằm bằm b_B ằ_I m_E
+bằng bằng b_B ằ_I n_I g_E
+bẵng bẵng b_B ẵ_I n_I g_E
+bặm bặm b_B ặ_I m_E
+bẹ bẹ b_B ẹ_E
+bẹn bẹn b_B ẹ_I n_E
+bẹp bẹp b_B ẹ_I p_E
+bẹt bẹt b_B ẹ_I t_E
+bẻ bẻ b_B ẻ_E
+bẻo bẻo b_B ẻ_I o_E
+bẽn bẽn b_B ẽ_I n_E
+bế bế b_B ế_E
+bến bến b_B ế_I n_E
+bếp bếp b_B ế_I p_E
+bết bết b_B ế_I t_E
+bề bề b_B ề_E
+bền bền b_B ề_I n_E
+bể bể b_B ể_E
+bễ bễ b_B ễ_E
+bệ bệ b_B ệ_E
+bện bện b_B ệ_I n_E
+bệnh bệnh b_B ệ_I n_I h_E
+bệu bệu b_B ệ_I u_E
+bỉ bỉ b_B ỉ_E
+bỉnh bỉnh b_B ỉ_I n_I h_E
+bị bị b_B ị_E
+bịa bịa b_B ị_I a_E
+bịch bịch b_B ị_I c_I h_E
+bịnh bịnh b_B ị_I n_I h_E
+bịp bịp b_B ị_I p_E
+bịt bịt b_B ị_I t_E
+bọ bọ b_B ọ_E
+bọc bọc b_B ọ_I c_E
+bọn bọn b_B ọ_I n_E
+bọng bọng b_B ọ_I n_I g_E
+bọt bọt b_B ọ_I t_E
+bỏ bỏ b_B ỏ_E
+bỏng bỏng b_B ỏ_I n_I g_E
+bố bố b_B ố_E
+bốc bốc b_B ố_I c_E
+bối bối b_B ố_I i_E
+bốn bốn b_B ố_I n_E
+bống bống b_B ố_I n_I g_E
+bốp bốp b_B ố_I p_E
+bốt bốt b_B ố_I t_E
+bồ bồ b_B ồ_E
+bồi bồi b_B ồ_I i_E
+bồn bồn b_B ồ_I n_E
+bồng bồng b_B ồ_I n_I g_E
+bổ bổ b_B ổ_E
+bổi bổi b_B ổ_I i_E
+bổng bổng b_B ổ_I n_I g_E
+bỗng bỗng b_B ỗ_I n_I g_E
+bộ bộ b_B ộ_E
+bội bội b_B ộ_I i_E
+bộn bộn b_B ộ_I n_E
+bột bột b_B ộ_I t_E
+bớ bớ b_B ớ_E
+bới bới b_B ớ_I i_E
+bớp bớp b_B ớ_I p_E
+bớt bớt b_B ớ_I t_E
+bờ bờ b_B ờ_E
+bờm bờm b_B ờ_I m_E
+bở bở b_B ở_E
+bởi bởi b_B ở_I i_E
+bỡ bỡ b_B ỡ_E
+bỡn bỡn b_B ỡ_I n_E
+bợ bợ b_B ợ_E
+bợm bợm b_B ợ_I m_E
+bục bục b_B ụ_I c_E
+bụi bụi b_B ụ_I i_E
+bụng bụng b_B ụ_I n_I g_E
+bủ bủ b_B ủ_E
+bủn bủn b_B ủ_I n_E
+bức bức b_B ứ_I c_E
+bứt bứt b_B ứ_I t_E
+bừa bừa b_B ừ_I a_E
+bừng bừng b_B ừ_I n_I g_E
+bửa bửa b_B ử_I a_E
+bữa bữa b_B ữ_I a_E
+bự bự b_B ự_E
+bực bực b_B ự_I c_E
+c c c_S
+ca ca c_B a_E
+cacbon cacbon c_B a_I c_I b_I o_I n_E
+cacbonic cacbonic c_B a_I c_I b_I o_I n_I i_I c_E
+cai cai c_B a_I i_E
+caliornia caliornia c_B a_I l_I i_I o_I r_I n_I i_I a_E
+calo calo c_B a_I l_I o_E
+cam cam c_B a_I m_E
+camera camera c_B a_I m_I e_I r_I a_E
+campuchia campuchia c_B a_I m_I p_I u_I c_I h_I i_I a_E
+can can c_B a_I n_E
+canada canada c_B a_I n_I a_I d_I a_E
+canađa canađa c_B a_I n_I a_I đ_I a_E
+canh canh c_B a_I n_I h_E
+cao cao c_B a_I o_E
+cau cau c_B a_I u_E
+cay cay c_B a_I y_E
+ch ch c_B h_E
+cha cha c_B h_I a_E
+chai chai c_B h_I a_I i_E
+cham cham c_B h_I a_I m_E
+chan chan c_B h_I a_I n_E
+chanh chanh c_B h_I a_I n_I h_E
+chao chao c_B h_I a_I o_E
+chau chau c_B h_I a_I u_E
+chay chay c_B h_I a_I y_E
+che che c_B h_I e_E
+chen chen c_B h_I e_I n_E
+chi chi c_B h_I i_E
+chia chia c_B h_I i_I a_E
+chim chim c_B h_I i_I m_E
+chinh chinh c_B h_I i_I n_I h_E
+chiêm chiêm c_B h_I i_I ê_I m_E
+chiên chiên c_B h_I i_I ê_I n_E
+chiêu chiêu c_B h_I i_I ê_I u_E
+chiếc chiếc c_B h_I i_I ế_I c_E
+chiếm chiếm c_B h_I i_I ế_I m_E
+chiến chiến c_B h_I i_I ế_I n_E
+chiết chiết c_B h_I i_I ế_I t_E
+chiếu chiếu c_B h_I i_I ế_I u_E
+chiềng chiềng c_B h_I i_I ề_I n_I g_E
+chiều chiều c_B h_I i_I ề_I u_E
+chiểu chiểu c_B h_I i_I ể_I u_E
+chlorhydric chlorhydric c_B h_I l_I o_I r_I h_I y_I d_I r_I i_I c_E
+cho cho c_B h_I o_E
+choa choa c_B h_I o_I a_E
+choang choang c_B h_I o_I a_I n_I g_E
+choàng choàng c_B h_I o_I à_I n_I g_E
+choái choái c_B h_I o_I á_I i_E
+choán choán c_B h_I o_I á_I n_E
+choáng choáng c_B h_I o_I á_I n_I g_E
+choèn choèn c_B h_I o_I è_I n_E
+choảng choảng c_B h_I o_I ả_I n_I g_E
+choắt choắt c_B h_I o_I ắ_I t_E
+chu chu c_B h_I u_E
+chua chua c_B h_I u_I a_E
+chui chui c_B h_I u_I i_E
+chum chum c_B h_I u_I m_E
+chun chun c_B h_I u_I n_E
+chung chung c_B h_I u_I n_I g_E
+chunhyang chunhyang c_B h_I u_I n_I h_I y_I a_I n_I g_E
+chuyên chuyên c_B h_I u_I y_I ê_I n_E
+chuyến chuyến c_B h_I u_I y_I ế_I n_E
+chuyền chuyền c_B h_I u_I y_I ề_I n_E
+chuyển chuyển c_B h_I u_I y_I ể_I n_E
+chuyện chuyện c_B h_I u_I y_I ệ_I n_E
+chuôi chuôi c_B h_I u_I ô_I i_E
+chuôm chuôm c_B h_I u_I ô_I m_E
+chuông chuông c_B h_I u_I ô_I n_I g_E
+chuẩn chuẩn c_B h_I u_I ẩ_I n_E
+chuốc chuốc c_B h_I u_I ố_I c_E
+chuối chuối c_B h_I u_I ố_I i_E
+chuốt chuốt c_B h_I u_I ố_I t_E
+chuồi chuồi c_B h_I u_I ồ_I i_E
+chuồn chuồn c_B h_I u_I ồ_I n_E
+chuồng chuồng c_B h_I u_I ồ_I n_I g_E
+chuỗi chuỗi c_B h_I u_I ỗ_I i_E
+chuộc chuộc c_B h_I u_I ộ_I c_E
+chuội chuội c_B h_I u_I ộ_I i_E
+chuộng chuộng c_B h_I u_I ộ_I n_I g_E
+chuột chuột c_B h_I u_I ộ_I t_E
+chà chà c_B h_I à_E
+chài chài c_B h_I à_I i_E
+chàm chàm c_B h_I à_I m_E
+chàng chàng c_B h_I à_I n_I g_E
+chào chào c_B h_I à_I o_E
+chày chày c_B h_I à_I y_E
+chác chác c_B h_I á_I c_E
+chán chán c_B h_I á_I n_E
+chánh chánh c_B h_I á_I n_I h_E
+cháo cháo c_B h_I á_I o_E
+chát chát c_B h_I á_I t_E
+cháu cháu c_B h_I á_I u_E
+cháy cháy c_B h_I á_I y_E
+châm châm c_B h_I â_I m_E
+chân chân c_B h_I â_I n_E
+châu châu c_B h_I â_I u_E
+chây chây c_B h_I â_I y_E
+chãi chãi c_B h_I ã_I i_E
+chão chão c_B h_I ã_I o_E
+chè chè c_B h_I è_E
+chèn chèn c_B h_I è_I n_E
+chèo chèo c_B h_I è_I o_E
+ché ché c_B h_I é_E
+chém chém c_B h_I é_I m_E
+chén chén c_B h_I é_I n_E
+chéo chéo c_B h_I é_I o_E
+chép chép c_B h_I é_I p_E
+chê chê c_B h_I ê_E
+chêm chêm c_B h_I ê_I m_E
+chênh chênh c_B h_I ê_I n_I h_E
+chì chì c_B h_I ì_E
+chìa chìa c_B h_I ì_I a_E
+chìm chìm c_B h_I ì_I m_E
+chình chình c_B h_I ì_I n_I h_E
+chí chí c_B h_I í_E
+chích chích c_B h_I í_I c_I h_E
+chín chín c_B h_I í_I n_E
+chính chính c_B h_I í_I n_I h_E
+chíp chíp c_B h_I í_I p_E
+chòi chòi c_B h_I ò_I i_E
+chòm chòm c_B h_I ò_I m_E
+chòng chòng c_B h_I ò_I n_I g_E
+chó chó c_B h_I ó_E
+chóc chóc c_B h_I ó_I c_E
+chóe chóe c_B h_I ó_I e_E
+chói chói c_B h_I ó_I i_E
+chóng chóng c_B h_I ó_I n_I g_E
+chóp chóp c_B h_I ó_I p_E
+chót chót c_B h_I ó_I t_E
+chôm chôm c_B h_I ô_I m_E
+chôn chôn c_B h_I ô_I n_E
+chông chông c_B h_I ô_I n_I g_E
+chõ chõ c_B h_I õ_E
+chõng chõng c_B h_I õ_I n_I g_E
+chù chù c_B h_I ù_E
+chùa chùa c_B h_I ù_I a_E
+chùi chùi c_B h_I ù_I i_E
+chùm chùm c_B h_I ù_I m_E
+chùng chùng c_B h_I ù_I n_I g_E
+chùy chùy c_B h_I ù_I y_E
+chú chú c_B h_I ú_E
+chúa chúa c_B h_I ú_I a_E
+chúc chúc c_B h_I ú_I c_E
+chúi chúi c_B h_I ú_I i_E
+chúng chúng c_B h_I ú_I n_I g_E
+chút chút c_B h_I ú_I t_E
+chăm chăm c_B h_I ă_I m_E
+chăn chăn c_B h_I ă_I n_E
+chăng chăng c_B h_I ă_I n_I g_E
+chĩa chĩa c_B h_I ĩ_I a_E
+chĩnh chĩnh c_B h_I ĩ_I n_I h_E
+chũ chũ c_B h_I ũ_E
+chũi chũi c_B h_I ũ_I i_E
+chũng chũng c_B h_I ũ_I n_I g_E
+chơi chơi c_B h_I ơ_I i_E
+chưa chưa c_B h_I ư_I a_E
+chưng chưng c_B h_I ư_I n_I g_E
+chương chương c_B h_I ư_I ơ_I n_I g_E
+chước chước c_B h_I ư_I ớ_I c_E
+chướng chướng c_B h_I ư_I ớ_I n_I g_E
+chường chường c_B h_I ư_I ờ_I n_I g_E
+chưởi chưởi c_B h_I ư_I ở_I i_E
+chạ chạ c_B h_I ạ_E
+chạc chạc c_B h_I ạ_I c_E
+chạch chạch c_B h_I ạ_I c_I h_E
+chạm chạm c_B h_I ạ_I m_E
+chạp chạp c_B h_I ạ_I p_E
+chạy chạy c_B h_I ạ_I y_E
+chả chả c_B h_I ả_E
+chải chải c_B h_I ả_I i_E
+chảo chảo c_B h_I ả_I o_E
+chảy chảy c_B h_I ả_I y_E
+chấm chấm c_B h_I ấ_I m_E
+chấn chấn c_B h_I ấ_I n_E
+chấp chấp c_B h_I ấ_I p_E
+chất chất c_B h_I ấ_I t_E
+chấu chấu c_B h_I ấ_I u_E
+chấy chấy c_B h_I ấ_I y_E
+chần chần c_B h_I ầ_I n_E
+chầu chầu c_B h_I ầ_I u_E
+chẩm chẩm c_B h_I ẩ_I m_E
+chẩn chẩn c_B h_I ẩ_I n_E
+chậm chậm c_B h_I ậ_I m_E
+chận chận c_B h_I ậ_I n_E
+chập chập c_B h_I ậ_I p_E
+chật chật c_B h_I ậ_I t_E
+chậu chậu c_B h_I ậ_I u_E
+chắc chắc c_B h_I ắ_I c_E
+chắn chắn c_B h_I ắ_I n_E
+chắng chắng c_B h_I ắ_I n_I g_E
+chắp chắp c_B h_I ắ_I p_E
+chắt chắt c_B h_I ắ_I t_E
+chằn chằn c_B h_I ằ_I n_E
+chằng chằng c_B h_I ằ_I n_I g_E
+chẳng chẳng c_B h_I ẳ_I n_I g_E
+chẵn chẵn c_B h_I ẵ_I n_E
+chặn chặn c_B h_I ặ_I n_E
+chặng chặng c_B h_I ặ_I n_I g_E
+chặt chặt c_B h_I ặ_I t_E
+chẹn chẹn c_B h_I ẹ_I n_E
+chẹo chẹo c_B h_I ẹ_I o_E
+chẹt chẹt c_B h_I ẹ_I t_E
+chẻ chẻ c_B h_I ẻ_E
+chẻo chẻo c_B h_I ẻ_I o_E
+chế chế c_B h_I ế_E
+chếch chếch c_B h_I ế_I c_I h_E
+chết chết c_B h_I ế_I t_E
+chệch chệch c_B h_I ệ_I c_I h_E
+chỉ chỉ c_B h_I ỉ_E
+chỉnh chỉnh c_B h_I ỉ_I n_I h_E
+chị chị c_B h_I ị_E
+chịu chịu c_B h_I ị_I u_E
+chọc chọc c_B h_I ọ_I c_E
+chọi chọi c_B h_I ọ_I i_E
+chọn chọn c_B h_I ọ_I n_E
+chỏm chỏm c_B h_I ỏ_I m_E
+chốc chốc c_B h_I ố_I c_E
+chối chối c_B h_I ố_I i_E
+chốn chốn c_B h_I ố_I n_E
+chống chống c_B h_I ố_I n_I g_E
+chốt chốt c_B h_I ố_I t_E
+chồi chồi c_B h_I ồ_I i_E
+chồn chồn c_B h_I ồ_I n_E
+chồng chồng c_B h_I ồ_I n_I g_E
+chổ chổ c_B h_I ổ_E
+chổi chổi c_B h_I ổ_I i_E
+chỗ chỗ c_B h_I ỗ_E
+chộp chộp c_B h_I ộ_I p_E
+chột chột c_B h_I ộ_I t_E
+chớ chớ c_B h_I ớ_E
+chớm chớm c_B h_I ớ_I m_E
+chớp chớp c_B h_I ớ_I p_E
+chớt chớt c_B h_I ớ_I t_E
+chờ chờ c_B h_I ờ_E
+chở chở c_B h_I ở_E
+chởm chởm c_B h_I ở_I m_E
+chợ chợ c_B h_I ợ_E
+chợt chợt c_B h_I ợ_I t_E
+chục chục c_B h_I ụ_I c_E
+chụp chụp c_B h_I ụ_I p_E
+chủ chủ c_B h_I ủ_E
+chủng chủng c_B h_I ủ_I n_I g_E
+chứ chứ c_B h_I ứ_E
+chứa chứa c_B h_I ứ_I a_E
+chức chức c_B h_I ứ_I c_E
+chứng chứng c_B h_I ứ_I n_I g_E
+chừa chừa c_B h_I ừ_I a_E
+chừng chừng c_B h_I ừ_I n_I g_E
+chử chử c_B h_I ử_E
+chửa chửa c_B h_I ử_I a_E
+chửi chửi c_B h_I ử_I i_E
+chửng chửng c_B h_I ử_I n_I g_E
+chữ chữ c_B h_I ữ_E
+chữa chữa c_B h_I ữ_I a_E
+chững chững c_B h_I ữ_I n_I g_E
+chực chực c_B h_I ự_I c_E
+co co c_B o_E
+coi coi c_B o_I i_E
+color color c_B o_I l_I o_I r_E
+con con c_B o_I n_E
+cong cong c_B o_I n_I g_E
+console console c_B o_I n_I s_I o_I l_I e_E
+copernicus copernicus c_B o_I p_I e_I r_I n_I i_I c_I u_I s_E
+crộm crộm c_B r_I ộ_I m_E
+cu cu c_B u_E
+cua cua c_B u_I a_E
+cuaroa cuaroa c_B u_I a_I r_I o_I a_E
+cung cung c_B u_I n_I g_E
+cuông cuông c_B u_I ô_I n_I g_E
+cuốc cuốc c_B u_I ố_I c_E
+cuối cuối c_B u_I ố_I i_E
+cuốn cuốn c_B u_I ố_I n_E
+cuống cuống c_B u_I ố_I n_I g_E
+cuồn cuồn c_B u_I ồ_I n_E
+cuồng cuồng c_B u_I ồ_I n_I g_E
+cuỗm cuỗm c_B u_I ỗ_I m_E
+cuộc cuộc c_B u_I ộ_I c_E
+cuội cuội c_B u_I ộ_I i_E
+cuộn cuộn c_B u_I ộ_I n_E
+cà cà c_B à_E
+cài cài c_B à_I i_E
+càn càn c_B à_I n_E
+càng càng c_B à_I n_I g_E
+cành cành c_B à_I n_I h_E
+cào cào c_B à_I o_E
+càphê càphê c_B à_I p_I h_I ê_E
+càrốt càrốt c_B à_I r_I ố_I t_E
+càu càu c_B à_I u_E
+cày cày c_B à_I y_E
+cá cá c_B á_E
+các các c_B á_I c_E
+cách cách c_B á_I c_I h_E
+cái cái c_B á_I i_E
+cám cám c_B á_I m_E
+cán cán c_B á_I n_E
+cáng cáng c_B á_I n_I g_E
+cánh cánh c_B á_I n_I h_E
+cáo cáo c_B á_I o_E
+cáp cáp c_B á_I p_E
+cát cát c_B á_I t_E
+cáu cáu c_B á_I u_E
+cáy cáy c_B á_I y_E
+câ câ c_B â_E
+câm câm c_B â_I m_E
+cân cân c_B â_I n_E
+câu câu c_B â_I u_E
+cây cây c_B â_I y_E
+cãi cãi c_B ã_I i_E
+cò cò c_B ò_E
+còi còi c_B ò_I i_E
+còn còn c_B ò_I n_E
+còng còng c_B ò_I n_I g_E
+có có c_B ó_E
+cóc cóc c_B ó_I c_E
+cói cói c_B ó_I i_E
+cóng cóng c_B ó_I n_I g_E
+cóp cóp c_B ó_I p_E
+cô cô c_B ô_E
+côi côi c_B ô_I i_E
+côn côn c_B ô_I n_E
+công công c_B ô_I n_I g_E
+côsin côsin c_B ô_I s_I i_I n_E
+côtang côtang c_B ô_I t_I a_I n_I g_E
+cõng cõng c_B õ_I n_I g_E
+cù cù c_B ù_E
+cùi cùi c_B ù_I i_E
+cùn cùn c_B ù_I n_E
+cùng cùng c_B ù_I n_I g_E
+cú cú c_B ú_E
+cúa cúa c_B ú_I a_E
+cúc cúc c_B ú_I c_E
+cúi cúi c_B ú_I i_E
+cúm cúm c_B ú_I m_E
+cún cún c_B ú_I n_E
+cúng cúng c_B ú_I n_I g_E
+cúp cúp c_B ú_I p_E
+cút cút c_B ú_I t_E
+căm căm c_B ă_I m_E
+căn căn c_B ă_I n_E
+căng căng c_B ă_I n_I g_E
+cũ cũ c_B ũ_E
+cũi cũi c_B ũ_I i_E
+cũng cũng c_B ũ_I n_I g_E
+cơ cơ c_B ơ_E
+cơm cơm c_B ơ_I m_E
+cơn cơn c_B ơ_I n_E
+cư cư c_B ư_E
+cưa cưa c_B ư_I a_E
+cưng cưng c_B ư_I n_I g_E
+cưu cưu c_B ư_I u_E
+cương cương c_B ư_I ơ_I n_I g_E
+cước cước c_B ư_I ớ_I c_E
+cưới cưới c_B ư_I ớ_I i_E
+cướp cướp c_B ư_I ớ_I p_E
+cười cười c_B ư_I ờ_I i_E
+cườm cườm c_B ư_I ờ_I m_E
+cường cường c_B ư_I ờ_I n_I g_E
+cưỡi cưỡi c_B ư_I ỡ_I i_E
+cưỡng cưỡng c_B ư_I ỡ_I n_I g_E
+cạ cạ c_B ạ_E
+cạm cạm c_B ạ_I m_E
+cạn cạn c_B ạ_I n_E
+cạnh cạnh c_B ạ_I n_I h_E
+cạo cạo c_B ạ_I o_E
+cạp cạp c_B ạ_I p_E
+cạy cạy c_B ạ_I y_E
+cả cả c_B ả_E
+cải cải c_B ả_I i_E
+cảm cảm c_B ả_I m_E
+cản cản c_B ả_I n_E
+cảng cảng c_B ả_I n_I g_E
+cảnh cảnh c_B ả_I n_I h_E
+cảo cảo c_B ả_I o_E
+cấm cấm c_B ấ_I m_E
+cấn cấn c_B ấ_I n_E
+cấp cấp c_B ấ_I p_E
+cất cất c_B ấ_I t_E
+cấu cấu c_B ấ_I u_E
+cấy cấy c_B ấ_I y_E
+cầm cầm c_B ầ_I m_E
+cần cần c_B ầ_I n_E
+cầu cầu c_B ầ_I u_E
+cầy cầy c_B ầ_I y_E
+cẩm cẩm c_B ẩ_I m_E
+cẩn cẩn c_B ẩ_I n_E
+cẩu cẩu c_B ẩ_I u_E
+cẫn cẫn c_B ẫ_I n_E
+cẫng cẫng c_B ẫ_I n_I g_E
+cận cận c_B ậ_I n_E
+cập cập c_B ậ_I p_E
+cật cật c_B ậ_I t_E
+cậu cậu c_B ậ_I u_E
+cậy cậy c_B ậ_I y_E
+cắc cắc c_B ắ_I c_E
+cắm cắm c_B ắ_I m_E
+cắn cắn c_B ắ_I n_E
+cắp cắp c_B ắ_I p_E
+cắt cắt c_B ắ_I t_E
+cằm cằm c_B ằ_I m_E
+cằn cằn c_B ằ_I n_E
+cẳng cẳng c_B ẳ_I n_I g_E
+cặn cặn c_B ặ_I n_E
+cặp cặp c_B ặ_I p_E
+cọ cọ c_B ọ_E
+cọc cọc c_B ọ_I c_E
+cọng cọng c_B ọ_I n_I g_E
+cọp cọp c_B ọ_I p_E
+cỏ cỏ c_B ỏ_E
+cố cố c_B ố_E
+cốc cốc c_B ố_I c_E
+cối cối c_B ố_I i_E
+cốm cốm c_B ố_I m_E
+cống cống c_B ố_I n_I g_E
+cốt cốt c_B ố_I t_E
+cồ cồ c_B ồ_E
+cồn cồn c_B ồ_I n_E
+cồng cồng c_B ồ_I n_I g_E
+cổ cổ c_B ổ_E
+cổng cổng c_B ổ_I n_I g_E
+cỗ cỗ c_B ỗ_E
+cỗi cỗi c_B ỗ_I i_E
+cộ cộ c_B ộ_E
+cộc cộc c_B ộ_I c_E
+cộng cộng c_B ộ_I n_I g_E
+cộngsản cộngsản c_B ộ_I n_I g_I s_I ả_I n_E
+cột cột c_B ộ_I t_E
+cớ cớ c_B ớ_E
+cờ cờ c_B ờ_E
+cởi cởi c_B ở_I i_E
+cỡ cỡ c_B ỡ_E
+cỡi cỡi c_B ỡ_I i_E
+cỡm cỡm c_B ỡ_I m_E
+cợn cợn c_B ợ_I n_E
+cụ cụ c_B ụ_E
+cục cục c_B ụ_I c_E
+cụm cụm c_B ụ_I m_E
+cụng cụng c_B ụ_I n_I g_E
+cụp cụp c_B ụ_I p_E
+cụt cụt c_B ụ_I t_E
+củ củ c_B ủ_E
+của của c_B ủ_I a_E
+củi củi c_B ủ_I i_E
+củng củng c_B ủ_I n_I g_E
+cứ cứ c_B ứ_E
+cứa cứa c_B ứ_I a_E
+cứng cứng c_B ứ_I n_I g_E
+cứt cứt c_B ứ_I t_E
+cứu cứu c_B ứ_I u_E
+cừ cừ c_B ừ_E
+cừu cừu c_B ừ_I u_E
+cử cử c_B ử_E
+cửa cửa c_B ử_I a_E
+cửng cửng c_B ử_I n_I g_E
+cửu cửu c_B ử_I u_E
+cữ cữ c_B ữ_E
+cự cự c_B ự_E
+cựa cựa c_B ự_I a_E
+cực cực c_B ự_I c_E
+cựu cựu c_B ự_I u_E
+d d d_S
+da da d_B a_E
+dae dae d_B a_I e_E
+dan dan d_B a_I n_E
+dang dang d_B a_I n_I g_E
+danh danh d_B a_I n_I h_E
+dao dao d_B a_I o_E
+dat dat d_B a_I t_E
+dengue dengue d_B e_I n_I g_I u_I e_E
+di di d_B i_E
+diem diem d_B i_I e_I m_E
+diep diep d_B i_I e_I p_E
+dinh dinh d_B i_I n_I h_E
+disk disk d_B i_I s_I k_E
+diêm diêm d_B i_I ê_I m_E
+diều diều d_B i_I ề_I u_E
+diễn diễn d_B i_I ễ_I n_E
+diệm diệm d_B i_I ệ_I m_E
+diện diện d_B i_I ệ_I n_E
+diệp diệp d_B i_I ệ_I p_E
+diệt diệt d_B i_I ệ_I t_E
+diệu diệu d_B i_I ệ_I u_E
+do do d_B o_E
+doan doan d_B o_I a_I n_E
+doanh doanh d_B o_I a_I n_I h_E
+doi doi d_B o_I i_E
+don don d_B o_I n_E
+dong dong d_B o_I n_I g_E
+doãn doãn d_B o_I ã_I n_E
+drummond drummond d_B r_I u_I m_I m_I o_I n_I d_E
+ds ds d_B s_E
+du du d_B u_E
+dua dua d_B u_I a_E
+duan duan d_B u_I a_I n_E
+duc duc d_B u_I c_E
+dung dung d_B u_I n_I g_E
+duy duy d_B u_I y_E
+duyên duyên d_B u_I y_I ê_I n_E
+duyệt duyệt d_B u_I y_I ệ_I t_E
+duẩn duẩn d_B u_I ẩ_I n_E
+duốc duốc d_B u_I ố_I c_E
+dvd dvd d_B v_I d_E
+dyeon dyeon d_B y_I e_I o_I n_E
+dà dà d_B à_E
+dài dài d_B à_I i_E
+dàn dàn d_B à_I n_E
+dàng dàng d_B à_I n_I g_E
+dành dành d_B à_I n_I h_E
+dày dày d_B à_I y_E
+dái dái d_B á_I i_E
+dám dám d_B á_I m_E
+dán dán d_B á_I n_E
+dáng dáng d_B á_I n_I g_E
+dáy dáy d_B á_I y_E
+dâm dâm d_B â_I m_E
+dân dân d_B â_I n_E
+dâng dâng d_B â_I n_I g_E
+dâu dâu d_B â_I u_E
+dây dây d_B â_I y_E
+dã dã d_B ã_E
+dãi dãi d_B ã_I i_E
+dãn dãn d_B ã_I n_E
+dãy dãy d_B ã_I y_E
+dè dè d_B è_E
+dép dép d_B é_I p_E
+dê dê d_B ê_E
+dì dì d_B ì_E
+dính dính d_B í_I n_I h_E
+dò dò d_B ò_E
+dòi dòi d_B ò_I i_E
+dòm dòm d_B ò_I m_E
+dòn dòn d_B ò_I n_E
+dòng dòng d_B ò_I n_I g_E
+dô dô d_B ô_E
+dông dông d_B ô_I n_I g_E
+dõi dõi d_B õ_I i_E
+dù dù d_B ù_E
+dùng dùng d_B ù_I n_I g_E
+dúa dúa d_B ú_I a_E
+dăm dăm d_B ă_I m_E
+dĩ dĩ d_B ĩ_E
+dĩa dĩa d_B ĩ_I a_E
+dũng dũng d_B ũ_I n_I g_E
+dơ dơ d_B ơ_E
+dư dư d_B ư_E
+dưa dưa d_B ư_I a_E
+dưng dưng d_B ư_I n_I g_E
+dương dương d_B ư_I ơ_I n_I g_E
+dưới dưới d_B ư_I ớ_I i_E
+dường dường d_B ư_I ờ_I n_I g_E
+dưỡng dưỡng d_B ư_I ỡ_I n_I g_E
+dược dược d_B ư_I ợ_I c_E
+dượng dượng d_B ư_I ợ_I n_I g_E
+dượt dượt d_B ư_I ợ_I t_E
+dạ dạ d_B ạ_E
+dại dại d_B ạ_I i_E
+dạn dạn d_B ạ_I n_E
+dạng dạng d_B ạ_I n_I g_E
+dạo dạo d_B ạ_I o_E
+dạt dạt d_B ạ_I t_E
+dạy dạy d_B ạ_I y_E
+dải dải d_B ả_I i_E
+dấm dấm d_B ấ_I m_E
+dấp dấp d_B ấ_I p_E
+dấu dấu d_B ấ_I u_E
+dấy dấy d_B ấ_I y_E
+dầm dầm d_B ầ_I m_E
+dần dần d_B ầ_I n_E
+dầu dầu d_B ầ_I u_E
+dầy dầy d_B ầ_I y_E
+dẫm dẫm d_B ẫ_I m_E
+dẫn dẫn d_B ẫ_I n_E
+dẫy dẫy d_B ẫ_I y_E
+dập dập d_B ậ_I p_E
+dật dật d_B ậ_I t_E
+dậu dậu d_B ậ_I u_E
+dậy dậy d_B ậ_I y_E
+dằm dằm d_B ằ_I m_E
+dằn dằn d_B ằ_I n_E
+dằng dằng d_B ằ_I n_I g_E
+dặm dặm d_B ặ_I m_E
+dặn dặn d_B ặ_I n_E
+dặt dặt d_B ặ_I t_E
+dẹp dẹp d_B ẹ_I p_E
+dẹt dẹt d_B ẹ_I t_E
+dẻ dẻ d_B ẻ_E
+dẻo dẻo d_B ẻ_I o_E
+dế dế d_B ế_E
+dến dến d_B ế_I n_E
+dề dề d_B ề_E
+dể dể d_B ể_E
+dễ dễ d_B ễ_E
+dệt dệt d_B ệ_I t_E
+dị dị d_B ị_E
+dịch dịch d_B ị_I c_I h_E
+dịnh dịnh d_B ị_I n_I h_E
+dịp dịp d_B ị_I p_E
+dịu dịu d_B ị_I u_E
+dọa dọa d_B ọ_I a_E
+dọc dọc d_B ọ_I c_E
+dọn dọn d_B ọ_I n_E
+dốc dốc d_B ố_I c_E
+dối dối d_B ố_I i_E
+dốt dốt d_B ố_I t_E
+dồi dồi d_B ồ_I i_E
+dồn dồn d_B ồ_I n_E
+dỗ dỗ d_B ỗ_E
+dộng dộng d_B ộ_I n_I g_E
+dột dột d_B ộ_I t_E
+dở dở d_B ở_E
+dỡ dỡ d_B ỡ_E
+dụ dụ d_B ụ_E
+dục dục d_B ụ_I c_E
+dụm dụm d_B ụ_I m_E
+dụng dụng d_B ụ_I n_I g_E
+dứa dứa d_B ứ_I a_E
+dứt dứt d_B ứ_I t_E
+dừa dừa d_B ừ_I a_E
+dừng dừng d_B ừ_I n_I g_E
+dữ dữ d_B ữ_E
+dự dự d_B ự_E
+dựa dựa d_B ự_I a_E
+dựng dựng d_B ự_I n_I g_E
+e e e_S
+eb eb e_B b_E
+edge edge e_B d_I g_I e_E
+elda elda e_B l_I d_I a_E
+em em e_B m_E
+email email e_B m_I a_I i_I l_E
+entertainment entertainment e_B n_I t_I e_I r_I t_I a_I i_I n_I m_I e_I n_I t_E
+eo eo e_B o_E
+ero ero e_B r_I o_E
+eus eus e_B u_I s_E
+everest everest e_B v_I e_I r_I e_I s_I t_E
+everyone everyone e_B v_I e_I r_I y_I o_I n_I e_E
+eximbank eximbank e_B x_I i_I m_I b_I a_I n_I k_E
+g g g_S
+ga ga g_B a_E
+gai gai g_B a_I i_E
+galaxy galaxy g_B a_I l_I a_I x_I y_E
+galile galile g_B a_I l_I i_I l_I e_E
+galilei galilei g_B a_I l_I i_I l_I e_I i_E
+galileo galileo g_B a_I l_I i_I l_I e_I o_E
+gam gam g_B a_I m_E
+game game g_B a_I m_I e_E
+gameboy gameboy g_B a_I m_I e_I b_I o_I y_E
+gamespot gamespot g_B a_I m_I e_I s_I p_I o_I t_E
+gan gan g_B a_I n_E
+gang gang g_B a_I n_I g_E
+garô garô g_B a_I r_I ô_E
+gatô gatô g_B a_I t_I ô_E
+gay gay g_B a_I y_E
+geb geb g_B e_I b_E
+gen gen g_B e_I n_E
+gh gh g_B h_E
+ghen ghen g_B h_I e_I n_E
+ghi ghi g_B h_I i_E
+ghim ghim g_B h_I i_I m_E
+ghita ghita g_B h_I i_I t_I a_E
+ghiếc ghiếc g_B h_I i_I ế_I c_E
+ghiền ghiền g_B h_I i_I ề_I n_E
+ghè ghè g_B h_I è_E
+ghèn ghèn g_B h_I è_I n_E
+ghé ghé g_B h_I é_E
+ghém ghém g_B h_I é_I m_E
+ghép ghép g_B h_I é_I p_E
+ghét ghét g_B h_I é_I t_E
+ghê ghê g_B h_I ê_E
+ghì ghì g_B h_I ì_E
+ghìm ghìm g_B h_I ì_I m_E
+ghính ghính g_B h_I í_I n_I h_E
+ghẹ ghẹ g_B h_I ẹ_E
+ghẹo ghẹo g_B h_I ẹ_I o_E
+ghẻ ghẻ g_B h_I ẻ_E
+ghế ghế g_B h_I ế_E
+ghềnh ghềnh g_B h_I ề_I n_I h_E
+ghệt ghệt g_B h_I ệ_I t_E
+gia gia g_B i_I a_E
+giai giai g_B i_I a_I i_E
+giam giam g_B i_I a_I m_E
+gian gian g_B i_I a_I n_E
+giang giang g_B i_I a_I n_I g_E
+gianh gianh g_B i_I a_I n_I h_E
+giao giao g_B i_I a_I o_E
+giap giap g_B i_I a_I p_E
+gieo gieo g_B i_I e_I o_E
+gilgamesh gilgamesh g_B i_I l_I g_I a_I m_I e_I s_I h_E
+giun giun g_B i_I u_I n_E
+già già g_B i_I à_E
+giàn giàn g_B i_I à_I n_E
+giành giành g_B i_I à_I n_I h_E
+giào giào g_B i_I à_I o_E
+giàu giàu g_B i_I à_I u_E
+giày giày g_B i_I à_I y_E
+giá giá g_B i_I á_E
+giác giác g_B i_I á_I c_E
+giám giám g_B i_I á_I m_E
+gián gián g_B i_I á_I n_E
+giáng giáng g_B i_I á_I n_I g_E
+giáo giáo g_B i_I á_I o_E
+giáp giáp g_B i_I á_I p_E
+giây giây g_B i_I â_I y_E
+giã giã g_B i_I ã_E
+giãi giãi g_B i_I ã_I i_E
+giãn giãn g_B i_I ã_I n_E
+giãy giãy g_B i_I ã_I y_E
+gièm gièm g_B i_I è_I m_E
+gié gié g_B i_I é_E
+giê giê g_B i_I ê_E
+giêng giêng g_B i_I ê_I n_I g_E
+giò giò g_B i_I ò_E
+giòn giòn g_B i_I ò_I n_E
+gió gió g_B i_I ó_E
+gióng gióng g_B i_I ó_I n_I g_E
+giông giông g_B i_I ô_I n_I g_E
+giùm giùm g_B i_I ù_I m_E
+giúi giúi g_B i_I ú_I i_E
+giúp giúp g_B i_I ú_I p_E
+giũ giũ g_B i_I ũ_E
+giũa giũa g_B i_I ũ_I a_E
+giơ giơ g_B i_I ơ_E
+giương giương g_B i_I ư_I ơ_I n_I g_E
+giướng giướng g_B i_I ư_I ớ_I n_I g_E
+giường giường g_B i_I ư_I ờ_I n_I g_E
+giạ giạ g_B i_I ạ_E
+giạt giạt g_B i_I ạ_I t_E
+giả giả g_B i_I ả_E
+giải giải g_B i_I ả_I i_E
+giảm giảm g_B i_I ả_I m_E
+giản giản g_B i_I ả_I n_E
+giảng giảng g_B i_I ả_I n_I g_E
+giấc giấc g_B i_I ấ_I c_E
+giấm giấm g_B i_I ấ_I m_E
+giấu giấu g_B i_I ấ_I u_E
+giấy giấy g_B i_I ấ_I y_E
+giầm giầm g_B i_I ầ_I m_E
+giần giần g_B i_I ầ_I n_E
+giầu giầu g_B i_I ầ_I u_E
+giầy giầy g_B i_I ầ_I y_E
+giẩy giẩy g_B i_I ẩ_I y_E
+giẫm giẫm g_B i_I ẫ_I m_E
+giậm giậm g_B i_I ậ_I m_E
+giận giận g_B i_I ậ_I n_E
+giật giật g_B i_I ậ_I t_E
+giậu giậu g_B i_I ậ_I u_E
+giắn giắn g_B i_I ắ_I n_E
+giắt giắt g_B i_I ắ_I t_E
+giặc giặc g_B i_I ặ_I c_E
+giặn giặn g_B i_I ặ_I n_E
+giặt giặt g_B i_I ặ_I t_E
+giẹp giẹp g_B i_I ẹ_I p_E
+giẻ giẻ g_B i_I ẻ_E
+giếc giếc g_B i_I ế_I c_E
+giếm giếm g_B i_I ế_I m_E
+giếng giếng g_B i_I ế_I n_I g_E
+giết giết g_B i_I ế_I t_E
+giễu giễu g_B i_I ễ_I u_E
+giọi giọi g_B i_I ọ_I i_E
+giọng giọng g_B i_I ọ_I n_I g_E
+giọt giọt g_B i_I ọ_I t_E
+giỏ giỏ g_B i_I ỏ_E
+giỏi giỏi g_B i_I ỏ_I i_E
+giống giống g_B i_I ố_I n_I g_E
+giỗ giỗ g_B i_I ỗ_E
+giội giội g_B i_I ộ_I i_E
+giới giới g_B i_I ớ_I i_E
+giờ giờ g_B i_I ờ_E
+giời giời g_B i_I ờ_I i_E
+giở giở g_B i_I ở_E
+giỡn giỡn g_B i_I ỡ_I n_E
+giụa giụa g_B i_I ụ_I a_E
+giục giục g_B i_I ụ_I c_E
+giữ giữ g_B i_I ữ_E
+giữa giữa g_B i_I ữ_I a_E
+giựt giựt g_B i_I ự_I t_E
+gmaecube gmaecube g_B m_I a_I e_I c_I u_I b_I e_E
+go go g_B o_E
+gon gon g_B o_I n_E
+gorki gorki g_B o_I r_I k_I i_E
+gosoo gosoo g_B o_I s_I o_I o_E
+groningen groningen g_B r_I o_I n_I i_I n_I g_I e_I n_E
+gung gung g_B u_I n_I g_E
+guốc guốc g_B u_I ố_I c_E
+gà gà g_B à_E
+gài gài g_B à_I i_E
+gàn gàn g_B à_I n_E
+gàng gàng g_B à_I n_I g_E
+gào gào g_B à_I o_E
+gàu gàu g_B à_I u_E
+gá gá g_B á_E
+gác gác g_B á_I c_E
+gái gái g_B á_I i_E
+gán gán g_B á_I n_E
+gánh gánh g_B á_I n_I h_E
+gáo gáo g_B á_I o_E
+gáy gáy g_B á_I y_E
+gân gân g_B â_I n_E
+gây gây g_B â_I y_E
+gã gã g_B ã_E
+gãi gãi g_B ã_I i_E
+gãy gãy g_B ã_I y_E
+gì gì g_B ì_E
+gìn gìn g_B ì_I n_E
+gò gò g_B ò_E
+gòn gòn g_B ò_I n_E
+góa góa g_B ó_I a_E
+góc góc g_B ó_I c_E
+gói gói g_B ó_I i_E
+góp góp g_B ó_I p_E
+gót gót g_B ó_I t_E
+gô gô g_B ô_E
+gôm gôm g_B ô_I m_E
+gôn gôn g_B ô_I n_E
+gông gông g_B ô_I n_I g_E
+gôrila gôrila g_B ô_I r_I i_I l_I a_E
+gõ gõ g_B õ_E
+gù gù g_B ù_E
+gùng gùng g_B ù_I n_I g_E
+găm găm g_B ă_I m_E
+găng găng g_B ă_I n_I g_E
+găp găp g_B ă_I p_E
+gũi gũi g_B ũ_I i_E
+gơ gơ g_B ơ_E
+gươm gươm g_B ư_I ơ_I m_E
+gương gương g_B ư_I ơ_I n_I g_E
+gườm gườm g_B ư_I ờ_I m_E
+gường gường g_B ư_I ờ_I n_I g_E
+gượm gượm g_B ư_I ợ_I m_E
+gượng gượng g_B ư_I ợ_I n_I g_E
+gạ gạ g_B ạ_E
+gạc gạc g_B ạ_I c_E
+gạch gạch g_B ạ_I c_I h_E
+gạn gạn g_B ạ_I n_E
+gạo gạo g_B ạ_I o_E
+gạt gạt g_B ạ_I t_E
+gả gả g_B ả_E
+gấc gấc g_B ấ_I c_E
+gấm gấm g_B ấ_I m_E
+gấp gấp g_B ấ_I p_E
+gấu gấu g_B ấ_I u_E
+gầm gầm g_B ầ_I m_E
+gần gần g_B ầ_I n_E
+gầu gầu g_B ầ_I u_E
+gầy gầy g_B ầ_I y_E
+gẫm gẫm g_B ẫ_I m_E
+gẫu gẫu g_B ẫ_I u_E
+gập gập g_B ậ_I p_E
+gật gật g_B ậ_I t_E
+gậy gậy g_B ậ_I y_E
+gắm gắm g_B ắ_I m_E
+gắn gắn g_B ắ_I n_E
+gắng gắng g_B ắ_I n_I g_E
+gắt gắt g_B ắ_I t_E
+gặm gặm g_B ặ_I m_E
+gặp gặp g_B ặ_I p_E
+gặt gặt g_B ặ_I t_E
+gỉ gỉ g_B ỉ_E
+gọi gọi g_B ọ_I i_E
+gọn gọn g_B ọ_I n_E
+gọt gọt g_B ọ_I t_E
+gỏi gỏi g_B ỏ_I i_E
+gốc gốc g_B ố_I c_E
+gối gối g_B ố_I i_E
+gốm gốm g_B ố_I m_E
+gồ gồ g_B ồ_E
+gồm gồm g_B ồ_I m_E
+gỗ gỗ g_B ỗ_E
+gộc gộc g_B ộ_I c_E
+gội gội g_B ộ_I i_E
+gột gột g_B ộ_I t_E
+gớm gớm g_B ớ_I m_E
+gở gở g_B ở_E
+gởi gởi g_B ở_I i_E
+gỡ gỡ g_B ỡ_E
+gợi gợi g_B ợ_I i_E
+gụ gụ g_B ụ_E
+gục gục g_B ụ_I c_E
+gừ gừ g_B ừ_E
+gừng gừng g_B ừ_I n_I g_E
+gửi gửi g_B ử_I i_E
+gữa gữa g_B ữ_I a_E
+h h h_S
+ha ha h_B a_E
+hai hai h_B a_I i_E
+halloeen halloeen h_B a_I l_I l_I o_I e_I e_I n_E
+ham ham h_B a_I m_E
+han han h_B a_I n_E
+hang hang h_B a_I n_I g_E
+hanh hanh h_B a_I n_I h_E
+hao hao h_B a_I o_E
+hay hay h_B a_I y_E
+heli heli h_B e_I l_I i_E
+hemoglobin hemoglobin h_B e_I m_I o_I g_I l_I o_I b_I i_I n_E
+hen hen h_B e_I n_E
+henry henry h_B e_I n_I r_I y_E
+heo heo h_B e_I o_E
+hera hera h_B e_I r_I a_E
+heung heung h_B e_I u_I n_I g_E
+hi hi h_B i_E
+hindu hindu h_B i_I n_I d_I u_E
+hit hit h_B i_I t_E
+hiu hiu h_B i_I u_E
+hiên hiên h_B i_I ê_I n_E
+hiđrô hiđrô h_B i_I đ_I r_I ô_E
+hiếm hiếm h_B i_I ế_I m_E
+hiến hiến h_B i_I ế_I n_E
+hiếng hiếng h_B i_I ế_I n_I g_E
+hiếp hiếp h_B i_I ế_I p_E
+hiếu hiếu h_B i_I ế_I u_E
+hiềm hiềm h_B i_I ề_I m_E
+hiền hiền h_B i_I ề_I n_E
+hiểm hiểm h_B i_I ể_I m_E
+hiển hiển h_B i_I ể_I n_E
+hiểu hiểu h_B i_I ể_I u_E
+hiện hiện h_B i_I ệ_I n_E
+hiệp hiệp h_B i_I ệ_I p_E
+hiệu hiệu h_B i_I ệ_I u_E
+ho ho h_B o_E
+hoa hoa h_B o_I a_E
+hoai hoai h_B o_I a_I i_E
+hoan hoan h_B o_I a_I n_E
+hoang hoang h_B o_I a_I n_I g_E
+hoc hoc h_B o_I c_E
+hoe hoe h_B o_I e_E
+hoen hoen h_B o_I e_I n_E
+hoi hoi h_B o_I i_E
+hom hom h_B o_I m_E
+hon hon h_B o_I n_E
+hong hong h_B o_I n_I g_E
+horions horions h_B o_I r_I i_I o_I n_I s_E
+hoà hoà h_B o_I à_E
+hoài hoài h_B o_I à_I i_E
+hoàn hoàn h_B o_I à_I n_E
+hoàng hoàng h_B o_I à_I n_I g_E
+hoành hoành h_B o_I à_I n_I h_E
+hoá hoá h_B o_I á_E
+hoãn hoãn h_B o_I ã_I n_E
+hoạ hoạ h_B o_I ạ_E
+hoạch hoạch h_B o_I ạ_I c_I h_E
+hoại hoại h_B o_I ạ_I i_E
+hoạn hoạn h_B o_I ạ_I n_E
+hoạt hoạt h_B o_I ạ_I t_E
+hoả hoả h_B o_I ả_E
+hoảng hoảng h_B o_I ả_I n_I g_E
+hoắc hoắc h_B o_I ắ_I c_E
+hoẵng hoẵng h_B o_I ẵ_I n_I g_E
+hoặc hoặc h_B o_I ặ_I c_E
+hu hu h_B u_E
+hugo hugo h_B u_I g_I o_E
+hun hun h_B u_I n_E
+hung hung h_B u_I n_I g_E
+huy huy h_B u_I y_E
+huynh huynh h_B u_I y_I n_I h_E
+huyên huyên h_B u_I y_I ê_I n_E
+huyết huyết h_B u_I y_I ế_I t_E
+huyền huyền h_B u_I y_I ề_I n_E
+huyềt huyềt h_B u_I y_I ề_I t_E
+huyện huyện h_B u_I y_I ệ_I n_E
+huân huân h_B u_I â_I n_E
+huýt huýt h_B u_I ý_I t_E
+huấn huấn h_B u_I ấ_I n_E
+huế huế h_B u_I ế_E
+huệ huệ h_B u_I ệ_E
+huống huống h_B u_I ố_I n_I g_E
+huỳnh huỳnh h_B u_I ỳ_I n_I h_E
+hy hy h_B y_E
+hyang hyang h_B y_I a_I n_I g_E
+hyrule hyrule h_B y_I r_I u_I l_I e_E
+hà hà h_B à_E
+hài hài h_B à_I i_E
+hàm hàm h_B à_I m_E
+hàn hàn h_B à_I n_E
+hàng hàng h_B à_I n_I g_E
+hành hành h_B à_I n_I h_E
+hào hào h_B à_I o_E
+hàu hàu h_B à_I u_E
+há há h_B á_E
+hách hách h_B á_I c_I h_E
+hái hái h_B á_I i_E
+hálibut hálibut h_B á_I l_I i_I b_I u_I t_E
+hám hám h_B á_I m_E
+hán hán h_B á_I n_E
+háo háo h_B á_I o_E
+hát hát h_B á_I t_E
+háu háu h_B á_I u_E
+háy háy h_B á_I y_E
+hâm hâm h_B â_I m_E
+hân hân h_B â_I n_E
+hâu hâu h_B â_I u_E
+hãi hãi h_B ã_I i_E
+hãm hãm h_B ã_I m_E
+hãn hãn h_B ã_I n_E
+hãng hãng h_B ã_I n_I g_E
+hãnh hãnh h_B ã_I n_I h_E
+hão hão h_B ã_I o_E
+hãy hãy h_B ã_I y_E
+hè hè h_B è_E
+hèn hèn h_B è_I n_E
+hé hé h_B é_E
+héo héo h_B é_I o_E
+hét hét h_B é_I t_E
+hê hê h_B ê_E
+hên hên h_B ê_I n_E
+hình hình h_B ì_I n_I h_E
+hí hí h_B í_E
+hích hích h_B í_I c_I h_E
+hít hít h_B í_I t_E
+hò hò h_B ò_E
+hòa hòa h_B ò_I a_E
+hòang hòang h_B ò_I a_I n_I g_E
+hòi hòi h_B ò_I i_E
+hòm hòm h_B ò_I m_E
+hòn hòn h_B ò_I n_E
+hòng hòng h_B ò_I n_I g_E
+hóa hóa h_B ó_I a_E
+hóc hóc h_B ó_I c_E
+hói hói h_B ó_I i_E
+hóm hóm h_B ó_I m_E
+hóng hóng h_B ó_I n_I g_E
+hóp hóp h_B ó_I p_E
+hót hót h_B ó_I t_E
+hô hô h_B ô_E
+hôi hôi h_B ô_I i_E
+hôm hôm h_B ô_I m_E
+hôn hôn h_B ô_I n_E
+hông hông h_B ô_I n_I g_E
+hõm hõm h_B õ_I m_E
+hùm hùm h_B ù_I m_E
+hùng hùng h_B ù_I n_I g_E
+hú hú h_B ú_E
+húc húc h_B ú_I c_E
+húi húi h_B ú_I i_E
+húng húng h_B ú_I n_I g_E
+húp húp h_B ú_I p_E
+hút hút h_B ú_I t_E
+húych húych h_B ú_I y_I c_I h_E
+hý hý h_B ý_E
+hăm hăm h_B ă_I m_E
+hăng hăng h_B ă_I n_I g_E
+hĩnh hĩnh h_B ĩ_I n_I h_E
+hũ hũ h_B ũ_E
+hũm hũm h_B ũ_I m_E
+hơ hơ h_B ơ_E
+hơi hơi h_B ơ_I i_E
+hơn hơn h_B ơ_I n_E
+hư hư h_B ư_E
+hưng hưng h_B ư_I n_I g_E
+hưu hưu h_B ư_I u_E
+hương hương h_B ư_I ơ_I n_I g_E
+hươu hươu h_B ư_I ơ_I u_E
+hước hước h_B ư_I ớ_I c_E
+hướng hướng h_B ư_I ớ_I n_I g_E
+hường hường h_B ư_I ờ_I n_I g_E
+hưởng hưởng h_B ư_I ở_I n_I g_E
+hạ hạ h_B ạ_E
+hạc hạc h_B ạ_I c_E
+hạch hạch h_B ạ_I c_I h_E
+hại hại h_B ạ_I i_E
+hạm hạm h_B ạ_I m_E
+hạn hạn h_B ạ_I n_E
+hạng hạng h_B ạ_I n_I g_E
+hạnh hạnh h_B ạ_I n_I h_E
+hạo hạo h_B ạ_I o_E
+hạt hạt h_B ạ_I t_E
+hả hả h_B ả_E
+hải hải h_B ả_I i_E
+hảo hảo h_B ả_I o_E
+hảy hảy h_B ả_I y_E
+hấn hấn h_B ấ_I n_E
+hấp hấp h_B ấ_I p_E
+hất hất h_B ấ_I t_E
+hấu hấu h_B ấ_I u_E
+hầm hầm h_B ầ_I m_E
+hầu hầu h_B ầ_I u_E
+hẩm hẩm h_B ẩ_I m_E
+hẩu hẩu h_B ẩ_I u_E
+hẫng hẫng h_B ẫ_I n_I g_E
+hận hận h_B ậ_I n_E
+hậu hậu h_B ậ_I u_E
+hắc hắc h_B ắ_I c_E
+hắn hắn h_B ắ_I n_E
+hắt hắt h_B ắ_I t_E
+hằng hằng h_B ằ_I n_I g_E
+hẳn hẳn h_B ẳ_I n_E
+hẹn hẹn h_B ẹ_I n_E
+hẹp hẹp h_B ẹ_I p_E
+hẻm hẻm h_B ẻ_I m_E
+hẻo hẻo h_B ẻ_I o_E
+hếch hếch h_B ế_I c_I h_E
+hết hết h_B ế_I t_E
+hề hề h_B ề_E
+hể hể h_B ể_E
+hểm hểm h_B ể_I m_E
+hển hển h_B ể_I n_E
+hễ hễ h_B ễ_E
+hệ hệ h_B ệ_E
+hệt hệt h_B ệ_I t_E
+hỉnh hỉnh h_B ỉ_I n_I h_E
+họ họ h_B ọ_E
+họa họa h_B ọ_I a_E
+học học h_B ọ_I c_E
+họng họng h_B ọ_I n_I g_E
+họp họp h_B ọ_I p_E
+hỏa hỏa h_B ỏ_I a_E
+hỏi hỏi h_B ỏ_I i_E
+hỏn hỏn h_B ỏ_I n_E
+hỏng hỏng h_B ỏ_I n_I g_E
+hố hố h_B ố_E
+hốc hốc h_B ố_I c_E
+hối hối h_B ố_I i_E
+hốt hốt h_B ố_I t_E
+hồ hồ h_B ồ_E
+hồi hồi h_B ồ_I i_E
+hồn hồn h_B ồ_I n_E
+hồng hồng h_B ồ_I n_I g_E
+hổ hổ h_B ổ_E
+hổi hổi h_B ổ_I i_E
+hổn hổn h_B ổ_I n_E
+hổng hổng h_B ổ_I n_I g_E
+hỗ hỗ h_B ỗ_E
+hỗn hỗn h_B ỗ_I n_E
+hộ hộ h_B ộ_E
+hộc hộc h_B ộ_I c_E
+hội hội h_B ộ_I i_E
+hộp hộp h_B ộ_I p_E
+hột hột h_B ộ_I t_E
+hớ hớ h_B ớ_E
+hới hới h_B ớ_I i_E
+hớn hớn h_B ớ_I n_E
+hớp hớp h_B ớ_I p_E
+hớt hớt h_B ớ_I t_E
+hờ hờ h_B ờ_E
+hời hời h_B ờ_I i_E
+hờn hờn h_B ờ_I n_E
+hở hở h_B ở_E
+hởi hởi h_B ở_I i_E
+hỡi hỡi h_B ỡ_I i_E
+hợm hợm h_B ợ_I m_E
+hợp hợp h_B ợ_I p_E
+hợt hợt h_B ợ_I t_E
+hụ hụ h_B ụ_E
+hục hục h_B ụ_I c_E
+hụp hụp h_B ụ_I p_E
+hụt hụt h_B ụ_I t_E
+hủ hủ h_B ủ_E
+hủi hủi h_B ủ_I i_E
+hủy hủy h_B ủ_I y_E
+hứa hứa h_B ứ_I a_E
+hức hức h_B ứ_I c_E
+hứng hứng h_B ứ_I n_I g_E
+hừ hừ h_B ừ_E
+hử hử h_B ử_E
+hửng hửng h_B ử_I n_I g_E
+hững hững h_B ữ_I n_I g_E
+hữu hữu h_B ữ_I u_E
+hỷ hỷ h_B ỷ_E
+i i i_S
+ia ia i_B a_E
+ign ign i_B g_I n_E
+ii ii i_B i_E
+im im i_B m_E
+in in i_B n_E
+inh inh i_B n_I h_E
+internet internet i_B n_I t_I e_I r_I n_I e_I t_E
+intơnét intơnét i_B n_I t_I ơ_I n_I é_I t_E
+io io i_B o_E
+ipad ipad i_B p_I a_I d_E
+iphone iphone i_B p_I h_I o_I n_I e_E
+irst irst i_B r_I s_I t_E
+isis isis i_B s_I i_I s_E
+it it i_B t_E
+iêm iêm i_B ê_I m_E
+iếng iếng i_B ế_I n_I g_E
+ja ja j_B a_E
+jack jack j_B a_I c_I k_E
+jean jean j_B e_I a_I n_E
+jeok jeok j_B e_I o_I k_E
+jeon jeon j_B e_I o_I n_E
+ju ju j_B u_E
+jvc jvc j_B v_I c_E
+k k k_S
+ke ke k_B e_E
+kem kem k_B e_I m_E
+keo keo k_B e_I o_E
+kepler kepler k_B e_I p_I l_I e_I r_E
+kha kha k_B h_I a_E
+khai khai k_B h_I a_I i_E
+khan khan k_B h_I a_I n_E
+khang khang k_B h_I a_I n_I g_E
+khanh khanh k_B h_I a_I n_I h_E
+khao khao k_B h_I a_I o_E
+khay khay k_B h_I a_I y_E
+khe khe k_B h_I e_E
+khen khen k_B h_I e_I n_E
+khenti khenti k_B h_I e_I n_I t_I i_E
+kheo kheo k_B h_I e_I o_E
+khi khi k_B h_I i_E
+khinh khinh k_B h_I i_I n_I h_E
+khiên khiên k_B h_I i_I ê_I n_E
+khiêu khiêu k_B h_I i_I ê_I u_E
+khiến khiến k_B h_I i_I ế_I n_E
+khiếp khiếp k_B h_I i_I ế_I p_E
+khiết khiết k_B h_I i_I ế_I t_E
+khiếu khiếu k_B h_I i_I ế_I u_E
+khiền khiền k_B h_I i_I ề_I n_E
+khiển khiển k_B h_I i_I ể_I n_E
+kho kho k_B h_I o_E
+khoa khoa k_B h_I o_I a_E
+khoai khoai k_B h_I o_I a_I i_E
+khoan khoan k_B h_I o_I a_I n_E
+khoang khoang k_B h_I o_I a_I n_I g_E
+khoanh khoanh k_B h_I o_I a_I n_I h_E
+khoe khoe k_B h_I o_I e_E
+khoeo khoeo k_B h_I o_I e_I o_E
+khom khom k_B h_I o_I m_E
+khoá khoá k_B h_I o_I á_E
+khoác khoác k_B h_I o_I á_I c_E
+khoái khoái k_B h_I o_I á_I i_E
+khoán khoán k_B h_I o_I á_I n_E
+khoáng khoáng k_B h_I o_I á_I n_I g_E
+khoát khoát k_B h_I o_I á_I t_E
+khoáy khoáy k_B h_I o_I á_I y_E
+khoèo khoèo k_B h_I o_I è_I o_E
+khoét khoét k_B h_I o_I é_I t_E
+khoăm khoăm k_B h_I o_I ă_I m_E
+khoăn khoăn k_B h_I o_I ă_I n_E
+khoả khoả k_B h_I o_I ả_E
+khoải khoải k_B h_I o_I ả_I i_E
+khoản khoản k_B h_I o_I ả_I n_E
+khoảng khoảng k_B h_I o_I ả_I n_I g_E
+khoảnh khoảnh k_B h_I o_I ả_I n_I h_E
+khoắn khoắn k_B h_I o_I ắ_I n_E
+khoắng khoắng k_B h_I o_I ắ_I n_I g_E
+khoẳm khoẳm k_B h_I o_I ẳ_I m_E
+khoẻ khoẻ k_B h_I o_I ẻ_E
+khu khu k_B h_I u_E
+khua khua k_B h_I u_I a_E
+khui khui k_B h_I u_I i_E
+khung khung k_B h_I u_I n_I g_E
+khuy khuy k_B h_I u_I y_E
+khuya khuya k_B h_I u_I y_I a_E
+khuynh khuynh k_B h_I u_I y_I n_I h_E
+khuyên khuyên k_B h_I u_I y_I ê_I n_E
+khuyến khuyến k_B h_I u_I y_I ế_I n_E
+khuyết khuyết k_B h_I u_I y_I ế_I t_E
+khuyển khuyển k_B h_I u_I y_I ể_I n_E
+khuân khuân k_B h_I u_I â_I n_E
+khuây khuây k_B h_I u_I â_I y_E
+khuê khuê k_B h_I u_I ê_E
+khuôn khuôn k_B h_I u_I ô_I n_E
+khuấy khuấy k_B h_I u_I ấ_I y_E
+khuẩn khuẩn k_B h_I u_I ẩ_I n_E
+khuếch khuếch k_B h_I u_I ế_I c_I h_E
+khuỵu khuỵu k_B h_I u_I ỵ_I u_E
+khuỷu khuỷu k_B h_I u_I ỷ_I u_E
+khà khà k_B h_I à_E
+khàn khàn k_B h_I à_I n_E
+khá khá k_B h_I á_E
+khác khác k_B h_I á_I c_E
+khách khách k_B h_I á_I c_I h_E
+khái khái k_B h_I á_I i_E
+khám khám k_B h_I á_I m_E
+khán khán k_B h_I á_I n_E
+kháng kháng k_B h_I á_I n_I g_E
+khánh khánh k_B h_I á_I n_I h_E
+kháo kháo k_B h_I á_I o_E
+kháp kháp k_B h_I á_I p_E
+khát khát k_B h_I á_I t_E
+kháu kháu k_B h_I á_I u_E
+khâm khâm k_B h_I â_I m_E
+khâu khâu k_B h_I â_I u_E
+khè khè k_B h_I è_E
+khé khé k_B h_I é_E
+khéo khéo k_B h_I é_I o_E
+khép khép k_B h_I é_I p_E
+khét khét k_B h_I é_I t_E
+khê khê k_B h_I ê_E
+khênh khênh k_B h_I ê_I n_I h_E
+khêu khêu k_B h_I ê_I u_E
+khì khì k_B h_I ì_E
+khí khí k_B h_I í_E
+khía khía k_B h_I í_I a_E
+khích khích k_B h_I í_I c_I h_E
+khít khít k_B h_I í_I t_E
+khò khò k_B h_I ò_E
+khòng khòng k_B h_I ò_I n_I g_E
+khó khó k_B h_I ó_E
+khóa khóa k_B h_I ó_I a_E
+khóc khóc k_B h_I ó_I c_E
+khóe khóe k_B h_I ó_I e_E
+khóet khóet k_B h_I ó_I e_I t_E
+khói khói k_B h_I ó_I i_E
+khóm khóm k_B h_I ó_I m_E
+khô khô k_B h_I ô_E
+khôi khôi k_B h_I ô_I i_E
+khôn khôn k_B h_I ô_I n_E
+không không k_B h_I ô_I n_I g_E
+khùng khùng k_B h_I ù_I n_I g_E
+khúc khúc k_B h_I ú_I c_E
+khúm khúm k_B h_I ú_I m_E
+khăn khăn k_B h_I ă_I n_E
+khăng khăng k_B h_I ă_I n_I g_E
+khĩnh khĩnh k_B h_I ĩ_I n_I h_E
+khơi khơi k_B h_I ơ_I i_E
+khơme khơme k_B h_I ơ_I m_I e_E
+khư khư k_B h_I ư_E
+khưu khưu k_B h_I ư_I u_E
+khương khương k_B h_I ư_I ơ_I n_I g_E
+khạc khạc k_B h_I ạ_I c_E
+khạng khạng k_B h_I ạ_I n_I g_E
+khả khả k_B h_I ả_E
+khải khải k_B h_I ả_I i_E
+khảm khảm k_B h_I ả_I m_E
+khản khản k_B h_I ả_I n_E
+khảo khảo k_B h_I ả_I o_E
+khấc khấc k_B h_I ấ_I c_E
+khấn khấn k_B h_I ấ_I n_E
+khấp khấp k_B h_I ấ_I p_E
+khấu khấu k_B h_I ấ_I u_E
+khẩn khẩn k_B h_I ẩ_I n_E
+khẩu khẩu k_B h_I ẩ_I u_E
+khắc khắc k_B h_I ắ_I c_E
+khắm khắm k_B h_I ắ_I m_E
+khắp khắp k_B h_I ắ_I p_E
+khắt khắt k_B h_I ắ_I t_E
+khẳng khẳng k_B h_I ẳ_I n_I g_E
+khẽ khẽ k_B h_I ẽ_E
+khế khế k_B h_I ế_E
+khề khề k_B h_I ề_E
+khệ khệ k_B h_I ệ_E
+khệnh khệnh k_B h_I ệ_I n_I h_E
+khỉ khỉ k_B h_I ỉ_E
+khịt khịt k_B h_I ị_I t_E
+khọm khọm k_B h_I ọ_I m_E
+khọt khọt k_B h_I ọ_I t_E
+khỏ khỏ k_B h_I ỏ_E
+khỏe khỏe k_B h_I ỏ_I e_E
+khỏi khỏi k_B h_I ỏ_I i_E
+khố khố k_B h_I ố_E
+khốc khốc k_B h_I ố_I c_E
+khối khối k_B h_I ố_I i_E
+khốn khốn k_B h_I ố_I n_E
+khống khống k_B h_I ố_I n_I g_E
+khổ khổ k_B h_I ổ_E
+khổn khổn k_B h_I ổ_I n_E
+khổng khổng k_B h_I ổ_I n_I g_E
+khớ khớ k_B h_I ớ_E
+khớp khớp k_B h_I ớ_I p_E
+khờ khờ k_B h_I ờ_E
+khởi khởi k_B h_I ở_I i_E
+khụ khụ k_B h_I ụ_E
+khủng khủng k_B h_I ủ_I n_I g_E
+khứ khứ k_B h_I ứ_E
+khử khử k_B h_I ử_E
+ki ki k_B i_E
+kia kia k_B i_I a_E
+kilôgam kilôgam k_B i_I l_I ô_I g_I a_I m_E
+kilômét kilômét k_B i_I l_I ô_I m_I é_I t_E
+kim kim k_B i_I m_E
+kinh kinh k_B i_I n_I h_E
+kip kip k_B i_I p_E
+kiêm kiêm k_B i_I ê_I m_E
+kiên kiên k_B i_I ê_I n_E
+kiêng kiêng k_B i_I ê_I n_I g_E
+kiêu kiêu k_B i_I ê_I u_E
+kiếm kiếm k_B i_I ế_I m_E
+kiến kiến k_B i_I ế_I n_E
+kiếp kiếp k_B i_I ế_I p_E
+kiết kiết k_B i_I ế_I t_E
+kiếu kiếu k_B i_I ế_I u_E
+kiềm kiềm k_B i_I ề_I m_E
+kiền kiền k_B i_I ề_I n_E
+kiềng kiềng k_B i_I ề_I n_I g_E
+kiều kiều k_B i_I ề_I u_E
+kiểm kiểm k_B i_I ể_I m_E
+kiểng kiểng k_B i_I ể_I n_I g_E
+kiểu kiểu k_B i_I ể_I u_E
+kiệm kiệm k_B i_I ệ_I m_E
+kiện kiện k_B i_I ệ_I n_E
+kiệt kiệt k_B i_I ệ_I t_E
+kiệu kiệu k_B i_I ệ_I u_E
+km km k_B m_E
+kon kon k_B o_I n_E
+kong kong k_B o_I n_I g_E
+koon koon k_B o_I o_I n_E
+kè kè k_B è_E
+kèm kèm k_B è_I m_E
+kèn kèn k_B è_I n_E
+kèo kèo k_B è_I o_E
+kém kém k_B é_I m_E
+kén kén k_B é_I n_E
+kéo kéo k_B é_I o_E
+kép kép k_B é_I p_E
+két két k_B é_I t_E
+kétish kétish k_B é_I t_I i_I s_I h_E
+kê kê k_B ê_E
+kênh kênh k_B ê_I n_I h_E
+kêu kêu k_B ê_I u_E
+kì kì k_B ì_E
+kìa kìa k_B ì_I a_E
+kìm kìm k_B ì_I m_E
+kí kí k_B í_E
+kích kích k_B í_I c_I h_E
+kín kín k_B í_I n_E
+kính kính k_B í_I n_I h_E
+kíp kíp k_B í_I p_E
+kô kô k_B ô_E
+kông kông k_B ô_I n_I g_E
+ký ký k_B ý_E
+kĩ kĩ k_B ĩ_E
+kạn kạn k_B ạ_I n_E
+kẹ kẹ k_B ẹ_E
+kẹo kẹo k_B ẹ_I o_E
+kẹp kẹp k_B ẹ_I p_E
+kẹt kẹt k_B ẹ_I t_E
+kẻ kẻ k_B ẻ_E
+kẻn kẻn k_B ẻ_I n_E
+kẻo kẻo k_B ẻ_I o_E
+kẽm kẽm k_B ẽ_I m_E
+kế kế k_B ế_E
+kết kết k_B ế_I t_E
+kề kề k_B ề_E
+kền kền k_B ề_I n_E
+kềnh kềnh k_B ề_I n_I h_E
+kể kể k_B ể_E
+kễnh kễnh k_B ễ_I n_I h_E
+kệ kệ k_B ệ_E
+kệch kệch k_B ệ_I c_I h_E
+kỉ kỉ k_B ỉ_E
+kị kị k_B ị_E
+kịch kịch k_B ị_I c_I h_E
+kịp kịp k_B ị_I p_E
+kỳ kỳ k_B ỳ_E
+kỵ kỵ k_B ỵ_E
+kỷ kỷ k_B ỷ_E
+kỹ kỹ k_B ỹ_E
+l l l_S
+la la l_B a_E
+lai lai l_B a_I i_E
+lam lam l_B a_I m_E
+lan lan l_B a_I n_E
+lang lang l_B a_I n_I g_E
+lanh lanh l_B a_I n_I h_E
+lao lao l_B a_I o_E
+lau lau l_B a_I u_E
+le le l_B e_E
+lee lee l_B e_I e_E
+legend legend l_B e_I g_I e_I n_I d_E
+lem lem l_B e_I m_E
+len len l_B e_I n_E
+leo leo l_B e_I o_E
+li li l_B i_E
+lim lim l_B i_I m_E
+linh linh l_B i_I n_I h_E
+link link l_B i_I n_I k_E
+liti liti l_B i_I t_I i_E
+liêm liêm l_B i_I ê_I m_E
+liên liên l_B i_I ê_I n_E
+liêng liêng l_B i_I ê_I n_I g_E
+liêu liêu l_B i_I ê_I u_E
+liếc liếc l_B i_I ế_I c_E
+liếm liếm l_B i_I ế_I m_E
+liến liến l_B i_I ế_I n_E
+liếp liếp l_B i_I ế_I p_E
+liềm liềm l_B i_I ề_I m_E
+liền liền l_B i_I ề_I n_E
+liều liều l_B i_I ề_I u_E
+liễu liễu l_B i_I ễ_I u_E
+liệng liệng l_B i_I ệ_I n_I g_E
+liệt liệt l_B i_I ệ_I t_E
+liệu liệu l_B i_I ệ_I u_E
+lo lo l_B o_E
+loa loa l_B o_I a_E
+loan loan l_B o_I a_I n_E
+loang loang l_B o_I a_I n_I g_E
+loi loi l_B o_I i_E
+lon lon l_B o_I n_E
+long long l_B o_I n_I g_E
+loài loài l_B o_I à_I i_E
+loáng loáng l_B o_I á_I n_I g_E
+loát loát l_B o_I á_I t_E
+loét loét l_B o_I é_I t_E
+loại loại l_B o_I ạ_I i_E
+loạn loạn l_B o_I ạ_I n_E
+loạt loạt l_B o_I ạ_I t_E
+loảng loảng l_B o_I ả_I n_I g_E
+lu lu l_B u_E
+lua lua l_B u_I a_E
+lung lung l_B u_I n_I g_E
+lut lut l_B u_I t_E
+luyến luyến l_B u_I y_I ế_I n_E
+luyện luyện l_B u_I y_I ệ_I n_E
+luân luân l_B u_I â_I n_E
+luôn luôn l_B u_I ô_I n_E
+luận luận l_B u_I ậ_I n_E
+luật luật l_B u_I ậ_I t_E
+luống luống l_B u_I ố_I n_I g_E
+luồn luồn l_B u_I ồ_I n_E
+luồng luồng l_B u_I ồ_I n_I g_E
+luộc luộc l_B u_I ộ_I c_E
+luộm luộm l_B u_I ộ_I m_E
+luỵ luỵ l_B u_I ỵ_E
+ly ly l_B y_E
+là là l_B à_E
+làm làm l_B à_I m_E
+làn làn l_B à_I n_E
+làng làng l_B à_I n_I g_E
+lành lành l_B à_I n_I h_E
+lào lào l_B à_I o_E
+lá lá l_B á_E
+lác lác l_B á_I c_E
+lách lách l_B á_I c_I h_E
+lái lái l_B á_I i_E
+lán lán l_B á_I n_E
+láng láng l_B á_I n_I g_E
+lánh lánh l_B á_I n_I h_E
+láo láo l_B á_I o_E
+lát lát l_B á_I t_E
+láu láu l_B á_I u_E
+lâm lâm l_B â_I m_E
+lân lân l_B â_I n_E
+lâu lâu l_B â_I u_E
+lây lây l_B â_I y_E
+lã lã l_B ã_E
+lãi lãi l_B ã_I i_E
+lãng lãng l_B ã_I n_I g_E
+lãnh lãnh l_B ã_I n_I h_E
+lão lão l_B ã_I o_E
+lè lè l_B è_E
+lèo lèo l_B è_I o_E
+léo léo l_B é_I o_E
+lét lét l_B é_I t_E
+lê lê l_B ê_E
+lên lên l_B ê_I n_E
+lêu lêu l_B ê_I u_E
+lì lì l_B ì_E
+lìa lìa l_B ì_I a_E
+lí lí l_B í_E
+lính lính l_B í_I n_I h_E
+líp líp l_B í_I p_E
+lít lít l_B í_I t_E
+líu líu l_B í_I u_E
+lò lò l_B ò_E
+lòa lòa l_B ò_I a_E
+lòe lòe l_B ò_I e_E
+lòi lòi l_B ò_I i_E
+lòng lòng l_B ò_I n_I g_E
+ló ló l_B ó_E
+lóa lóa l_B ó_I a_E
+lóbstơ lóbstơ l_B ó_I b_I s_I t_I ơ_E
+lóc lóc l_B ó_I c_E
+lóng lóng l_B ó_I n_I g_E
+lót lót l_B ó_I t_E
+lô lô l_B ô_E
+lôi lôi l_B ô_I i_E
+lôm lôm l_B ô_I m_E
+lông lông l_B ô_I n_I g_E
+lõi lõi l_B õ_I i_E
+lõm lõm l_B õ_I m_E
+lù lù l_B ù_E
+lùa lùa l_B ù_I a_E
+lùi lùi l_B ù_I i_E
+lùm lùm l_B ù_I m_E
+lùn lùn l_B ù_I n_E
+lùng lùng l_B ù_I n_I g_E
+lúa lúa l_B ú_I a_E
+lúc lúc l_B ú_I c_E
+lún lún l_B ú_I n_E
+lúp lúp l_B ú_I p_E
+lý lý l_B ý_E
+lăm lăm l_B ă_I m_E
+lăn lăn l_B ă_I n_E
+lăng lăng l_B ă_I n_I g_E
+lĩnh lĩnh l_B ĩ_I n_I h_E
+lũ lũ l_B ũ_E
+lũa lũa l_B ũ_I a_E
+lũi lũi l_B ũ_I i_E
+lũng lũng l_B ũ_I n_I g_E
+lũy lũy l_B ũ_I y_E
+lơ lơ l_B ơ_E
+lơn lơn l_B ơ_I n_E
+lư lư l_B ư_E
+lưc lưc l_B ư_I c_E
+lưng lưng l_B ư_I n_I g_E
+lưu lưu l_B ư_I u_E
+lươn lươn l_B ư_I ơ_I n_E
+lương lương l_B ư_I ơ_I n_I g_E
+lưới lưới l_B ư_I ớ_I i_E
+lướt lướt l_B ư_I ớ_I t_E
+lười lười l_B ư_I ờ_I i_E
+lường lường l_B ư_I ờ_I n_I g_E
+lưỡi lưỡi l_B ư_I ỡ_I i_E
+lưỡng lưỡng l_B ư_I ỡ_I n_I g_E
+lược lược l_B ư_I ợ_I c_E
+lượm lượm l_B ư_I ợ_I m_E
+lượn lượn l_B ư_I ợ_I n_E
+lượng lượng l_B ư_I ợ_I n_I g_E
+lượt lượt l_B ư_I ợ_I t_E
+lạ lạ l_B ạ_E
+lạc lạc l_B ạ_I c_E
+lại lại l_B ạ_I i_E
+lạm lạm l_B ạ_I m_E
+lạn lạn l_B ạ_I n_E
+lạng lạng l_B ạ_I n_I g_E
+lạnh lạnh l_B ạ_I n_I h_E
+lạo lạo l_B ạ_I o_E
+lạp lạp l_B ạ_I p_E
+lạt lạt l_B ạ_I t_E
+lạy lạy l_B ạ_I y_E
+lả lả l_B ả_E
+lảng lảng l_B ả_I n_I g_E
+lảo lảo l_B ả_I o_E
+lấm lấm l_B ấ_I m_E
+lấp lấp l_B ấ_I p_E
+lất lất l_B ấ_I t_E
+lấy lấy l_B ấ_I y_E
+lầm lầm l_B ầ_I m_E
+lần lần l_B ầ_I n_E
+lầu lầu l_B ầ_I u_E
+lầy lầy l_B ầ_I y_E
+lẩu lẩu l_B ẩ_I u_E
+lẫm lẫm l_B ẫ_I m_E
+lẫn lẫn l_B ẫ_I n_E
+lận lận l_B ậ_I n_E
+lập lập l_B ậ_I p_E
+lật lật l_B ậ_I t_E
+lậu lậu l_B ậ_I u_E
+lắc lắc l_B ắ_I c_E
+lắk lắk l_B ắ_I k_E
+lắm lắm l_B ắ_I m_E
+lắng lắng l_B ắ_I n_I g_E
+lắp lắp l_B ắ_I p_E
+lắt lắt l_B ắ_I t_E
+lằm lằm l_B ằ_I m_E
+lằn lằn l_B ằ_I n_E
+lặc lặc l_B ặ_I c_E
+lặn lặn l_B ặ_I n_E
+lặng lặng l_B ặ_I n_I g_E
+lặp lặp l_B ặ_I p_E
+lẹ lẹ l_B ẹ_E
+lẹo lẹo l_B ẹ_I o_E
+lẻ lẻ l_B ẻ_E
+lẻng lẻng l_B ẻ_I n_I g_E
+lẻo lẻo l_B ẻ_I o_E
+lẽ lẽ l_B ẽ_E
+lẽn lẽn l_B ẽ_I n_E
+lết lết l_B ế_I t_E
+lề lề l_B ề_E
+lều lều l_B ề_I u_E
+lễ lễ l_B ễ_E
+lệ lệ l_B ệ_E
+lệch lệch l_B ệ_I c_I h_E
+lệnh lệnh l_B ệ_I n_I h_E
+lỉnh lỉnh l_B ỉ_I n_I h_E
+lịch lịch l_B ị_I c_I h_E
+lịm lịm l_B ị_I m_E
+lọ lọ l_B ọ_E
+lọai lọai l_B ọ_I a_I i_E
+lọc lọc l_B ọ_I c_E
+lọi lọi l_B ọ_I i_E
+lọng lọng l_B ọ_I n_I g_E
+lọt lọt l_B ọ_I t_E
+lỏm lỏm l_B ỏ_I m_E
+lỏn lỏn l_B ỏ_I n_E
+lỏng lỏng l_B ỏ_I n_I g_E
+lốc lốc l_B ố_I c_E
+lối lối l_B ố_I i_E
+lốp lốp l_B ố_I p_E
+lốt lốt l_B ố_I t_E
+lồ lồ l_B ồ_E
+lồi lồi l_B ồ_I i_E
+lồn lồn l_B ồ_I n_E
+lồng lồng l_B ồ_I n_I g_E
+lổ lổ l_B ổ_E
+lỗ lỗ l_B ỗ_E
+lỗi lỗi l_B ỗ_I i_E
+lộ lộ l_B ộ_E
+lộc lộc l_B ộ_I c_E
+lội lội l_B ộ_I i_E
+lộn lộn l_B ộ_I n_E
+lột lột l_B ộ_I t_E
+lớn lớn l_B ớ_I n_E
+lớp lớp l_B ớ_I p_E
+lớt lớt l_B ớ_I t_E
+lờ lờ l_B ờ_E
+lời lời l_B ờ_I i_E
+lờn lờn l_B ờ_I n_E
+lở lở l_B ở_E
+lởm lởm l_B ở_I m_E
+lởn lởn l_B ở_I n_E
+lỡ lỡ l_B ỡ_E
+lợi lợi l_B ợ_I i_E
+lợivòm lợivòm l_B ợ_I i_I v_I ò_I m_E
+lợm lợm l_B ợ_I m_E
+lợn lợn l_B ợ_I n_E
+lợp lợp l_B ợ_I p_E
+lợt lợt l_B ợ_I t_E
+lụa lụa l_B ụ_I a_E
+lục lục l_B ụ_I c_E
+lụt lụt l_B ụ_I t_E
+lụy lụy l_B ụ_I y_E
+lủng lủng l_B ủ_I n_I g_E
+lứu lứu l_B ứ_I u_E
+lừa lừa l_B ừ_I a_E
+lửa lửa l_B ử_I a_E
+lữ lữ l_B ữ_E
+lững lững l_B ữ_I n_I g_E
+lựa lựa l_B ự_I a_E
+lực lực l_B ự_I c_E
+lựp lựp l_B ự_I p_E
+lựu lựu l_B ự_I u_E
+lỵ lỵ l_B ỵ_E
+m m m_S
+ma ma m_B a_E
+mai mai m_B a_I i_E
+maithu maithu m_B a_I i_I t_I h_I u_E
+mang mang m_B a_I n_I g_E
+manga manga m_B a_I n_I g_I a_E
+manh manh m_B a_I n_I h_E
+manila manila m_B a_I n_I i_I l_I a_E
+mao mao m_B a_I o_E
+mario mario m_B a_I r_I i_I o_E
+mary mary m_B a_I r_I y_E
+mau mau m_B a_I u_E
+maxim maxim m_B a_I x_I i_I m_E
+may may m_B a_I y_E
+me me m_B e_E
+melbourne melbourne m_B e_I l_I b_I o_I u_I r_I n_I e_E
+men men m_B e_I n_E
+mexico mexico m_B e_I x_I i_I c_I o_E
+mi mi m_B i_E
+micờrô micờrô m_B i_I c_I ờ_I r_I ô_E
+minh minh m_B i_I n_I h_E
+miyamoto miyamoto m_B i_I y_I a_I m_I o_I t_I o_E
+miên miên m_B i_I ê_I n_E
+miêu miêu m_B i_I ê_I u_E
+miến miến m_B i_I ế_I n_E
+miếng miếng m_B i_I ế_I n_I g_E
+miết miết m_B i_I ế_I t_E
+miền miền m_B i_I ề_I n_E
+miễn miễn m_B i_I ễ_I n_E
+miễng miễng m_B i_I ễ_I n_I g_E
+miện miện m_B i_I ệ_I n_E
+miệng miệng m_B i_I ệ_I n_I g_E
+miệt miệt m_B i_I ệ_I t_E
+mo mo m_B o_E
+moi moi m_B o_I i_E
+mong mong m_B o_I n_I g_E
+mongnyong mongnyong m_B o_I n_I g_I n_I y_I o_I n_I g_E
+morse morse m_B o_I r_I s_I e_E
+mu mu m_B u_E
+mua mua m_B u_I a_E
+mul mul m_B u_I l_E
+muôn muôn m_B u_I ô_I n_E
+muối muối m_B u_I ố_I i_E
+muốn muốn m_B u_I ố_I n_E
+muống muống m_B u_I ố_I n_I g_E
+muỗi muỗi m_B u_I ỗ_I i_E
+muỗng muỗng m_B u_I ỗ_I n_I g_E
+muội muội m_B u_I ộ_I i_E
+muộn muộn m_B u_I ộ_I n_E
+muời muời m_B u_I ờ_I i_E
+my my m_B y_E
+mà mà m_B à_E
+mài mài m_B à_I i_E
+màn màn m_B à_I n_E
+màng màng m_B à_I n_I g_E
+mành mành m_B à_I n_I h_E
+mào mào m_B à_I o_E
+màu màu m_B à_I u_E
+mày mày m_B à_I y_E
+má má m_B á_E
+mách mách m_B á_I c_I h_E
+mái mái m_B á_I i_E
+mán mán m_B á_I n_E
+máng máng m_B á_I n_I g_E
+mánh mánh m_B á_I n_I h_E
+mát mát m_B á_I t_E
+mátcơva mátcơva m_B á_I t_I c_I ơ_I v_I a_E
+máu máu m_B á_I u_E
+máy máy m_B á_I y_E
+mâ mâ m_B â_E
+mâm mâm m_B â_I m_E
+mâu mâu m_B â_I u_E
+mây mây m_B â_I y_E
+mã mã m_B ã_E
+mãi mãi m_B ã_I i_E
+mãn mãn m_B ã_I n_E
+mãnh mãnh m_B ã_I n_I h_E
+mè mè m_B è_E
+mèo mèo m_B è_I o_E
+mé mé m_B é_E
+méo méo m_B é_I o_E
+mép mép m_B é_I p_E
+mét mét m_B é_I t_E
+mê mê m_B ê_E
+mêkong mêkong m_B ê_I k_I o_I n_I g_E
+mì mì m_B ì_E
+mìn mìn m_B ì_I n_E
+mình mình m_B ì_I n_I h_E
+mí mí m_B í_E
+mía mía m_B í_I a_E
+mích mích m_B í_I c_I h_E
+mít mít m_B í_I t_E
+míu míu m_B í_I u_E
+mînh mînh m_B î_I n_I h_E
+mò mò m_B ò_E
+mòi mòi m_B ò_I i_E
+mòn mòn m_B ò_I n_E
+mòng mòng m_B ò_I n_I g_E
+mó mó m_B ó_E
+móc móc m_B ó_I c_E
+món món m_B ó_I n_E
+móng móng m_B ó_I n_I g_E
+móp móp m_B ó_I p_E
+mót mót m_B ó_I t_E
+mô mô m_B ô_E
+môi môi m_B ô_I i_E
+môivòm môivòm m_B ô_I i_I v_I ò_I m_E
+môn môn m_B ô_I n_E
+mông mông m_B ô_I n_I g_E
+mõ mõ m_B õ_E
+mù mù m_B ù_E
+mùa mùa m_B ù_I a_E
+mùi mùi m_B ù_I i_E
+mùng mùng m_B ù_I n_I g_E
+mú mú m_B ú_E
+múa múa m_B ú_I a_E
+múc múc m_B ú_I c_E
+múi múi m_B ú_I i_E
+mút mút m_B ú_I t_E
+măng măng m_B ă_I n_I g_E
+mĩm mĩm m_B ĩ_I m_E
+mũ mũ m_B ũ_E
+mũi mũi m_B ũ_I i_E
+mũm mũm m_B ũ_I m_E
+mơ mơ m_B ơ_E
+mơn mơn m_B ơ_I n_E
+mưa mưa m_B ư_I a_E
+mưng mưng m_B ư_I n_I g_E
+mưu mưu m_B ư_I u_E
+mươi mươi m_B ư_I ơ_I i_E
+mương mương m_B ư_I ơ_I n_I g_E
+mướn mướn m_B ư_I ớ_I n_E
+mướp mướp m_B ư_I ớ_I p_E
+mười mười m_B ư_I ờ_I i_E
+mượn mượn m_B ư_I ợ_I n_E
+mượt mượt m_B ư_I ợ_I t_E
+mạ mạ m_B ạ_E
+mạc mạc m_B ạ_I c_E
+mạch mạch m_B ạ_I c_I h_E
+mại mại m_B ạ_I i_E
+mạn mạn m_B ạ_I n_E
+mạng mạng m_B ạ_I n_I g_E
+mạnh mạnh m_B ạ_I n_I h_E
+mạo mạo m_B ạ_I o_E
+mạt mạt m_B ạ_I t_E
+mả mả m_B ả_E
+mải mải m_B ả_I i_E
+mảng mảng m_B ả_I n_I g_E
+mảnh mảnh m_B ả_I n_I h_E
+mất mất m_B ấ_I t_E
+mấy mấy m_B ấ_I y_E
+mầm mầm m_B ầ_I m_E
+mầu mầu m_B ầ_I u_E
+mẩu mẩu m_B ẩ_I u_E
+mẫm mẫm m_B ẫ_I m_E
+mẫn mẫn m_B ẫ_I n_E
+mẫu mẫu m_B ẫ_I u_E
+mận mận m_B ậ_I n_E
+mập mập m_B ậ_I p_E
+mật mật m_B ậ_I t_E
+mậu mậu m_B ậ_I u_E
+mắc mắc m_B ắ_I c_E
+mắm mắm m_B ắ_I m_E
+mắn mắn m_B ắ_I n_E
+mắng mắng m_B ắ_I n_I g_E
+mắt mắt m_B ắ_I t_E
+mặc mặc m_B ặ_I c_E
+mặn mặn m_B ặ_I n_E
+mặt mặt m_B ặ_I t_E
+mẹ mẹ m_B ẹ_E
+mẹo mẹo m_B ẹ_I o_E
+mẻ mẻ m_B ẻ_E
+mẽ mẽ m_B ẽ_E
+mế mế m_B ế_E
+mến mến m_B ế_I n_E
+mề mề m_B ề_E
+mềm mềm m_B ề_I m_E
+mệ mệ m_B ệ_E
+mệnh mệnh m_B ệ_I n_I h_E
+mệt mệt m_B ệ_I t_E
+mỉa mỉa m_B ỉ_I a_E
+mỉm mỉm m_B ỉ_I m_E
+mị mị m_B ị_E
+mịch mịch m_B ị_I c_I h_E
+mịn mịn m_B ị_I n_E
+mọc mọc m_B ọ_I c_E
+mọi mọi m_B ọ_I i_E
+mọn mọn m_B ọ_I n_E
+mọt mọt m_B ọ_I t_E
+mỏ mỏ m_B ỏ_E
+mỏi mỏi m_B ỏ_I i_E
+mỏng mỏng m_B ỏ_I n_I g_E
+mốc mốc m_B ố_I c_E
+mối mối m_B ố_I i_E
+mống mống m_B ố_I n_I g_E
+mốt mốt m_B ố_I t_E
+mồ mồ m_B ồ_E
+mồi mồi m_B ồ_I i_E
+mồm mồm m_B ồ_I m_E
+mổ mổ m_B ổ_E
+mỗi mỗi m_B ỗ_I i_E
+mộ mộ m_B ộ_E
+mộc mộc m_B ộ_I c_E
+mộng mộng m_B ộ_I n_I g_E
+một một m_B ộ_I t_E
+mớ mớ m_B ớ_E
+mới mới m_B ớ_I i_E
+mờ mờ m_B ờ_E
+mời mời m_B ờ_I i_E
+mở mở m_B ở_E
+mỡ mỡ m_B ỡ_E
+mợ mợ m_B ợ_E
+mụ mụ m_B ụ_E
+mục mục m_B ụ_I c_E
+mụn mụn m_B ụ_I n_E
+mụt mụt m_B ụ_I t_E
+mủ mủ m_B ủ_E
+mủi mủi m_B ủ_I i_E
+mủn mủn m_B ủ_I n_E
+mứa mứa m_B ứ_I a_E
+mức mức m_B ứ_I c_E
+mứt mứt m_B ứ_I t_E
+mừng mừng m_B ừ_I n_I g_E
+mừơi mừơi m_B ừ_I ơ_I i_E
+mửa mửa m_B ử_I a_E
+mựa mựa m_B ự_I a_E
+mực mực m_B ự_I c_E
+mỳ mỳ m_B ỳ_E
+mỵ mỵ m_B ỵ_E
+mỹ mỹ m_B ỹ_E
+n n n_S
+na na n_B a_E
+nai nai n_B a_I i_E
+nam nam n_B a_I m_E
+nan nan n_B a_I n_E
+nang nang n_B a_I n_I g_E
+nanh nanh n_B a_I n_I h_E
+nanta nanta n_B a_I n_I t_I a_E
+nao nao n_B a_I o_E
+nay nay n_B a_I y_E
+ne ne n_B e_E
+neo neo n_B e_I o_E
+nes nes n_B e_I s_E
+ng ng n_B g_E
+nga nga n_B g_I a_E
+ngang ngang n_B g_I a_I n_I g_E
+ngao ngao n_B g_I a_I o_E
+ngay ngay n_B g_I a_I y_E
+nge nge n_B g_I e_E
+nghe nghe n_B g_I h_I e_E
+nghen nghen n_B g_I h_I e_I n_E
+ngheng ngheng n_B g_I h_I e_I n_I g_E
+nghi nghi n_B g_I h_I i_E
+nghinh nghinh n_B g_I h_I i_I n_I h_E
+nghiu nghiu n_B g_I h_I i_I u_E
+nghiêm nghiêm n_B g_I h_I i_I ê_I m_E
+nghiên nghiên n_B g_I h_I i_I ê_I n_E
+nghiêng nghiêng n_B g_I h_I i_I ê_I n_I g_E
+nghiến nghiến n_B g_I h_I i_I ế_I n_E
+nghiền nghiền n_B g_I h_I i_I ề_I n_E
+nghiễm nghiễm n_B g_I h_I i_I ễ_I m_E
+nghiệm nghiệm n_B g_I h_I i_I ệ_I m_E
+nghiện nghiện n_B g_I h_I i_I ệ_I n_E
+nghiệp nghiệp n_B g_I h_I i_I ệ_I p_E
+nghiệt nghiệt n_B g_I h_I i_I ệ_I t_E
+nghèo nghèo n_B g_I h_I è_I o_E
+nghé nghé n_B g_I h_I é_E
+nghê nghê n_B g_I h_I ê_E
+nghênh nghênh n_B g_I h_I ê_I n_I h_E
+nghêu nghêu n_B g_I h_I ê_I u_E
+nghìn nghìn n_B g_I h_I ì_I n_E
+nghĩ nghĩ n_B g_I h_I ĩ_E
+nghĩa nghĩa n_B g_I h_I ĩ_I a_E
+nghẹn nghẹn n_B g_I h_I ẹ_I n_E
+nghẹo nghẹo n_B g_I h_I ẹ_I o_E
+nghẹt nghẹt n_B g_I h_I ẹ_I t_E
+nghẻo nghẻo n_B g_I h_I ẻ_I o_E
+nghẽn nghẽn n_B g_I h_I ẽ_I n_E
+nghẽo nghẽo n_B g_I h_I ẽ_I o_E
+nghề nghề n_B g_I h_I ề_E
+nghễ nghễ n_B g_I h_I ễ_E
+nghễnh nghễnh n_B g_I h_I ễ_I n_I h_E
+nghệ nghệ n_B g_I h_I ệ_E
+nghệch nghệch n_B g_I h_I ệ_I c_I h_E
+nghỉ nghỉ n_B g_I h_I ỉ_E
+nghị nghị n_B g_I h_I ị_E
+nghịch nghịch n_B g_I h_I ị_I c_I h_E
+ngo ngo n_B g_I o_E
+ngoai ngoai n_B g_I o_I a_I i_E
+ngoan ngoan n_B g_I o_I a_I n_E
+ngoe ngoe n_B g_I o_I e_E
+ngon ngon n_B g_I o_I n_E
+ngoài ngoài n_B g_I o_I à_I i_E
+ngoàm ngoàm n_B g_I o_I à_I m_E
+ngoái ngoái n_B g_I o_I á_I i_E
+ngoáy ngoáy n_B g_I o_I á_I y_E
+ngoãn ngoãn n_B g_I o_I ã_I n_E
+ngoèo ngoèo n_B g_I o_I è_I o_E
+ngoét ngoét n_B g_I o_I é_I t_E
+ngoại ngoại n_B g_I o_I ạ_I i_E
+ngoảy ngoảy n_B g_I o_I ả_I y_E
+ngoắc ngoắc n_B g_I o_I ắ_I c_E
+ngoằn ngoằn n_B g_I o_I ằ_I n_E
+ngoặc ngoặc n_B g_I o_I ặ_I c_E
+ngoặt ngoặt n_B g_I o_I ặ_I t_E
+ngu ngu n_B g_I u_E
+nguy nguy n_B g_I u_I y_E
+nguyen nguyen n_B g_I u_I y_I e_I n_E
+nguyên nguyên n_B g_I u_I y_I ê_I n_E
+nguyền nguyền n_B g_I u_I y_I ề_I n_E
+nguyễn nguyễn n_B g_I u_I y_I ễ_I n_E
+nguyện nguyện n_B g_I u_I y_I ệ_I n_E
+nguyệt nguyệt n_B g_I u_I y_I ệ_I t_E
+nguôi nguôi n_B g_I u_I ô_I i_E
+nguẩy nguẩy n_B g_I u_I ẩ_I y_E
+nguồn nguồn n_B g_I u_I ồ_I n_E
+nguội nguội n_B g_I u_I ộ_I i_E
+ngà ngà n_B g_I à_E
+ngàn ngàn n_B g_I à_I n_E
+ngàng ngàng n_B g_I à_I n_I g_E
+ngành ngành n_B g_I à_I n_I h_E
+ngào ngào n_B g_I à_I o_E
+ngày ngày n_B g_I à_I y_E
+ngác ngác n_B g_I á_I c_E
+ngách ngách n_B g_I á_I c_I h_E
+ngái ngái n_B g_I á_I i_E
+ngán ngán n_B g_I á_I n_E
+ngáo ngáo n_B g_I á_I o_E
+ngáp ngáp n_B g_I á_I p_E
+ngâm ngâm n_B g_I â_I m_E
+ngân ngân n_B g_I â_I n_E
+ngâu ngâu n_B g_I â_I u_E
+ngây ngây n_B g_I â_I y_E
+ngã ngã n_B g_I ã_E
+ngãi ngãi n_B g_I ã_I i_E
+ngãng ngãng n_B g_I ã_I n_I g_E
+ngò ngò n_B g_I ò_E
+ngó ngó n_B g_I ó_E
+ngóc ngóc n_B g_I ó_I c_E
+ngói ngói n_B g_I ó_I i_E
+ngón ngón n_B g_I ó_I n_E
+ngóng ngóng n_B g_I ó_I n_I g_E
+ngô ngô n_B g_I ô_E
+ngôi ngôi n_B g_I ô_I i_E
+ngôn ngôn n_B g_I ô_I n_E
+ngông ngông n_B g_I ô_I n_I g_E
+ngõ ngõ n_B g_I õ_E
+ngõng ngõng n_B g_I õ_I n_I g_E
+ngùng ngùng n_B g_I ù_I n_I g_E
+ngúc ngúc n_B g_I ú_I c_E
+ngăn ngăn n_B g_I ă_I n_E
+ngũ ngũ n_B g_I ũ_E
+ngơ ngơ n_B g_I ơ_E
+ngơi ngơi n_B g_I ơ_I i_E
+ngư ngư n_B g_I ư_E
+ngưu ngưu n_B g_I ư_I u_E
+ngươi ngươi n_B g_I ư_I ơ_I i_E
+người người n_B g_I ư_I ờ_I i_E
+ngưỡng ngưỡng n_B g_I ư_I ỡ_I n_I g_E
+ngược ngược n_B g_I ư_I ợ_I c_E
+ngạc ngạc n_B g_I ạ_I c_E
+ngạch ngạch n_B g_I ạ_I c_I h_E
+ngại ngại n_B g_I ạ_I i_E
+ngạn ngạn n_B g_I ạ_I n_E
+ngạnh ngạnh n_B g_I ạ_I n_I h_E
+ngạo ngạo n_B g_I ạ_I o_E
+ngạt ngạt n_B g_I ạ_I t_E
+ngả ngả n_B g_I ả_E
+ngảnh ngảnh n_B g_I ả_I n_I h_E
+ngấm ngấm n_B g_I ấ_I m_E
+ngất ngất n_B g_I ấ_I t_E
+ngấu ngấu n_B g_I ấ_I u_E
+ngấy ngấy n_B g_I ấ_I y_E
+ngầm ngầm n_B g_I ầ_I m_E
+ngầu ngầu n_B g_I ầ_I u_E
+ngẩn ngẩn n_B g_I ẩ_I n_E
+ngẫm ngẫm n_B g_I ẫ_I m_E
+ngẫn ngẫn n_B g_I ẫ_I n_E
+ngẫu ngẫu n_B g_I ẫ_I u_E
+ngậm ngậm n_B g_I ậ_I m_E
+ngập ngập n_B g_I ậ_I p_E
+ngắc ngắc n_B g_I ắ_I c_E
+ngắm ngắm n_B g_I ắ_I m_E
+ngắn ngắn n_B g_I ắ_I n_E
+ngắt ngắt n_B g_I ắ_I t_E
+ngẳng ngẳng n_B g_I ẳ_I n_I g_E
+ngặt ngặt n_B g_I ặ_I t_E
+ngọ ngọ n_B g_I ọ_E
+ngọai ngọai n_B g_I ọ_I a_I i_E
+ngọc ngọc n_B g_I ọ_I c_E
+ngọn ngọn n_B g_I ọ_I n_E
+ngọt ngọt n_B g_I ọ_I t_E
+ngỏ ngỏ n_B g_I ỏ_E
+ngố ngố n_B g_I ố_E
+ngốc ngốc n_B g_I ố_I c_E
+ngồ ngồ n_B g_I ồ_E
+ngồi ngồi n_B g_I ồ_I i_E
+ngồm ngồm n_B g_I ồ_I m_E
+ngổ ngổ n_B g_I ổ_E
+ngổn ngổn n_B g_I ổ_I n_E
+ngỗ ngỗ n_B g_I ỗ_E
+ngỗng ngỗng n_B g_I ỗ_I n_I g_E
+ngộ ngộ n_B g_I ộ_E
+ngột ngột n_B g_I ộ_I t_E
+ngớ ngớ n_B g_I ớ_E
+ngớt ngớt n_B g_I ớ_I t_E
+ngờ ngờ n_B g_I ờ_E
+ngỡ ngỡ n_B g_I ỡ_E
+ngợi ngợi n_B g_I ợ_I i_E
+ngợp ngợp n_B g_I ợ_I p_E
+ngụ ngụ n_B g_I ụ_E
+ngục ngục n_B g_I ụ_I c_E
+ngụm ngụm n_B g_I ụ_I m_E
+ngụy ngụy n_B g_I ụ_I y_E
+ngủ ngủ n_B g_I ủ_E
+ngủn ngủn n_B g_I ủ_I n_E
+ngứa ngứa n_B g_I ứ_I a_E
+ngừ ngừ n_B g_I ừ_E
+ngừa ngừa n_B g_I ừ_I a_E
+ngừng ngừng n_B g_I ừ_I n_I g_E
+ngừơi ngừơi n_B g_I ừ_I ơ_I i_E
+ngửa ngửa n_B g_I ử_I a_E
+ngửi ngửi n_B g_I ử_I i_E
+ngữ ngữ n_B g_I ữ_E
+ngự ngự n_B g_I ự_E
+ngựa ngựa n_B g_I ự_I a_E
+ngực ngực n_B g_I ự_I c_E
+nh nh n_B h_E
+nha nha n_B h_I a_E
+nhai nhai n_B h_I a_I i_E
+nham nham n_B h_I a_I m_E
+nhang nhang n_B h_I a_I n_I g_E
+nhanh nhanh n_B h_I a_I n_I h_E
+nhao nhao n_B h_I a_I o_E
+nhat nhat n_B h_I a_I t_E
+nhau nhau n_B h_I a_I u_E
+nhen nhen n_B h_I e_I n_E
+nheo nheo n_B h_I e_I o_E
+nhi nhi n_B h_I i_E
+nhiên nhiên n_B h_I i_I ê_I n_E
+nhiêu nhiêu n_B h_I i_I ê_I u_E
+nhiếp nhiếp n_B h_I i_I ế_I p_E
+nhiều nhiều n_B h_I i_I ề_I u_E
+nhiểu nhiểu n_B h_I i_I ể_I u_E
+nhiễm nhiễm n_B h_I i_I ễ_I m_E
+nhiễu nhiễu n_B h_I i_I ễ_I u_E
+nhiệm nhiệm n_B h_I i_I ệ_I m_E
+nhiệt nhiệt n_B h_I i_I ệ_I t_E
+nho nho n_B h_I o_E
+nhoe nhoe n_B h_I o_I e_E
+nhoi nhoi n_B h_I o_I i_E
+nhoáng nhoáng n_B h_I o_I á_I n_I g_E
+nhu nhu n_B h_I u_E
+nhung nhung n_B h_I u_I n_I g_E
+nhuận nhuận n_B h_I u_I ậ_I n_E
+nhuốc nhuốc n_B h_I u_I ố_I c_E
+nhuộm nhuộm n_B h_I u_I ộ_I m_E
+nhà nhà n_B h_I à_E
+nhàn nhàn n_B h_I à_I n_E
+nhàng nhàng n_B h_I à_I n_I g_E
+nhàu nhàu n_B h_I à_I u_E
+nhá nhá n_B h_I á_E
+nhái nhái n_B h_I á_I i_E
+nhám nhám n_B h_I á_I m_E
+nhánh nhánh n_B h_I á_I n_I h_E
+nhát nhát n_B h_I á_I t_E
+nháy nháy n_B h_I á_I y_E
+nhân nhân n_B h_I â_I n_E
+nhã nhã n_B h_I ã_E
+nhãn nhãn n_B h_I ã_I n_E
+nhãng nhãng n_B h_I ã_I n_I g_E
+nhão nhão n_B h_I ã_I o_E
+nhé nhé n_B h_I é_E
+nhét nhét n_B h_I é_I t_E
+nhìn nhìn n_B h_I ì_I n_E
+nhí nhí n_B h_I í_E
+nhích nhích n_B h_I í_I c_I h_E
+nhím nhím n_B h_I í_I m_E
+nhíp nhíp n_B h_I í_I p_E
+nhíu nhíu n_B h_I í_I u_E
+nhòm nhòm n_B h_I ò_I m_E
+nhó nhó n_B h_I ó_E
+nhóc nhóc n_B h_I ó_I c_E
+nhói nhói n_B h_I ó_I i_E
+nhóm nhóm n_B h_I ó_I m_E
+nhót nhót n_B h_I ó_I t_E
+nhô nhô n_B h_I ô_E
+nhôm nhôm n_B h_I ô_I m_E
+nhú nhú n_B h_I ú_E
+nhúc nhúc n_B h_I ú_I c_E
+nhúm nhúm n_B h_I ú_I m_E
+nhúng nhúng n_B h_I ú_I n_I g_E
+nhút nhút n_B h_I ú_I t_E
+nhăm nhăm n_B h_I ă_I m_E
+nhăn nhăn n_B h_I ă_I n_E
+nhĩ nhĩ n_B h_I ĩ_E
+nhũ nhũ n_B h_I ũ_E
+nhũn nhũn n_B h_I ũ_I n_E
+nhũng nhũng n_B h_I ũ_I n_I g_E
+nhơ nhơ n_B h_I ơ_E
+nhơn nhơn n_B h_I ơ_I n_E
+như như n_B h_I ư_E
+nhưng nhưng n_B h_I ư_I n_I g_E
+nhường nhường n_B h_I ư_I ờ_I n_I g_E
+nhưỡng nhưỡng n_B h_I ư_I ỡ_I n_I g_E
+nhược nhược n_B h_I ư_I ợ_I c_E
+nhượng nhượng n_B h_I ư_I ợ_I n_I g_E
+nhạc nhạc n_B h_I ạ_I c_E
+nhại nhại n_B h_I ạ_I i_E
+nhạnh nhạnh n_B h_I ạ_I n_I h_E
+nhạo nhạo n_B h_I ạ_I o_E
+nhạt nhạt n_B h_I ạ_I t_E
+nhạy nhạy n_B h_I ạ_I y_E
+nhảm nhảm n_B h_I ả_I m_E
+nhảnh nhảnh n_B h_I ả_I n_I h_E
+nhảy nhảy n_B h_I ả_I y_E
+nhấm nhấm n_B h_I ấ_I m_E
+nhấn nhấn n_B h_I ấ_I n_E
+nhấp nhấp n_B h_I ấ_I p_E
+nhất nhất n_B h_I ấ_I t_E
+nhầm nhầm n_B h_I ầ_I m_E
+nhẫn nhẫn n_B h_I ẫ_I n_E
+nhận nhận n_B h_I ậ_I n_E
+nhập nhập n_B h_I ậ_I p_E
+nhật nhật n_B h_I ậ_I t_E
+nhậu nhậu n_B h_I ậ_I u_E
+nhắc nhắc n_B h_I ắ_I c_E
+nhắm nhắm n_B h_I ắ_I m_E
+nhắn nhắn n_B h_I ắ_I n_E
+nhắp nhắp n_B h_I ắ_I p_E
+nhắt nhắt n_B h_I ắ_I t_E
+nhằm nhằm n_B h_I ằ_I m_E
+nhằn nhằn n_B h_I ằ_I n_E
+nhẳm nhẳm n_B h_I ẳ_I m_E
+nhẵn nhẵn n_B h_I ẵ_I n_E
+nhặt nhặt n_B h_I ặ_I t_E
+nhẹ nhẹ n_B h_I ẹ_E
+nhẹn nhẹn n_B h_I ẹ_I n_E
+nhẹo nhẹo n_B h_I ẹ_I o_E
+nhẹp nhẹp n_B h_I ẹ_I p_E
+nhẻ nhẻ n_B h_I ẻ_E
+nhếch nhếch n_B h_I ế_I c_I h_E
+nhễ nhễ n_B h_I ễ_E
+nhện nhện n_B h_I ệ_I n_E
+nhỉ nhỉ n_B h_I ỉ_E
+nhị nhị n_B h_I ị_E
+nhịp nhịp n_B h_I ị_I p_E
+nhọc nhọc n_B h_I ọ_I c_E
+nhọn nhọn n_B h_I ọ_I n_E
+nhọt nhọt n_B h_I ọ_I t_E
+nhỏ nhỏ n_B h_I ỏ_E
+nhồi nhồi n_B h_I ồ_I i_E
+nhổ nhổ n_B h_I ổ_E
+nhộng nhộng n_B h_I ộ_I n_I g_E
+nhớ nhớ n_B h_I ớ_E
+nhớp nhớp n_B h_I ớ_I p_E
+nhờ nhờ n_B h_I ờ_E
+nhở nhở n_B h_I ở_E
+nhỡ nhỡ n_B h_I ỡ_E
+nhợ nhợ n_B h_I ợ_E
+nhục nhục n_B h_I ụ_I c_E
+nhức nhức n_B h_I ứ_I c_E
+nhừ nhừ n_B h_I ừ_E
+nhừng nhừng n_B h_I ừ_I n_I g_E
+nhử nhử n_B h_I ử_E
+những những n_B h_I ữ_I n_I g_E
+nhựa nhựa n_B h_I ự_I a_E
+ni ni n_B i_E
+nile nile n_B i_I l_I e_E
+nilông nilông n_B i_I l_I ô_I n_I g_E
+ninh ninh n_B i_I n_I h_E
+nintendo nintendo n_B i_I n_I t_I e_I n_I d_I o_E
+nitric nitric n_B i_I t_I r_I i_I c_E
+niu niu n_B i_I u_E
+niuoóc niuoóc n_B i_I u_I o_I ó_I c_E
+niêm niêm n_B i_I ê_I m_E
+niên niên n_B i_I ê_I n_E
+niềm niềm n_B i_I ề_I m_E
+niền niền n_B i_I ề_I n_E
+niềng niềng n_B i_I ề_I n_I g_E
+niễng niễng n_B i_I ễ_I n_I g_E
+niệm niệm n_B i_I ệ_I m_E
+no no n_B o_E
+noa noa n_B o_I a_E
+noel noel n_B o_I e_I l_E
+noi noi n_B o_I i_E
+non non n_B o_I n_E
+nong nong n_B o_I n_I g_E
+nonsense nonsense n_B o_I n_I s_I e_I n_I s_I e_E
+nor nor n_B o_I r_E
+noãn noãn n_B o_I ã_I n_E
+nung nung n_B u_I n_I g_E
+nut nut n_B u_I t_E
+nuôi nuôi n_B u_I ô_I i_E
+nuối nuối n_B u_I ố_I i_E
+nuốt nuốt n_B u_I ố_I t_E
+nyong nyong n_B y_I o_I n_I g_E
+nài nài n_B à_I i_E
+nàn nàn n_B à_I n_E
+nàng nàng n_B à_I n_I g_E
+nành nành n_B à_I n_I h_E
+nào nào n_B à_I o_E
+này này n_B à_I y_E
+nách nách n_B á_I c_I h_E
+nái nái n_B á_I i_E
+nám nám n_B á_I m_E
+nánh nánh n_B á_I n_I h_E
+nát nát n_B á_I t_E
+náy náy n_B á_I y_E
+nâng nâng n_B â_I n_I g_E
+nâu nâu n_B â_I u_E
+não não n_B ã_I o_E
+nãy nãy n_B ã_I y_E
+nè nè n_B è_E
+né né n_B é_E
+nén nén n_B é_I n_E
+néo néo n_B é_I o_E
+nép nép n_B é_I p_E
+nét nét n_B é_I t_E
+nêm nêm n_B ê_I m_E
+nên nên n_B ê_I n_E
+nêu nêu n_B ê_I u_E
+nín nín n_B í_I n_E
+nít nít n_B í_I t_E
+nòi nòi n_B ò_I i_E
+nòng nòng n_B ò_I n_I g_E
+nó nó n_B ó_E
+nóc nóc n_B ó_I c_E
+nói nói n_B ó_I i_E
+nón nón n_B ó_I n_E
+nóng nóng n_B ó_I n_I g_E
+nô nô n_B ô_E
+nôi nôi n_B ô_I i_E
+nôm nôm n_B ô_I m_E
+nôn nôn n_B ô_I n_E
+nông nông n_B ô_I n_I g_E
+nõn nõn n_B õ_I n_E
+núi núi n_B ú_I i_E
+núm núm n_B ú_I m_E
+núng núng n_B ú_I n_I g_E
+nút nút n_B ú_I t_E
+năm năm n_B ă_I m_E
+năng năng n_B ă_I n_I g_E
+nĩa nĩa n_B ĩ_I a_E
+nũng nũng n_B ũ_I n_I g_E
+nơ nơ n_B ơ_E
+nơi nơi n_B ơ_I i_E
+nưa nưa n_B ư_I a_E
+nương nương n_B ư_I ơ_I n_I g_E
+nước nước n_B ư_I ớ_I c_E
+nướng nướng n_B ư_I ớ_I n_I g_E
+nạ nạ n_B ạ_E
+nạc nạc n_B ạ_I c_E
+nại nại n_B ạ_I i_E
+nạm nạm n_B ạ_I m_E
+nạn nạn n_B ạ_I n_E
+nạng nạng n_B ạ_I n_I g_E
+nạnh nạnh n_B ạ_I n_I h_E
+nạo nạo n_B ạ_I o_E
+nạp nạp n_B ạ_I p_E
+nả nả n_B ả_E
+nải nải n_B ả_I i_E
+nảy nảy n_B ả_I y_E
+nấc nấc n_B ấ_I c_E
+nấm nấm n_B ấ_I m_E
+nấng nấng n_B ấ_I n_I g_E
+nấp nấp n_B ấ_I p_E
+nấu nấu n_B ấ_I u_E
+nấy nấy n_B ấ_I y_E
+nầm nầm n_B ầ_I m_E
+nần nần n_B ầ_I n_E
+nẩy nẩy n_B ẩ_I y_E
+nậm nậm n_B ậ_I m_E
+nập nập n_B ậ_I p_E
+nậu nậu n_B ậ_I u_E
+nắm nắm n_B ắ_I m_E
+nắn nắn n_B ắ_I n_E
+nắng nắng n_B ắ_I n_I g_E
+nắp nắp n_B ắ_I p_E
+nằm nằm n_B ằ_I m_E
+nẳm nẳm n_B ẳ_I m_E
+nẵng nẵng n_B ẵ_I n_I g_E
+nặc nặc n_B ặ_I c_E
+nặn nặn n_B ặ_I n_E
+nặng nặng n_B ặ_I n_I g_E
+nếm nếm n_B ế_I m_E
+nến nến n_B ế_I n_E
+nếp nếp n_B ế_I p_E
+nết nết n_B ế_I t_E
+nếu nếu n_B ế_I u_E
+nề nề n_B ề_E
+nền nền n_B ề_I n_E
+nệ nệ n_B ệ_E
+nỉ nỉ n_B ỉ_E
+nịnh nịnh n_B ị_I n_I h_E
+nịt nịt n_B ị_I t_E
+nịu nịu n_B ị_I u_E
+nọ nọ n_B ọ_E
+nọc nọc n_B ọ_I c_E
+nối nối n_B ố_I i_E
+nốt nốt n_B ố_I t_E
+nồi nồi n_B ồ_I i_E
+nồng nồng n_B ồ_I n_I g_E
+nổ nổ n_B ổ_E
+nổi nổi n_B ổ_I i_E
+nỗ nỗ n_B ỗ_E
+nỗi nỗi n_B ỗ_I i_E
+nội nội n_B ộ_I i_E
+nộp nộp n_B ộ_I p_E
+nớt nớt n_B ớ_I t_E
+nở nở n_B ở_E
+nợ nợ n_B ợ_E
+nụ nụ n_B ụ_E
+nứt nứt n_B ứ_I t_E
+nửa nửa n_B ử_I a_E
+nữ nữ n_B ữ_E
+nữa nữa n_B ữ_I a_E
+nực nực n_B ự_I c_E
+o o o_S
+oan oan o_B a_I n_E
+oanh oanh o_B a_I n_I h_E
+ocarina ocarina o_B c_I a_I r_I i_I n_I a_E
+ogang ogang o_B g_I a_I n_I g_E
+oi oi o_B i_E
+om om o_B m_E
+ong ong o_B n_I g_E
+opera opera o_B p_I e_I r_I a_E
+or or o_B r_E
+osaka osaka o_B s_I a_I k_I a_E
+osiris osiris o_B s_I i_I r_I i_I s_E
+oxy oxy o_B x_I y_E
+oàng oàng o_B à_I n_I g_E
+oán oán o_B á_I n_E
+oạp oạp o_B ạ_I p_E
+p p p_S
+palermo palermo p_B a_I l_I e_I r_I m_I o_E
+pan pan p_B a_I n_E
+panasonic panasonic p_B a_I n_I a_I s_I o_I n_I i_I c_E
+pari pari p_B a_I r_I i_E
+past past p_B a_I s_I t_E
+pha pha p_B h_I a_E
+phan phan p_B h_I a_I n_E
+phanh phanh p_B h_I a_I n_I h_E
+phao phao p_B h_I a_I o_E
+pharaoh pharaoh p_B h_I a_I r_I a_I o_I h_E
+pharoh pharoh p_B h_I a_I r_I o_I h_E
+phe phe p_B h_I e_E
+phi phi p_B h_I i_E
+philippines philippines p_B h_I i_I l_I i_I p_I p_I i_I n_I e_I s_E
+phim phim p_B h_I i_I m_E
+phiên phiên p_B h_I i_I ê_I n_E
+phiêu phiêu p_B h_I i_I ê_I u_E
+phiếm phiếm p_B h_I i_I ế_I m_E
+phiến phiến p_B h_I i_I ế_I n_E
+phiếu phiếu p_B h_I i_I ế_I u_E
+phiền phiền p_B h_I i_I ề_I n_E
+phiện phiện p_B h_I i_I ệ_I n_E
+phiệt phiệt p_B h_I i_I ệ_I t_E
+pho pho p_B h_I o_E
+phong phong p_B h_I o_I n_I g_E
+phonxai phonxai p_B h_I o_I n_I x_I a_I i_E
+phu phu p_B h_I u_E
+phuc phuc p_B h_I u_I c_E
+phun phun p_B h_I u_I n_E
+phà phà p_B h_I à_E
+phàn phàn p_B h_I à_I n_E
+phào phào p_B h_I à_I o_E
+phá phá p_B h_I á_E
+phác phác p_B h_I á_I c_E
+phách phách p_B h_I á_I c_I h_E
+phái phái p_B h_I á_I i_E
+phán phán p_B h_I á_I n_E
+pháo pháo p_B h_I á_I o_E
+pháp pháp p_B h_I á_I p_E
+phát phát p_B h_I á_I t_E
+phân phân p_B h_I â_I n_E
+phè phè p_B h_I è_E
+phèn phèn p_B h_I è_I n_E
+phép phép p_B h_I é_I p_E
+phê phê p_B h_I ê_E
+phì phì p_B h_I ì_E
+phình phình p_B h_I ì_I n_I h_E
+phí phí p_B h_I í_E
+phía phía p_B h_I í_I a_E
+phích phích p_B h_I í_I c_I h_E
+phím phím p_B h_I í_I m_E
+phò phò p_B h_I ò_E
+phòng phòng p_B h_I ò_I n_I g_E
+phó phó p_B h_I ó_E
+phómát phómát p_B h_I ó_I m_I á_I t_E
+phóng phóng p_B h_I ó_I n_I g_E
+phô phô p_B h_I ô_E
+phôi phôi p_B h_I ô_I i_E
+phôm phôm p_B h_I ô_I m_E
+phông phông p_B h_I ô_I n_I g_E
+phôtôcóppi phôtôcóppi p_B h_I ô_I t_I ô_I c_I ó_I p_I p_I i_E
+phù phù p_B h_I ù_E
+phùn phùn p_B h_I ù_I n_E
+phùng phùng p_B h_I ù_I n_I g_E
+phú phú p_B h_I ú_E
+phúc phúc p_B h_I ú_I c_E
+phúng phúng p_B h_I ú_I n_I g_E
+phút phút p_B h_I ú_I t_E
+phơ phơ p_B h_I ơ_E
+phơi phơi p_B h_I ơ_I i_E
+phương phương p_B h_I ư_I ơ_I n_I g_E
+phước phước p_B h_I ư_I ớ_I c_E
+phường phường p_B h_I ư_I ờ_I n_I g_E
+phượng phượng p_B h_I ư_I ợ_I n_I g_E
+phượt phượt p_B h_I ư_I ợ_I t_E
+phạm phạm p_B h_I ạ_I m_E
+phạn phạn p_B h_I ạ_I n_E
+phạt phạt p_B h_I ạ_I t_E
+phả phả p_B h_I ả_E
+phải phải p_B h_I ả_I i_E
+phản phản p_B h_I ả_I n_E
+phảy phảy p_B h_I ả_I y_E
+phấn phấn p_B h_I ấ_I n_E
+phất phất p_B h_I ấ_I t_E
+phần phần p_B h_I ầ_I n_E
+phẩm phẩm p_B h_I ẩ_I m_E
+phẩy phẩy p_B h_I ẩ_I y_E
+phẫn phẫn p_B h_I ẫ_I n_E
+phẫu phẫu p_B h_I ẫ_I u_E
+phận phận p_B h_I ậ_I n_E
+phật phật p_B h_I ậ_I t_E
+phắn phắn p_B h_I ắ_I n_E
+phằn phằn p_B h_I ằ_I n_E
+phẳng phẳng p_B h_I ẳ_I n_I g_E
+phế phế p_B h_I ế_E
+phết phết p_B h_I ế_I t_E
+phề phề p_B h_I ề_E
+phễu phễu p_B h_I ễ_I u_E
+phệ phệ p_B h_I ệ_E
+phỉ phỉ p_B h_I ỉ_E
+phỉnh phỉnh p_B h_I ỉ_I n_I h_E
+phịu phịu p_B h_I ị_I u_E
+phỏng phỏng p_B h_I ỏ_I n_I g_E
+phố phố p_B h_I ố_E
+phối phối p_B h_I ố_I i_E
+phốp phốp p_B h_I ố_I p_E
+phốt phốt p_B h_I ố_I t_E
+phồn phồn p_B h_I ồ_I n_E
+phồng phồng p_B h_I ồ_I n_I g_E
+phổ phổ p_B h_I ổ_E
+phổi phổi p_B h_I ổ_I i_E
+phổng phổng p_B h_I ổ_I n_I g_E
+phỗng phỗng p_B h_I ỗ_I n_I g_E
+phớt phớt p_B h_I ớ_I t_E
+phờ phờ p_B h_I ờ_E
+phở phở p_B h_I ở_E
+phỡn phỡn p_B h_I ỡ_I n_E
+phụ phụ p_B h_I ụ_E
+phục phục p_B h_I ụ_I c_E
+phụng phụng p_B h_I ụ_I n_I g_E
+phủ phủ p_B h_I ủ_E
+phức phức p_B h_I ứ_I c_E
+pia pia p_B i_I a_E
+piano piano p_B i_I a_I n_I o_E
+pianô pianô p_B i_I a_I n_I ô_E
+pin pin p_B i_I n_E
+platorm platorm p_B l_I a_I t_I o_I r_I m_E
+pleiku pleiku p_B l_I e_I i_I k_I u_E
+pop pop p_B o_I p_E
+pu pu p_B u_E
+q q q_S
+qaegul qaegul q_B a_I e_I g_I u_I l_E
+qua qua q_B u_I a_E
+quan quan q_B u_I a_I n_E
+quang quang q_B u_I a_I n_I g_E
+quanh quanh q_B u_I a_I n_I h_E
+quay quay q_B u_I a_I y_E
+que que q_B u_I e_E
+quen quen q_B u_I e_I n_E
+queo queo q_B u_I e_I o_E
+qui qui q_B u_I i_E
+quqấn quqấn q_B u_I q_I ấ_I n_E
+quy quy q_B u_I y_E
+quyên quyên q_B u_I y_I ê_I n_E
+quyến quyến q_B u_I y_I ế_I n_E
+quyết quyết q_B u_I y_I ế_I t_E
+quyền quyền q_B u_I y_I ề_I n_E
+quyển quyển q_B u_I y_I ể_I n_E
+quyệt quyệt q_B u_I y_I ệ_I t_E
+quà quà q_B u_I à_E
+quàng quàng q_B u_I à_I n_I g_E
+quá quá q_B u_I á_E
+quách quách q_B u_I á_I c_I h_E
+quái quái q_B u_I á_I i_E
+quán quán q_B u_I á_I n_E
+quáng quáng q_B u_I á_I n_I g_E
+quát quát q_B u_I á_I t_E
+quân quân q_B u_I â_I n_E
+quây quây q_B u_I â_I y_E
+quãng quãng q_B u_I ã_I n_I g_E
+quét quét q_B u_I é_I t_E
+quê quê q_B u_I ê_E
+quên quên q_B u_I ê_I n_E
+quì quì q_B u_I ì_E
+quí quí q_B u_I í_E
+quít quít q_B u_I í_I t_E
+quý quý q_B u_I ý_E
+quýt quýt q_B u_I ý_I t_E
+quăn quăn q_B u_I ă_I n_E
+quăng quăng q_B u_I ă_I n_I g_E
+quạ quạ q_B u_I ạ_E
+quạt quạt q_B u_I ạ_I t_E
+quả quả q_B u_I ả_E
+quản quản q_B u_I ả_I n_E
+quảng quảng q_B u_I ả_I n_I g_E
+quảy quảy q_B u_I ả_I y_E
+quấn quấn q_B u_I ấ_I n_E
+quất quất q_B u_I ấ_I t_E
+quấy quấy q_B u_I ấ_I y_E
+quần quần q_B u_I ầ_I n_E
+quầng quầng q_B u_I ầ_I n_I g_E
+quầy quầy q_B u_I ầ_I y_E
+quẩn quẩn q_B u_I ẩ_I n_E
+quẫn quẫn q_B u_I ẫ_I n_E
+quận quận q_B u_I ậ_I n_E
+quật quật q_B u_I ậ_I t_E
+quắp quắp q_B u_I ắ_I p_E
+quẳng quẳng q_B u_I ẳ_I n_I g_E
+quặng quặng q_B u_I ặ_I n_I g_E
+quặp quặp q_B u_I ặ_I p_E
+quẹt quẹt q_B u_I ẹ_I t_E
+quẻ quẻ q_B u_I ẻ_E
+quế quế q_B u_I ế_E
+quỉ quỉ q_B u_I ỉ_E
+quốc quốc q_B u_I ố_I c_E
+quỳ quỳ q_B u_I ỳ_E
+quỳnh quỳnh q_B u_I ỳ_I n_I h_E
+quỵ quỵ q_B u_I ỵ_E
+quỷ quỷ q_B u_I ỷ_E
+quỹ quỹ q_B u_I ỹ_E
+r r r_S
+ra ra r_B a_E
+ram ram r_B a_I m_E
+ran ran r_B a_I n_E
+rang rang r_B a_I n_I g_E
+rangtháp rangtháp r_B a_I n_I g_I t_I h_I á_I p_E
+ranh ranh r_B a_I n_I h_E
+rao rao r_B a_I o_E
+rau rau r_B a_I u_E
+ri ri r_B i_E
+ria ria r_B i_I a_E
+richter richter r_B i_I c_I h_I t_I e_I r_E
+rim rim r_B i_I m_E
+rinh rinh r_B i_I n_I h_E
+riêng riêng r_B i_I ê_I n_I g_E
+riết riết r_B i_I ế_I t_E
+riềng riềng r_B i_I ề_I n_I g_E
+roi roi r_B o_I i_E
+rong rong r_B o_I n_I g_E
+rua rua r_B u_I a_E
+rule rule r_B u_I l_I e_E
+rum rum r_B u_I m_E
+rung rung r_B u_I n_I g_E
+ruồi ruồi r_B u_I ồ_I i_E
+ruổi ruổi r_B u_I ổ_I i_E
+ruộng ruộng r_B u_I ộ_I n_I g_E
+ruột ruột r_B u_I ộ_I t_E
+rà rà r_B à_E
+ràn ràn r_B à_I n_E
+ràng ràng r_B à_I n_I g_E
+rành rành r_B à_I n_I h_E
+rào rào r_B à_I o_E
+rác rác r_B á_I c_E
+rách rách r_B á_I c_I h_E
+rán rán r_B á_I n_E
+ráng ráng r_B á_I n_I g_E
+ráp ráp r_B á_I p_E
+rát rát r_B á_I t_E
+ráy ráy r_B á_I y_E
+râm râm r_B â_I m_E
+rân rân r_B â_I n_E
+râu râu r_B â_I u_E
+rã rã r_B ã_E
+rãi rãi r_B ã_I i_E
+rãnh rãnh r_B ã_I n_I h_E
+rèm rèm r_B è_I m_E
+rèn rèn r_B è_I n_E
+rét rét r_B é_I t_E
+rêu rêu r_B ê_I u_E
+rì rì r_B ì_E
+rìa rìa r_B ì_I a_E
+rình rình r_B ì_I n_I h_E
+rìu rìu r_B ì_I u_E
+ròi ròi r_B ò_I i_E
+rói rói r_B ó_I i_E
+rót rót r_B ó_I t_E
+rô rô r_B ô_E
+rôi rôi r_B ô_I i_E
+rôma rôma r_B ô_I m_I a_E
+rông rông r_B ô_I n_I g_E
+rônêô rônêô r_B ô_I n_I ê_I ô_E
+rõ rõ r_B õ_E
+rùa rùa r_B ù_I a_E
+rùng rùng r_B ù_I n_I g_E
+rú rú r_B ú_E
+rút rút r_B ú_I t_E
+răm răm r_B ă_I m_E
+răn răn r_B ă_I n_E
+răng răng r_B ă_I n_I g_E
+rĩ rĩ r_B ĩ_E
+rũ rũ r_B ũ_E
+rơi rơi r_B ơ_I i_E
+rơm rơm r_B ơ_I m_E
+rơn rơn r_B ơ_I n_E
+rương rương r_B ư_I ơ_I n_I g_E
+rưới rưới r_B ư_I ớ_I i_E
+rướn rướn r_B ư_I ớ_I n_E
+rườm rườm r_B ư_I ờ_I m_E
+rường rường r_B ư_I ờ_I n_I g_E
+rưởi rưởi r_B ư_I ở_I i_E
+rưỡi rưỡi r_B ư_I ỡ_I i_E
+rượu rượu r_B ư_I ợ_I u_E
+rạ rạ r_B ạ_E
+rạch rạch r_B ạ_I c_I h_E
+rạn rạn r_B ạ_I n_E
+rạng rạng r_B ạ_I n_I g_E
+rạo rạo r_B ạ_I o_E
+rạp rạp r_B ạ_I p_E
+rạt rạt r_B ạ_I t_E
+rảnh rảnh r_B ả_I n_I h_E
+rấn rấn r_B ấ_I n_E
+rất rất r_B ấ_I t_E
+rần rần r_B ầ_I n_E
+rầu rầu r_B ầ_I u_E
+rầy rầy r_B ầ_I y_E
+rẫy rẫy r_B ẫ_I y_E
+rậm rậm r_B ậ_I m_E
+rận rận r_B ậ_I n_E
+rập rập r_B ậ_I p_E
+rật rật r_B ậ_I t_E
+rắc rắc r_B ắ_I c_E
+rắm rắm r_B ắ_I m_E
+rắn rắn r_B ắ_I n_E
+rằng rằng r_B ằ_I n_I g_E
+rẻ rẻ r_B ẻ_E
+rẽ rẽ r_B ẽ_E
+rết rết r_B ế_I t_E
+rể rể r_B ể_E
+rễ rễ r_B ễ_E
+rệp rệp r_B ệ_I p_E
+rệt rệt r_B ệ_I t_E
+rịa rịa r_B ị_I a_E
+rịavũng rịavũng r_B ị_I a_I v_I ũ_I n_I g_E
+rọi rọi r_B ọ_I i_E
+rố rố r_B ố_E
+rối rối r_B ố_I i_E
+rốt rốt r_B ố_I t_E
+rồ rồ r_B ồ_E
+rồi rồi r_B ồ_I i_E
+rồng rồng r_B ồ_I n_I g_E
+rổ rổ r_B ổ_E
+rỗi rỗi r_B ỗ_I i_E
+rỗng rỗng r_B ỗ_I n_I g_E
+rộn rộn r_B ộ_I n_E
+rộng rộng r_B ộ_I n_I g_E
+rớt rớt r_B ớ_I t_E
+rời rời r_B ờ_I i_E
+rờn rờn r_B ờ_I n_E
+rỡ rỡ r_B ỡ_E
+rợ rợ r_B ợ_E
+rợn rợn r_B ợ_I n_E
+rợp rợp r_B ợ_I p_E
+rụng rụng r_B ụ_I n_I g_E
+rủa rủa r_B ủ_I a_E
+rủi rủi r_B ủ_I i_E
+rứt rứt r_B ứ_I t_E
+rừng rừng r_B ừ_I n_I g_E
+rửa rửa r_B ử_I a_E
+rực rực r_B ự_I c_E
+s s s_S
+sa sa s_B a_E
+sai sai s_B a_I i_E
+san san s_B a_I n_E
+sang sang s_B a_I n_I g_E
+sanh sanh s_B a_I n_I h_E
+sao sao s_B a_I o_E
+sapa sapa s_B a_I p_I a_E
+sarang sarang s_B a_I r_I a_I n_I g_E
+saravan saravan s_B a_I r_I a_I v_I a_I n_E
+sau sau s_B a_I u_E
+save save s_B a_I v_I e_E
+say say s_B a_I y_E
+se se s_B e_E
+sen sen s_B e_I n_E
+senkaku senkaku s_B e_I n_I k_I a_I k_I u_E
+seo seo s_B e_I o_E
+seon seon s_B e_I o_I n_E
+seong seong s_B e_I o_I n_I g_E
+series series s_B e_I r_I i_I e_I s_E
+seth seth s_B e_I t_I h_E
+shigeru shigeru s_B h_I i_I g_I e_I r_I u_E
+si si s_B i_E
+silicat silicat s_B i_I l_I i_I c_I a_I t_E
+sim sim s_B i_I m_E
+sin sin s_B i_I n_E
+sinh sinh s_B i_I n_I h_E
+siêng siêng s_B i_I ê_I n_I g_E
+siêu siêu s_B i_I ê_I u_E
+skelion skelion s_B k_I e_I l_I i_I o_I n_E
+skype skype s_B k_I y_I p_I e_E
+snes snes s_B n_I e_I s_E
+so so s_B o_E
+soi soi s_B o_I i_E
+song song s_B o_I n_I g_E
+soo soo s_B o_I o_E
+sot sot s_B o_I t_E
+soái soái s_B o_I á_I i_E
+soát soát s_B o_I á_I t_E
+soóc soóc s_B o_I ó_I c_E
+soạn soạn s_B o_I ạ_I n_E
+soạt soạt s_B o_I ạ_I t_E
+speak speak s_B p_I e_I a_I k_E
+spinách spinách s_B p_I i_I n_I á_I c_I h_E
+su su s_B u_E
+sulua sulua s_B u_I l_I u_I a_E
+suluric suluric s_B u_I l_I u_I r_I i_I c_E
+sumer sumer s_B u_I m_I e_I r_E
+sun sun s_B u_I n_E
+sung sung s_B u_I n_I g_E
+suy suy s_B u_I y_E
+suyễn suyễn s_B u_I y_I ễ_I n_E
+suất suất s_B u_I ấ_I t_E
+suối suối s_B u_I ố_I i_E
+suốt suốt s_B u_I ố_I t_E
+system system s_B y_I s_I t_I e_I m_E
+sài sài s_B à_I i_E
+sàn sàn s_B à_I n_E
+sàng sàng s_B à_I n_I g_E
+sành sành s_B à_I n_I h_E
+sào sào s_B à_I o_E
+sá sá s_B á_E
+sách sách s_B á_I c_I h_E
+sán sán s_B á_I n_E
+sáng sáng s_B á_I n_I g_E
+sánh sánh s_B á_I n_I h_E
+sáo sáo s_B á_I o_E
+sáp sáp s_B á_I p_E
+sát sát s_B á_I t_E
+sáu sáu s_B á_I u_E
+sâm sâm s_B â_I m_E
+sân sân s_B â_I n_E
+sâu sâu s_B â_I u_E
+séc séc s_B é_I c_E
+sét sét s_B é_I t_E
+sên sên s_B ê_I n_E
+sêu sêu s_B ê_I u_E
+sì sì s_B ì_E
+sít sít s_B í_I t_E
+sò sò s_B ò_E
+sòng sòng s_B ò_I n_I g_E
+sóc sóc s_B ó_I c_E
+sóng sóng s_B ó_I n_I g_E
+sót sót s_B ó_I t_E
+sô sô s_B ô_E
+sôcôla sôcôla s_B ô_I c_I ô_I l_I a_E
+sôi sôi s_B ô_I i_E
+sông sông s_B ô_I n_I g_E
+sõi sõi s_B õ_I i_E
+sùi sùi s_B ù_I i_E
+súc súc s_B ú_I c_E
+súng súng s_B ú_I n_I g_E
+súp súp s_B ú_I p_E
+sút sút s_B ú_I t_E
+săn săn s_B ă_I n_E
+săng săng s_B ă_I n_I g_E
+sĩ sĩ s_B ĩ_E
+sũ sũ s_B ũ_E
+sũng sũng s_B ũ_I n_I g_E
+sơ sơ s_B ơ_E
+sơn sơn s_B ơ_I n_E
+sư sư s_B ư_E
+sưa sưa s_B ư_I a_E
+sưu sưu s_B ư_I u_E
+sương sương s_B ư_I ơ_I n_I g_E
+sướng sướng s_B ư_I ớ_I n_I g_E
+sườn sườn s_B ư_I ờ_I n_E
+sường sường s_B ư_I ờ_I n_I g_E
+sưởi sưởi s_B ư_I ở_I i_E
+sạ sạ s_B ạ_E
+sạch sạch s_B ạ_I c_I h_E
+sạn sạn s_B ạ_I n_E
+sạt sạt s_B ạ_I t_E
+sải sải s_B ả_I i_E
+sản sản s_B ả_I n_E
+sảng sảng s_B ả_I n_I g_E
+sảo sảo s_B ả_I o_E
+sảy sảy s_B ả_I y_E
+sấm sấm s_B ấ_I m_E
+sấu sấu s_B ấ_I u_E
+sấy sấy s_B ấ_I y_E
+sầm sầm s_B ầ_I m_E
+sần sần s_B ầ_I n_E
+sầu sầu s_B ầ_I u_E
+sẫm sẫm s_B ẫ_I m_E
+sập sập s_B ậ_I p_E
+sắc sắc s_B ắ_I c_E
+sắcxôphôn sắcxôphôn s_B ắ_I c_I x_I ô_I p_I h_I ô_I n_E
+sắm sắm s_B ắ_I m_E
+sắn sắn s_B ắ_I n_E
+sắng sắng s_B ắ_I n_I g_E
+sắp sắp s_B ắ_I p_E
+sắt sắt s_B ắ_I t_E
+sẳp sẳp s_B ẳ_I p_E
+sẵn sẵn s_B ẵ_I n_E
+sặc sặc s_B ặ_I c_E
+sẹo sẹo s_B ẹ_I o_E
+sẻ sẻ s_B ẻ_E
+sẽ sẽ s_B ẽ_E
+sếp sếp s_B ế_I p_E
+sếu sếu s_B ế_I u_E
+sệt sệt s_B ệ_I t_E
+sỉ sỉ s_B ỉ_E
+sọ sọ s_B ọ_E
+sọc sọc s_B ọ_I c_E
+sọt sọt s_B ọ_I t_E
+sỏi sỏi s_B ỏ_I i_E
+sỏng sỏng s_B ỏ_I n_I g_E
+số số s_B ố_E
+sống sống s_B ố_I n_I g_E
+sốt sốt s_B ố_I t_E
+sồi sồi s_B ồ_I i_E
+sổ sổ s_B ổ_E
+sộ sộ s_B ộ_E
+sột sột s_B ộ_I t_E
+sớm sớm s_B ớ_I m_E
+sờ sờ s_B ờ_E
+sở sở s_B ở_E
+sởi sởi s_B ở_I i_E
+sợ sợ s_B ợ_E
+sợi sợi s_B ợ_I i_E
+sụ sụ s_B ụ_E
+sụa sụa s_B ụ_I a_E
+sụp sụp s_B ụ_I p_E
+sụt sụt s_B ụ_I t_E
+sủa sủa s_B ủ_I a_E
+sứ sứ s_B ứ_E
+sứa sứa s_B ứ_I a_E
+sức sức s_B ứ_I c_E
+sứt sứt s_B ứ_I t_E
+sừng sừng s_B ừ_I n_I g_E
+sử sử s_B ử_E
+sửa sửa s_B ử_I a_E
+sửng sửng s_B ử_I n_I g_E
+sửu sửu s_B ử_I u_E
+sữa sữa s_B ữ_I a_E
+sự sự s_B ự_E
+sỹ sỹ s_B ỹ_E
+t t t_S
+ta ta t_B a_E
+tai tai t_B a_I i_E
+talchum talchum t_B a_I l_I c_I h_I u_I m_E
+tam tam t_B a_I m_E
+tan tan t_B a_I n_E
+tang tang t_B a_I n_I g_E
+tanh tanh t_B a_I n_I h_E
+tao tao t_B a_I o_E
+taxi taxi t_B a_I x_I i_E
+tay tay t_B a_I y_E
+tcn tcn t_B c_I n_E
+tem tem t_B e_I m_E
+ten ten t_B e_I n_E
+tha tha t_B h_I a_E
+thai thai t_B h_I a_I i_E
+tham tham t_B h_I a_I m_E
+than than t_B h_I a_I n_E
+thang thang t_B h_I a_I n_I g_E
+thanh thanh t_B h_I a_I n_I h_E
+thao thao t_B h_I a_I o_E
+thau thau t_B h_I a_I u_E
+thay thay t_B h_I a_I y_E
+the the t_B h_I e_E
+theo theo t_B h_I e_I o_E
+thi thi t_B h_I i_E
+thich thich t_B h_I i_I c_I h_E
+thiu thiu t_B h_I i_I u_E
+thiêm thiêm t_B h_I i_I ê_I m_E
+thiên thiên t_B h_I i_I ê_I n_E
+thiêng thiêng t_B h_I i_I ê_I n_I g_E
+thiênhuế thiênhuế t_B h_I i_I ê_I n_I h_I u_I ế_E
+thiêu thiêu t_B h_I i_I ê_I u_E
+thiếc thiếc t_B h_I i_I ế_I c_E
+thiến thiến t_B h_I i_I ế_I n_E
+thiếp thiếp t_B h_I i_I ế_I p_E
+thiết thiết t_B h_I i_I ế_I t_E
+thiếu thiếu t_B h_I i_I ế_I u_E
+thiền thiền t_B h_I i_I ề_I n_E
+thiều thiều t_B h_I i_I ề_I u_E
+thiển thiển t_B h_I i_I ể_I n_E
+thiểu thiểu t_B h_I i_I ể_I u_E
+thiện thiện t_B h_I i_I ệ_I n_E
+thiệp thiệp t_B h_I i_I ệ_I p_E
+thiệt thiệt t_B h_I i_I ệ_I t_E
+thiệu thiệu t_B h_I i_I ệ_I u_E
+tho tho t_B h_I o_E
+thoa thoa t_B h_I o_I a_E
+thoai thoai t_B h_I o_I a_I i_E
+thoi thoi t_B h_I o_I i_E
+thon thon t_B h_I o_I n_E
+thoái thoái t_B h_I o_I á_I i_E
+thoáng thoáng t_B h_I o_I á_I n_I g_E
+thoát thoát t_B h_I o_I á_I t_E
+thoại thoại t_B h_I o_I ạ_I i_E
+thoạt thoạt t_B h_I o_I ạ_I t_E
+thoải thoải t_B h_I o_I ả_I i_E
+thoảng thoảng t_B h_I o_I ả_I n_I g_E
+thoắt thoắt t_B h_I o_I ắ_I t_E
+thoẳn thoẳn t_B h_I o_I ẳ_I n_E
+thu thu t_B h_I u_E
+thua thua t_B h_I u_I a_E
+thun thun t_B h_I u_I n_E
+thung thung t_B h_I u_I n_I g_E
+thuyết thuyết t_B h_I u_I y_I ế_I t_E
+thuyền thuyền t_B h_I u_I y_I ề_I n_E
+thuê thuê t_B h_I u_I ê_E
+thuôn thuôn t_B h_I u_I ô_I n_E
+thuý thuý t_B h_I u_I ý_E
+thuần thuần t_B h_I u_I ầ_I n_E
+thuẫn thuẫn t_B h_I u_I ẫ_I n_E
+thuận thuận t_B h_I u_I ậ_I n_E
+thuật thuật t_B h_I u_I ậ_I t_E
+thuế thuế t_B h_I u_I ế_E
+thuốc thuốc t_B h_I u_I ố_I c_E
+thuộc thuộc t_B h_I u_I ộ_I c_E
+thuột thuột t_B h_I u_I ộ_I t_E
+thuở thuở t_B h_I u_I ở_E
+thuỷ thuỷ t_B h_I u_I ỷ_E
+thà thà t_B h_I à_E
+thàm thàm t_B h_I à_I m_E
+thành thành t_B h_I à_I n_I h_E
+thào thào t_B h_I à_I o_E
+thác thác t_B h_I á_I c_E
+thách thách t_B h_I á_I c_I h_E
+thái thái t_B h_I á_I i_E
+thám thám t_B h_I á_I m_E
+thán thán t_B h_I á_I n_E
+tháng tháng t_B h_I á_I n_I g_E
+thánh thánh t_B h_I á_I n_I h_E
+tháo tháo t_B h_I á_I o_E
+tháp tháp t_B h_I á_I p_E
+thát thát t_B h_I á_I t_E
+thâm thâm t_B h_I â_I m_E
+thân thân t_B h_I â_I n_E
+thât thât t_B h_I â_I t_E
+thâu thâu t_B h_I â_I u_E
+thây thây t_B h_I â_I y_E
+thè thè t_B h_I è_E
+thèm thèm t_B h_I è_I m_E
+thé thé t_B h_I é_E
+thép thép t_B h_I é_I p_E
+thê thê t_B h_I ê_E
+thêm thêm t_B h_I ê_I m_E
+thêu thêu t_B h_I ê_I u_E
+thì thì t_B h_I ì_E
+thìa thìa t_B h_I ì_I a_E
+thí thí t_B h_I í_E
+thích thích t_B h_I í_I c_I h_E
+thím thím t_B h_I í_I m_E
+thính thính t_B h_I í_I n_I h_E
+thò thò t_B h_I ò_E
+thòng thòng t_B h_I ò_I n_I g_E
+thóc thóc t_B h_I ó_I c_E
+thói thói t_B h_I ó_I i_E
+thô thô t_B h_I ô_E
+thôi thôi t_B h_I ô_I i_E
+thôn thôn t_B h_I ô_I n_E
+thông thông t_B h_I ô_I n_I g_E
+thõa thõa t_B h_I õ_I a_E
+thù thù t_B h_I ù_E
+thùa thùa t_B h_I ù_I a_E
+thùng thùng t_B h_I ù_I n_I g_E
+thùy thùy t_B h_I ù_I y_E
+thú thú t_B h_I ú_E
+thúc thúc t_B h_I ú_I c_E
+thúy thúy t_B h_I ú_I y_E
+thăm thăm t_B h_I ă_I m_E
+thăn thăn t_B h_I ă_I n_E
+thăng thăng t_B h_I ă_I n_I g_E
+thũng thũng t_B h_I ũ_I n_I g_E
+thơ thơ t_B h_I ơ_E
+thơi thơi t_B h_I ơ_I i_E
+thơm thơm t_B h_I ơ_I m_E
+thư thư t_B h_I ư_E
+thưa thưa t_B h_I ư_I a_E
+thươ thươ t_B h_I ư_I ơ_E
+thương thương t_B h_I ư_I ơ_I n_I g_E
+thước thước t_B h_I ư_I ớ_I c_E
+thường thường t_B h_I ư_I ờ_I n_I g_E
+thưởng thưởng t_B h_I ư_I ở_I n_I g_E
+thượng thượng t_B h_I ư_I ợ_I n_I g_E
+thạc thạc t_B h_I ạ_I c_E
+thạch thạch t_B h_I ạ_I c_I h_E
+thạo thạo t_B h_I ạ_I o_E
+thả thả t_B h_I ả_E
+thải thải t_B h_I ả_I i_E
+thảm thảm t_B h_I ả_I m_E
+thảnh thảnh t_B h_I ả_I n_I h_E
+thảo thảo t_B h_I ả_I o_E
+thấm thấm t_B h_I ấ_I m_E
+thấp thấp t_B h_I ấ_I p_E
+thất thất t_B h_I ấ_I t_E
+thấu thấu t_B h_I ấ_I u_E
+thấy thấy t_B h_I ấ_I y_E
+thầm thầm t_B h_I ầ_I m_E
+thần thần t_B h_I ầ_I n_E
+thầu thầu t_B h_I ầ_I u_E
+thầy thầy t_B h_I ầ_I y_E
+thẩm thẩm t_B h_I ẩ_I m_E
+thẩn thẩn t_B h_I ẩ_I n_E
+thẫm thẫm t_B h_I ẫ_I m_E
+thậm thậm t_B h_I ậ_I m_E
+thận thận t_B h_I ậ_I n_E
+thập thập t_B h_I ậ_I p_E
+thật thật t_B h_I ậ_I t_E
+thắc thắc t_B h_I ắ_I c_E
+thắm thắm t_B h_I ắ_I m_E
+thắng thắng t_B h_I ắ_I n_I g_E
+thắt thắt t_B h_I ắ_I t_E
+thằn thằn t_B h_I ằ_I n_E
+thằng thằng t_B h_I ằ_I n_I g_E
+thẳm thẳm t_B h_I ẳ_I m_E
+thẳng thẳng t_B h_I ẳ_I n_I g_E
+thẹn thẹn t_B h_I ẹ_I n_E
+thẻ thẻ t_B h_I ẻ_E
+thế thế t_B h_I ế_E
+thề thề t_B h_I ề_E
+thể thể t_B h_I ể_E
+thỉnh thỉnh t_B h_I ỉ_I n_I h_E
+thỉu thỉu t_B h_I ỉ_I u_E
+thị thị t_B h_I ị_E
+thịnh thịnh t_B h_I ị_I n_I h_E
+thịt thịt t_B h_I ị_I t_E
+thọ thọ t_B h_I ọ_E
+thọai thọai t_B h_I ọ_I a_I i_E
+thọt thọt t_B h_I ọ_I t_E
+thỏ thỏ t_B h_I ỏ_E
+thỏa thỏa t_B h_I ỏ_I a_E
+thỏi thỏi t_B h_I ỏ_I i_E
+thố thố t_B h_I ố_E
+thối thối t_B h_I ố_I i_E
+thống thống t_B h_I ố_I n_I g_E
+thốt thốt t_B h_I ố_I t_E
+thồ thồ t_B h_I ồ_E
+thổ thổ t_B h_I ổ_E
+thổi thổi t_B h_I ổ_I i_E
+thộm thộm t_B h_I ộ_I m_E
+thớt thớt t_B h_I ớ_I t_E
+thờ thờ t_B h_I ờ_E
+thời thời t_B h_I ờ_I i_E
+thở thở t_B h_I ở_E
+thợ thợ t_B h_I ợ_E
+thụ thụ t_B h_I ụ_E
+thục thục t_B h_I ụ_I c_E
+thụng thụng t_B h_I ụ_I n_I g_E
+thụy thụy t_B h_I ụ_I y_E
+thụysĩ thụysĩ t_B h_I ụ_I y_I s_I ĩ_E
+thủ thủ t_B h_I ủ_E
+thủa thủa t_B h_I ủ_I a_E
+thủng thủng t_B h_I ủ_I n_I g_E
+thủy thủy t_B h_I ủ_I y_E
+thứ thứ t_B h_I ứ_E
+thức thức t_B h_I ứ_I c_E
+thừa thừa t_B h_I ừ_I a_E
+thừng thừng t_B h_I ừ_I n_I g_E
+thử thử t_B h_I ử_E
+thửa thửa t_B h_I ử_I a_E
+thự thự t_B h_I ự_E
+thực thực t_B h_I ự_I c_E
+ti ti t_B i_E
+tia tia t_B i_I a_E
+tim tim t_B i_I m_E
+time time t_B i_I m_I e_E
+tin tin t_B i_I n_E
+tinh tinh t_B i_I n_I h_E
+tivi tivi t_B i_I v_I i_E
+tiá tiá t_B i_I á_E
+tiê tiê t_B i_I ê_E
+tiêc tiêc t_B i_I ê_I c_E
+tiêm tiêm t_B i_I ê_I m_E
+tiên tiên t_B i_I ê_I n_E
+tiêu tiêu t_B i_I ê_I u_E
+tiếc tiếc t_B i_I ế_I c_E
+tiếm tiếm t_B i_I ế_I m_E
+tiến tiến t_B i_I ế_I n_E
+tiếng tiếng t_B i_I ế_I n_I g_E
+tiếp tiếp t_B i_I ế_I p_E
+tiết tiết t_B i_I ế_I t_E
+tiếu tiếu t_B i_I ế_I u_E
+tiềm tiềm t_B i_I ề_I m_E
+tiền tiền t_B i_I ề_I n_E
+tiểu tiểu t_B i_I ể_I u_E
+tiễn tiễn t_B i_I ễ_I n_E
+tiễu tiễu t_B i_I ễ_I u_E
+tiệc tiệc t_B i_I ệ_I c_E
+tiệm tiệm t_B i_I ệ_I m_E
+tiện tiện t_B i_I ệ_I n_E
+tiệp tiệp t_B i_I ệ_I p_E
+to to t_B o_E
+toa toa t_B o_I a_E
+toan toan t_B o_I a_I n_E
+tokyo tokyo t_B o_I k_I y_I o_E
+tom tom t_B o_I m_E
+tong tong t_B o_I n_I g_E
+top top t_B o_I p_E
+toyota toyota t_B o_I y_I o_I t_I a_E
+toàn toàn t_B o_I à_I n_E
+toán toán t_B o_I á_I n_E
+toát toát t_B o_I á_I t_E
+toạ toạ t_B o_I ạ_E
+toạc toạc t_B o_I ạ_I c_E
+tr tr t_B r_E
+tra tra t_B r_I a_E
+trai trai t_B r_I a_I i_E
+trang trang t_B r_I a_I n_I g_E
+tranh tranh t_B r_I a_I n_I h_E
+trao trao t_B r_I a_I o_E
+trau trau t_B r_I a_I u_E
+tre tre t_B r_I e_E
+treo treo t_B r_I e_I o_E
+tri tri t_B r_I i_E
+trinh trinh t_B r_I i_I n_I h_E
+triết triết t_B r_I i_I ế_I t_E
+triều triều t_B r_I i_I ề_I u_E
+triển triển t_B r_I i_I ể_I n_E
+triệt triệt t_B r_I i_I ệ_I t_E
+triệu triệu t_B r_I i_I ệ_I u_E
+tro tro t_B r_I o_E
+trombon trombon t_B r_I o_I m_I b_I o_I n_E
+trong trong t_B r_I o_I n_I g_E
+trum trum t_B r_I u_I m_E
+trumpet trumpet t_B r_I u_I m_I p_I e_I t_E
+trung trung t_B r_I u_I n_I g_E
+truy truy t_B r_I u_I y_E
+truyên truyên t_B r_I u_I y_I ê_I n_E
+truyền truyền t_B r_I u_I y_I ề_I n_E
+truyện truyện t_B r_I u_I y_I ệ_I n_E
+truông truông t_B r_I u_I ô_I n_I g_E
+truồng truồng t_B r_I u_I ồ_I n_I g_E
+truờng truờng t_B r_I u_I ờ_I n_I g_E
+trà trà t_B r_I à_E
+tràn tràn t_B r_I à_I n_E
+tràng tràng t_B r_I à_I n_I g_E
+trào trào t_B r_I à_I o_E
+trá trá t_B r_I á_E
+trách trách t_B r_I á_I c_I h_E
+trái trái t_B r_I á_I i_E
+tráng tráng t_B r_I á_I n_I g_E
+tránh tránh t_B r_I á_I n_I h_E
+trát trát t_B r_I á_I t_E
+trâm trâm t_B r_I â_I m_E
+trân trân t_B r_I â_I n_E
+trâu trâu t_B r_I â_I u_E
+trây trây t_B r_I â_I y_E
+trãi trãi t_B r_I ã_I i_E
+trèo trèo t_B r_I è_I o_E
+tréo tréo t_B r_I é_I o_E
+trên trên t_B r_I ê_I n_E
+trêu trêu t_B r_I ê_I u_E
+trì trì t_B r_I ì_E
+trình trình t_B r_I ì_I n_I h_E
+trìu trìu t_B r_I ì_I u_E
+trí trí t_B r_I í_E
+trích trích t_B r_I í_I c_I h_E
+trò trò t_B r_I ò_E
+tròn tròn t_B r_I ò_I n_E
+tròng tròng t_B r_I ò_I n_I g_E
+trói trói t_B r_I ó_I i_E
+trôi trôi t_B r_I ô_I i_E
+trômbôn trômbôn t_B r_I ô_I m_I b_I ô_I n_E
+trông trông t_B r_I ô_I n_I g_E
+trù trù t_B r_I ù_E
+trùng trùng t_B r_I ù_I n_I g_E
+trú trú t_B r_I ú_E
+trúc trúc t_B r_I ú_I c_E
+trúng trúng t_B r_I ú_I n_I g_E
+trăm trăm t_B r_I ă_I m_E
+trăn trăn t_B r_I ă_I n_E
+trăng trăng t_B r_I ă_I n_I g_E
+trĩ trĩ t_B r_I ĩ_E
+trũng trũng t_B r_I ũ_I n_I g_E
+trơn trơn t_B r_I ơ_I n_E
+trưa trưa t_B r_I ư_I a_E
+trưng trưng t_B r_I ư_I n_I g_E
+trương trương t_B r_I ư_I ơ_I n_I g_E
+trước trước t_B r_I ư_I ớ_I c_E
+trướng trướng t_B r_I ư_I ớ_I n_I g_E
+trườn trườn t_B r_I ư_I ờ_I n_E
+trường trường t_B r_I ư_I ờ_I n_I g_E
+trưởng trưởng t_B r_I ư_I ở_I n_I g_E
+trượng trượng t_B r_I ư_I ợ_I n_I g_E
+trượt trượt t_B r_I ư_I ợ_I t_E
+trạch trạch t_B r_I ạ_I c_I h_E
+trại trại t_B r_I ạ_I i_E
+trạm trạm t_B r_I ạ_I m_E
+trạng trạng t_B r_I ạ_I n_I g_E
+trả trả t_B r_I ả_E
+trải trải t_B r_I ả_I i_E
+trảm trảm t_B r_I ả_I m_E
+trấn trấn t_B r_I ấ_I n_E
+trấu trấu t_B r_I ấ_I u_E
+trầm trầm t_B r_I ầ_I m_E
+trần trần t_B r_I ầ_I n_E
+trầu trầu t_B r_I ầ_I u_E
+trầy trầy t_B r_I ầ_I y_E
+trẩu trẩu t_B r_I ẩ_I u_E
+trận trận t_B r_I ậ_I n_E
+trật trật t_B r_I ậ_I t_E
+trắc trắc t_B r_I ắ_I c_E
+trắm trắm t_B r_I ắ_I m_E
+trắng trắng t_B r_I ắ_I n_I g_E
+trẹ trẹ t_B r_I ẹ_E
+trẻ trẻ t_B r_I ẻ_E
+trễ trễ t_B r_I ễ_E
+trệ trệ t_B r_I ệ_E
+trệt trệt t_B r_I ệ_I t_E
+trị trị t_B r_I ị_E
+trịch trịch t_B r_I ị_I c_I h_E
+trịnh trịnh t_B r_I ị_I n_I h_E
+trọ trọ t_B r_I ọ_E
+trọng trọng t_B r_I ọ_I n_I g_E
+trỏ trỏ t_B r_I ỏ_E
+trối trối t_B r_I ố_I i_E
+trốn trốn t_B r_I ố_I n_E
+trống trống t_B r_I ố_I n_I g_E
+trồi trồi t_B r_I ồ_I i_E
+trồng trồng t_B r_I ồ_I n_I g_E
+trội trội t_B r_I ộ_I i_E
+trộm trộm t_B r_I ộ_I m_E
+trộn trộn t_B r_I ộ_I n_E
+trớ trớ t_B r_I ớ_E
+trớn trớn t_B r_I ớ_I n_E
+trời trời t_B r_I ờ_I i_E
+trở trở t_B r_I ở_E
+trợ trợ t_B r_I ợ_E
+trợn trợn t_B r_I ợ_I n_E
+trợt trợt t_B r_I ợ_I t_E
+trụ trụ t_B r_I ụ_E
+trục trục t_B r_I ụ_I c_E
+trụng trụng t_B r_I ụ_I n_I g_E
+trứng trứng t_B r_I ứ_I n_I g_E
+trừ trừ t_B r_I ừ_E
+trừu trừu t_B r_I ừ_I u_E
+trữ trữ t_B r_I ữ_E
+trực trực t_B r_I ự_I c_E
+tu tu t_B u_E
+tua tua t_B u_I a_E
+tum tum t_B u_I m_E
+tung tung t_B u_I n_I g_E
+tuy tuy t_B u_I y_E
+tuyên tuyên t_B u_I y_I ê_I n_E
+tuyến tuyến t_B u_I y_I ế_I n_E
+tuyết tuyết t_B u_I y_I ế_I t_E
+tuyền tuyền t_B u_I y_I ề_I n_E
+tuyển tuyển t_B u_I y_I ể_I n_E
+tuyệt tuyệt t_B u_I y_I ệ_I t_E
+tuâ tuâ t_B u_I â_E
+tuân tuân t_B u_I â_I n_E
+tuông tuông t_B u_I ô_I n_I g_E
+tuấn tuấn t_B u_I ấ_I n_E
+tuầ tuầ t_B u_I ầ_E
+tuần tuần t_B u_I ầ_I n_E
+tuế tuế t_B u_I ế_E
+tuếch tuếch t_B u_I ế_I c_I h_E
+tuệ tuệ t_B u_I ệ_E
+tuồng tuồng t_B u_I ồ_I n_I g_E
+tuổi tuổi t_B u_I ổ_I i_E
+tuộc tuộc t_B u_I ộ_I c_E
+tv tv t_B v_E
+txêtxê txêtxê t_B x_I ê_I t_I x_I ê_E
+ty ty t_B y_E
+tà tà t_B à_E
+tài tài t_B à_I i_E
+tàm tàm t_B à_I m_E
+tàn tàn t_B à_I n_E
+tàng tàng t_B à_I n_I g_E
+tành tành t_B à_I n_I h_E
+tào tào t_B à_I o_E
+tàu tàu t_B à_I u_E
+tá tá t_B á_E
+tác tác t_B á_I c_E
+tách tách t_B á_I c_I h_E
+tái tái t_B á_I i_E
+tám tám t_B á_I m_E
+tán tán t_B á_I n_E
+táng táng t_B á_I n_I g_E
+táo táo t_B á_I o_E
+tát tát t_B á_I t_E
+tâm tâm t_B â_I m_E
+tân tân t_B â_I n_E
+tâng tâng t_B â_I n_I g_E
+tây tây t_B â_I y_E
+tã tã t_B ã_E
+té té t_B é_E
+tét tét t_B é_I t_E
+tê tê t_B ê_E
+tên tên t_B ê_I n_E
+tìm tìm t_B ì_I m_E
+tìn tìn t_B ì_I n_E
+tình tình t_B ì_I n_I h_E
+tí tí t_B í_E
+tía tía t_B í_I a_E
+tích tích t_B í_I c_I h_E
+tím tím t_B í_I m_E
+tín tín t_B í_I n_E
+tính tính t_B í_I n_I h_E
+típ típ t_B í_I p_E
+tít tít t_B í_I t_E
+tò tò t_B ò_E
+tòa tòa t_B ò_I a_E
+tòi tòi t_B ò_I i_E
+tòng tòng t_B ò_I n_I g_E
+tóc tóc t_B ó_I c_E
+tóm tóm t_B ó_I m_E
+tóp tóp t_B ó_I p_E
+tô tô t_B ô_E
+tôi tôi t_B ô_I i_E
+tôm tôm t_B ô_I m_E
+tôn tôn t_B ô_I n_E
+tông tông t_B ô_I n_I g_E
+tù tù t_B ù_E
+tùng tùng t_B ù_I n_I g_E
+tùy tùy t_B ù_I y_E
+tú tú t_B ú_E
+túc túc t_B ú_I c_E
+túi túi t_B ú_I i_E
+túng túng t_B ú_I n_I g_E
+túp túp t_B ú_I p_E
+túy túy t_B ú_I y_E
+tăm tăm t_B ă_I m_E
+tăng tăng t_B ă_I n_I g_E
+tĩnh tĩnh t_B ĩ_I n_I h_E
+tơ tơ t_B ơ_E
+tơi tơi t_B ơ_I i_E
+tư tư t_B ư_E
+tưng tưng t_B ư_I n_I g_E
+tươi tươi t_B ư_I ơ_I i_E
+tươm tươm t_B ư_I ơ_I m_E
+tương tương t_B ư_I ơ_I n_I g_E
+tước tước t_B ư_I ớ_I c_E
+tưới tưới t_B ư_I ớ_I i_E
+tướn tướn t_B ư_I ớ_I n_E
+tướng tướng t_B ư_I ớ_I n_I g_E
+tườm tườm t_B ư_I ờ_I m_E
+tường tường t_B ư_I ờ_I n_I g_E
+tưởng tưởng t_B ư_I ở_I n_I g_E
+tượng tượng t_B ư_I ợ_I n_I g_E
+tượp tượp t_B ư_I ợ_I p_E
+tạ tạ t_B ạ_E
+tạc tạc t_B ạ_I c_E
+tại tại t_B ạ_I i_E
+tạm tạm t_B ạ_I m_E
+tạng tạng t_B ạ_I n_I g_E
+tạo tạo t_B ạ_I o_E
+tạp tạp t_B ạ_I p_E
+tả tả t_B ả_E
+tải tải t_B ả_I i_E
+tản tản t_B ả_I n_E
+tảng tảng t_B ả_I n_I g_E
+tấc tấc t_B ấ_I c_E
+tấm tấm t_B ấ_I m_E
+tấn tấn t_B ấ_I n_E
+tất tất t_B ấ_I t_E
+tấy tấy t_B ấ_I y_E
+tầm tầm t_B ầ_I m_E
+tần tần t_B ầ_I n_E
+tầng tầng t_B ầ_I n_I g_E
+tẩm tẩm t_B ẩ_I m_E
+tẩu tẩu t_B ẩ_I u_E
+tẩy tẩy t_B ẩ_I y_E
+tận tận t_B ậ_I n_E
+tập tập t_B ậ_I p_E
+tật tật t_B ậ_I t_E
+tắc tắc t_B ắ_I c_E
+tắm tắm t_B ắ_I m_E
+tắn tắn t_B ắ_I n_E
+tắp tắp t_B ắ_I p_E
+tắt tắt t_B ắ_I t_E
+tằm tằm t_B ằ_I m_E
+tằn tằn t_B ằ_I n_E
+tằng tằng t_B ằ_I n_I g_E
+tặc tặc t_B ặ_I c_E
+tặng tặng t_B ặ_I n_I g_E
+tẹo tẹo t_B ẹ_I o_E
+tẹp tẹp t_B ẹ_I p_E
+tẻ tẻ t_B ẻ_E
+tế tế t_B ế_E
+tết tết t_B ế_I t_E
+tề tề t_B ề_E
+tểu tểu t_B ể_I u_E
+tệ tệ t_B ệ_E
+tỉ tỉ t_B ỉ_E
+tỉa tỉa t_B ỉ_I a_E
+tỉm tỉm t_B ỉ_I m_E
+tỉnh tỉnh t_B ỉ_I n_I h_E
+tị tị t_B ị_E
+tịch tịch t_B ị_I c_I h_E
+tịnh tịnh t_B ị_I n_I h_E
+tọa tọa t_B ọ_I a_E
+tọc tọc t_B ọ_I c_E
+tọp tọp t_B ọ_I p_E
+tỏ tỏ t_B ỏ_E
+tỏa tỏa t_B ỏ_I a_E
+tỏi tỏi t_B ỏ_I i_E
+tố tố t_B ố_E
+tốc tốc t_B ố_I c_E
+tối tối t_B ố_I i_E
+tốn tốn t_B ố_I n_E
+tống tống t_B ố_I n_I g_E
+tốt tốt t_B ố_I t_E
+tồ tồ t_B ồ_E
+tồi tồi t_B ồ_I i_E
+tồn tồn t_B ồ_I n_E
+tổ tổ t_B ổ_E
+tổng tổng t_B ổ_I n_I g_E
+tộc tộc t_B ộ_I c_E
+tội tội t_B ộ_I i_E
+tột tột t_B ộ_I t_E
+tớ tớ t_B ớ_E
+tới tới t_B ớ_I i_E
+tờ tờ t_B ờ_E
+tời tời t_B ờ_I i_E
+tụ tụ t_B ụ_E
+tục tục t_B ụ_I c_E
+tụi tụi t_B ụ_I i_E
+tụng tụng t_B ụ_I n_I g_E
+tủ tủ t_B ủ_E
+tủa tủa t_B ủ_I a_E
+tủi tủi t_B ủ_I i_E
+tủm tủm t_B ủ_I m_E
+tủn tủn t_B ủ_I n_E
+tủoi tủoi t_B ủ_I o_I i_E
+tủy tủy t_B ủ_I y_E
+tứ tứ t_B ứ_E
+tức tức t_B ứ_I c_E
+từ từ t_B ừ_E
+từng từng t_B ừ_I n_I g_E
+tử tử t_B ử_E
+tửu tửu t_B ử_I u_E
+tự tự t_B ự_E
+tựa tựa t_B ự_I a_E
+tựu tựu t_B ự_I u_E
+tỳ tỳ t_B ỳ_E
+tỵ tỵ t_B ỵ_E
+tỷ tỷ t_B ỷ_E
+u u u_S
+um um u_B m_E
+ung ung u_B n_I g_E
+uy uy u_B y_E
+uyển uyển u_B y_I ể_I n_E
+uôm uôm u_B ô_I m_E
+uôn uôn u_B ô_I n_E
+uông uông u_B ô_I n_I g_E
+uất uất u_B ấ_I t_E
+uẩn uẩn u_B ẩ_I n_E
+uế uế u_B ế_E
+uốn uốn u_B ố_I n_E
+uống uống u_B ố_I n_I g_E
+uốnxoấn uốnxoấn u_B ố_I n_I x_I o_I ấ_I n_E
+uốnxoắn uốnxoắn u_B ố_I n_I x_I o_I ắ_I n_E
+uổi uổi u_B ổ_I i_E
+uổng uổng u_B ổ_I n_I g_E
+uỷ uỷ u_B ỷ_E
+v v v_S
+va va v_B a_E
+vai vai v_B a_I i_E
+van van v_B a_I n_E
+vang vang v_B a_I n_I g_E
+vay vay v_B a_I y_E
+ve ve v_B e_E
+ven ven v_B e_I n_E
+vi vi v_B i_E
+victor victor v_B i_I c_I t_I o_I r_E
+video video v_B i_I d_I e_I o_E
+vieng vieng v_B i_I e_I n_I g_E
+vietnam vietnam v_B i_I e_I t_I n_I a_I m_E
+vietnamese vietnamese v_B i_I e_I t_I n_I a_I m_I e_I s_I e_E
+viglacera viglacera v_B i_I g_I l_I a_I c_I e_I r_I a_E
+vinh vinh v_B i_I n_I h_E
+violon violon v_B i_I o_I l_I o_I n_E
+viê viê v_B i_I ê_E
+viêm viêm v_B i_I ê_I m_E
+viên viên v_B i_I ê_I n_E
+viôlông viôlông v_B i_I ô_I l_I ô_I n_I g_E
+viếng viếng v_B i_I ế_I n_I g_E
+viết viết v_B i_I ế_I t_E
+viền viền v_B i_I ề_I n_E
+viển viển v_B i_I ể_I n_E
+viễn viễn v_B i_I ễ_I n_E
+việc việc v_B i_I ệ_I c_E
+viện viện v_B i_I ệ_I n_E
+việt việt v_B i_I ệ_I t_E
+vo vo v_B o_E
+voan voan v_B o_I a_I n_E
+voi voi v_B o_I i_E
+vong vong v_B o_I n_I g_E
+voyager voyager v_B o_I y_I a_I g_I e_I r_E
+voọc voọc v_B o_I ọ_I c_E
+vu vu v_B u_E
+vua vua v_B u_I a_E
+vui vui v_B u_I i_E
+vung vung v_B u_I n_I g_E
+vuông vuông v_B u_I ô_I n_I g_E
+vuốt vuốt v_B u_I ố_I t_E
+và và v_B à_E
+vài vài v_B à_I i_E
+vàn vàn v_B à_I n_E
+vàng vàng v_B à_I n_I g_E
+vành vành v_B à_I n_I h_E
+vào vào v_B à_I o_E
+vày vày v_B à_I y_E
+vá vá v_B á_E
+vác vác v_B á_I c_E
+vách vách v_B á_I c_I h_E
+vái vái v_B á_I i_E
+ván ván v_B á_I n_E
+váng váng v_B á_I n_I g_E
+váo váo v_B á_I o_E
+vát vát v_B á_I t_E
+váy váy v_B á_I y_E
+vâ vâ v_B â_E
+vân vân v_B â_I n_E
+vâng vâng v_B â_I n_I g_E
+vã vã v_B ã_E
+vãi vãi v_B ã_I i_E
+vãng vãng v_B ã_I n_I g_E
+vãnh vãnh v_B ã_I n_I h_E
+vè vè v_B è_E
+vé vé v_B é_E
+vét vét v_B é_I t_E
+vê vê v_B ê_E
+vênh vênh v_B ê_I n_I h_E
+vì vì v_B ì_E
+ví ví v_B í_E
+vía vía v_B í_I a_E
+vít vít v_B í_I t_E
+víu víu v_B í_I u_E
+vò vò v_B ò_E
+vòi vòi v_B ò_I i_E
+vòm vòm v_B ò_I m_E
+vòng vòng v_B ò_I n_I g_E
+vóc vóc v_B ó_I c_E
+vóng vóng v_B ó_I n_I g_E
+vót vót v_B ó_I t_E
+vô vô v_B ô_E
+vông vông v_B ô_I n_I g_E
+võ võ v_B õ_E
+võng võng v_B õ_I n_I g_E
+vùng vùng v_B ù_I n_I g_E
+vú vú v_B ú_E
+vút vút v_B ú_I t_E
+văn văn v_B ă_I n_E
+vĩ vĩ v_B ĩ_E
+vĩnh vĩnh v_B ĩ_I n_I h_E
+vũ vũ v_B ũ_E
+vũng vũng v_B ũ_I n_I g_E
+vơ vơ v_B ơ_E
+vươn vươn v_B ư_I ơ_I n_E
+vương vương v_B ư_I ơ_I n_I g_E
+vướng vướng v_B ư_I ớ_I n_I g_E
+vườn vườn v_B ư_I ờ_I n_E
+vược vược v_B ư_I ợ_I c_E
+vượn vượn v_B ư_I ợ_I n_E
+vượng vượng v_B ư_I ợ_I n_I g_E
+vượt vượt v_B ư_I ợ_I t_E
+vạ vạ v_B ạ_E
+vạc vạc v_B ạ_I c_E
+vạch vạch v_B ạ_I c_I h_E
+vại vại v_B ạ_I i_E
+vạm vạm v_B ạ_I m_E
+vạn vạn v_B ạ_I n_E
+vạt vạt v_B ạ_I t_E
+vả vả v_B ả_E
+vải vải v_B ả_I i_E
+vảng vảng v_B ả_I n_I g_E
+vảy vảy v_B ả_I y_E
+vấn vấn v_B ấ_I n_E
+vấp vấp v_B ấ_I p_E
+vất vất v_B ấ_I t_E
+vần vần v_B ầ_I n_E
+vẩn vẩn v_B ẩ_I n_E
+vẩy vẩy v_B ẩ_I y_E
+vẫn vẫn v_B ẫ_I n_E
+vẫy vẫy v_B ẫ_I y_E
+vận vận v_B ậ_I n_E
+vật vật v_B ậ_I t_E
+vậy vậy v_B ậ_I y_E
+vắng vắng v_B ắ_I n_I g_E
+vặn vặn v_B ặ_I n_E
+vặt vặt v_B ặ_I t_E
+vẹn vẹn v_B ẹ_I n_E
+vẹo vẹo v_B ẹ_I o_E
+vẹt vẹt v_B ẹ_I t_E
+vẻ vẻ v_B ẻ_E
+vẽ vẽ v_B ẽ_E
+vết vết v_B ế_I t_E
+về về v_B ề_E
+vềm vềm v_B ề_I m_E
+vệ vệ v_B ệ_E
+vị vị v_B ị_E
+vịn vịn v_B ị_I n_E
+vịnh vịnh v_B ị_I n_I h_E
+vịt vịt v_B ị_I t_E
+vọc vọc v_B ọ_I c_E
+vọng vọng v_B ọ_I n_I g_E
+vỏ vỏ v_B ỏ_E
+vố vố v_B ố_E
+vốn vốn v_B ố_I n_E
+vồ vồ v_B ồ_E
+vồn vồn v_B ồ_I n_E
+vồng vồng v_B ồ_I n_I g_E
+vỗ vỗ v_B ỗ_E
+vộ vộ v_B ộ_E
+vội vội v_B ộ_I i_E
+vớ vớ v_B ớ_E
+với với v_B ớ_I i_E
+vớt vớt v_B ớ_I t_E
+vờ vờ v_B ờ_E
+vời vời v_B ờ_I i_E
+vở vở v_B ở_E
+vởn vởn v_B ở_I n_E
+vỡ vỡ v_B ỡ_E
+vợ vợ v_B ợ_E
+vợt vợt v_B ợ_I t_E
+vụ vụ v_B ụ_E
+vụn vụn v_B ụ_I n_E
+vụng vụng v_B ụ_I n_I g_E
+vụt vụt v_B ụ_I t_E
+vứt vứt v_B ứ_I t_E
+vừa vừa v_B ừ_I a_E
+vừng vừng v_B ừ_I n_I g_E
+vữa vữa v_B ữ_I a_E
+vững vững v_B ữ_I n_I g_E
+vựa vựa v_B ự_I a_E
+vực vực v_B ự_I c_E
+vựng vựng v_B ự_I n_I g_E
+x x x_S
+xa xa x_B a_E
+xam xam x_B a_I m_E
+xang xang x_B a_I n_I g_E
+xanh xanh x_B a_I n_I h_E
+xao xao x_B a_I o_E
+xatanh xatanh x_B a_I t_I a_I n_I h_E
+xay xay x_B a_I y_E
+xe xe x_B e_E
+xem xem x_B e_I m_E
+xentimét xentimét x_B e_I n_I t_I i_I m_I é_I t_E
+xi xi x_B i_E
+xin xin x_B i_I n_E
+xinh xinh x_B i_I n_I h_E
+xiêm xiêm x_B i_I ê_I m_E
+xiên xiên x_B i_I ê_I n_E
+xiêu xiêu x_B i_I ê_I u_E
+xiếc xiếc x_B i_I ế_I c_E
+xiết xiết x_B i_I ế_I t_E
+xiềng xiềng x_B i_I ề_I n_I g_E
+xiểm xiểm x_B i_I ể_I m_E
+xiển xiển x_B i_I ể_I n_E
+xo xo x_B o_E
+xoa xoa x_B o_I a_E
+xoang xoang x_B o_I a_I n_I g_E
+xoay xoay x_B o_I a_I y_E
+xoe xoe x_B o_I e_E
+xong xong x_B o_I n_I g_E
+xoong xoong x_B o_I o_I n_I g_E
+xoài xoài x_B o_I à_I i_E
+xoàng xoàng x_B o_I à_I n_I g_E
+xoáy xoáy x_B o_I á_I y_E
+xoảng xoảng x_B o_I ả_I n_I g_E
+xoắn xoắn x_B o_I ắ_I n_E
+xoẳn xoẳn x_B o_I ẳ_I n_E
+xquang xquang x_B q_I u_I a_I n_I g_E
+xu xu x_B u_E
+xua xua x_B u_I a_E
+xui xui x_B u_I i_E
+xun xun x_B u_I n_E
+xung xung x_B u_I n_I g_E
+xuyên xuyên x_B u_I y_I ê_I n_E
+xuyến xuyến x_B u_I y_I ế_I n_E
+xuyết xuyết x_B u_I y_I ế_I t_E
+xuân xuân x_B u_I â_I n_E
+xuôi xuôi x_B u_I ô_I i_E
+xuông xuông x_B u_I ô_I n_I g_E
+xuýt xuýt x_B u_I ý_I t_E
+xuất xuất x_B u_I ấ_I t_E
+xuấtnhập xuấtnhập x_B u_I ấ_I t_I n_I h_I ậ_I p_E
+xuống xuống x_B u_I ố_I n_I g_E
+xuồng xuồng x_B u_I ồ_I n_I g_E
+xà xà x_B à_E
+xài xài x_B à_I i_E
+xàlách xàlách x_B à_I l_I á_I c_I h_E
+xàm xàm x_B à_I m_E
+xàng xàng x_B à_I n_I g_E
+xào xào x_B à_I o_E
+xàu xàu x_B à_I u_E
+xá xá x_B á_E
+xác xác x_B á_I c_E
+xách xách x_B á_I c_I h_E
+xái xái x_B á_I i_E
+xám xám x_B á_I m_E
+xán xán x_B á_I n_E
+xáng xáng x_B á_I n_I g_E
+xáo xáo x_B á_I o_E
+xáp xáp x_B á_I p_E
+xát xát x_B á_I t_E
+xáy xáy x_B á_I y_E
+xâm xâm x_B â_I m_E
+xây xây x_B â_I y_E
+xã xã x_B ã_E
+xèo xèo x_B è_I o_E
+xé xé x_B é_E
+xéo xéo x_B é_I o_E
+xép xép x_B é_I p_E
+xét xét x_B é_I t_E
+xê xê x_B ê_E
+xêút xêút x_B ê_I ú_I t_E
+xì xì x_B ì_E
+xìu xìu x_B ì_I u_E
+xí xí x_B í_E
+xía xía x_B í_I a_E
+xích xích x_B í_I c_I h_E
+xít xít x_B í_I t_E
+xíu xíu x_B í_I u_E
+xó xó x_B ó_E
+xóa xóa x_B ó_I a_E
+xói xói x_B ó_I i_E
+xóm xóm x_B ó_I m_E
+xót xót x_B ó_I t_E
+xô xô x_B ô_E
+xôi xôi x_B ô_I i_E
+xôn xôn x_B ô_I n_E
+xông xông x_B ô_I n_I g_E
+xù xù x_B ù_E
+xú xú x_B ú_E
+xúc xúc x_B ú_I c_E
+xúi xúi x_B ú_I i_E
+xúp xúp x_B ú_I p_E
+xúy xúy x_B ú_I y_E
+xăm xăm x_B ă_I m_E
+xăn xăn x_B ă_I n_E
+xăng xăng x_B ă_I n_I g_E
+xơ xơ x_B ơ_E
+xơi xơi x_B ơ_I i_E
+xơm xơm x_B ơ_I m_E
+xưa xưa x_B ư_I a_E
+xưng xưng x_B ư_I n_I g_E
+xương xương x_B ư_I ơ_I n_I g_E
+xướng xướng x_B ư_I ớ_I n_I g_E
+xưởng xưởng x_B ư_I ở_I n_I g_E
+xược xược x_B ư_I ợ_I c_E
+xạ xạ x_B ạ_E
+xạc xạc x_B ạ_I c_E
+xạm xạm x_B ạ_I m_E
+xạo xạo x_B ạ_I o_E
+xả xả x_B ả_E
+xải xải x_B ả_I i_E
+xảm xảm x_B ả_I m_E
+xảo xảo x_B ả_I o_E
+xảu xảu x_B ả_I u_E
+xảy xảy x_B ả_I y_E
+xấc xấc x_B ấ_I c_E
+xấp xấp x_B ấ_I p_E
+xấu xấu x_B ấ_I u_E
+xẩn xẩn x_B ẩ_I n_E
+xắc xắc x_B ắ_I c_E
+xắn xắn x_B ắ_I n_E
+xắp xắp x_B ắ_I p_E
+xẹp xẹp x_B ẹ_I p_E
+xẻ xẻ x_B ẻ_E
+xẻng xẻng x_B ẻ_I n_I g_E
+xẻo xẻo x_B ẻ_I o_E
+xế xế x_B ế_E
+xếp xếp x_B ế_I p_E
+xỉ xỉ x_B ỉ_E
+xỉa xỉa x_B ỉ_I a_E
+xỉn xỉn x_B ỉ_I n_E
+xỉnh xỉnh x_B ỉ_I n_I h_E
+xỉu xỉu x_B ỉ_I u_E
+xị xị x_B ị_E
+xịch xịch x_B ị_I c_I h_E
+xịt xịt x_B ị_I t_E
+xọc xọc x_B ọ_I c_E
+xọp xọp x_B ọ_I p_E
+xỏ xỏ x_B ỏ_E
+xốt xốt x_B ố_I t_E
+xồm xồm x_B ồ_I m_E
+xổ xổ x_B ổ_E
+xổm xổm x_B ổ_I m_E
+xộn xộn x_B ộ_I n_E
+xới xới x_B ớ_I i_E
+xờm xờm x_B ờ_I m_E
+xỡ xỡ x_B ỡ_E
+xủi xủi x_B ủ_I i_E
+xứ xứ x_B ứ_E
+xứng xứng x_B ứ_I n_I g_E
+xử xử x_B ử_E
+xửa xửa x_B ử_I a_E
+xửng xửng x_B ử_I n_I g_E
+y y y_S
+yamaha yamaha y_B a_I m_I a_I h_I a_E
+yang yang y_B a_I n_I g_E
+yen yen y_B e_I n_E
+yoga yoga y_B o_I g_I a_E
+yên yên y_B ê_I n_E
+yêng yêng y_B ê_I n_I g_E
+yêu yêu y_B ê_I u_E
+yếm yếm y_B ế_I m_E
+yến yến y_B ế_I n_E
+yết yết y_B ế_I t_E
+yếu yếu y_B ế_I u_E
+yểm yểm y_B ể_I m_E
+yểng yểng y_B ể_I n_I g_E
+yểu yểu y_B ể_I u_E
+à à à_S
+àn àn à_B n_E
+ào ào à_B o_E
+á á á_S
+ác ác á_B c_E
+ách ách á_B c_I h_E
+áchentina áchentina á_B c_I h_I e_I n_I t_I i_I n_I a_E
+ácmônica ácmônica á_B c_I m_I ô_I n_I i_I c_I a_E
+áctisô áctisô á_B c_I t_I i_I s_I ô_E
+ái ái á_B i_E
+ám ám á_B m_E
+án án á_B n_E
+áng áng á_B n_I g_E
+ánh ánh á_B n_I h_E
+áo áo á_B o_E
+áp áp á_B p_E
+ápphe ápphe á_B p_I p_I h_I e_E
+át át á_B t_E
+áy áy á_B y_E
+â â â_S
+âm âm â_B m_E
+ân ân â_B n_E
+âu âu â_B u_E
+éo éo é_B o_E
+ép ép é_B p_E
+ê ê ê_S
+êm êm ê_B m_E
+êu êu ê_B u_E
+ìn ìn ì_B n_E
+ình ình ì_B n_I h_E
+ích ích í_B c_I h_E
+ít ít í_B t_E
+óc óc ó_B c_E
+ói ói ó_B i_E
+óng óng ó_B n_I g_E
+óp óp ó_B p_E
+ô ô ô_S
+ôi ôi ô_B i_E
+ôm ôm ô_B m_E
+ôn ôn ô_B n_E
+ông ông ô_B n_I g_E
+ôpêra ôpêra ô_B p_I ê_I r_I a_E
+ôtomat ôtomat ô_B t_I o_I m_I a_I t_E
+ôtô ôtô ô_B t_I ô_E
+ùn ùn ù_B n_E
+ùng ùng ù_B n_I g_E
+ú ú ú_S
+úa úa ú_B a_E
+úc úc ú_B c_E
+úi úi ú_B i_E
+úng úng ú_B n_I g_E
+út út ú_B t_E
+úy úy ú_B y_E
+ý ý ý_S
+ă ă ă_S
+ăccoocđêông ăccoocđêông ă_B c_I c_I o_I o_I c_I đ_I ê_I ô_I n_I g_E
+ăm ăm ă_B m_E
+ăn ăn ă_B n_E
+đ đ đ_S
+đa đa đ_B a_E
+đai đai đ_B a_I i_E
+đan đan đ_B a_I n_E
+đang đang đ_B a_I n_I g_E
+đao đao đ_B a_I o_E
+đau đau đ_B a_I u_E
+đay đay đ_B a_I y_E
+đe đe đ_B e_E
+đem đem đ_B e_I m_E
+đen đen đ_B e_I n_E
+đeo đeo đ_B e_I o_E
+đi đi đ_B i_E
+đinh đinh đ_B i_I n_I h_E
+đioxyt đioxyt đ_B i_I o_I x_I y_I t_E
+điên điên đ_B i_I ê_I n_E
+điêu điêu đ_B i_I ê_I u_E
+điôxít điôxít đ_B i_I ô_I x_I í_I t_E
+điếc điếc đ_B i_I ế_I c_E
+điếm điếm đ_B i_I ế_I m_E
+điếu điếu đ_B i_I ế_I u_E
+điền điền đ_B i_I ề_I n_E
+điều điều đ_B i_I ề_I u_E
+điểm điểm đ_B i_I ể_I m_E
+điển điển đ_B i_I ể_I n_E
+điểu điểu đ_B i_I ể_I u_E
+điện điện đ_B i_I ệ_I n_E
+điệp điệp đ_B i_I ệ_I p_E
+điệt điệt đ_B i_I ệ_I t_E
+điệu điệu đ_B i_I ệ_I u_E
+đo đo đ_B o_E
+đoan đoan đ_B o_I a_I n_E
+đom đom đ_B o_I m_E
+đong đong đ_B o_I n_I g_E
+đoàn đoàn đ_B o_I à_I n_E
+đoái đoái đ_B o_I á_I i_E
+đoán đoán đ_B o_I á_I n_E
+đoạn đoạn đ_B o_I ạ_I n_E
+đoạt đoạt đ_B o_I ạ_I t_E
+đoản đoản đ_B o_I ả_I n_E
+đrăng đrăng đ_B r_I ă_I n_I g_E
+đu đu đ_B u_E
+đua đua đ_B u_I a_E
+đun đun đ_B u_I n_E
+đuôi đuôi đ_B u_I ô_I i_E
+đuối đuối đ_B u_I ố_I i_E
+đuồi đuồi đ_B u_I ồ_I i_E
+đuổi đuổi đ_B u_I ổ_I i_E
+đuợc đuợc đ_B u_I ợ_I c_E
+đà đà đ_B à_E
+đài đài đ_B à_I i_E
+đàm đàm đ_B à_I m_E
+đàn đàn đ_B à_I n_E
+đàng đàng đ_B à_I n_I g_E
+đành đành đ_B à_I n_I h_E
+đào đào đ_B à_I o_E
+đày đày đ_B à_I y_E
+đá đá đ_B á_E
+đác đác đ_B á_I c_E
+đái đái đ_B á_I i_E
+đám đám đ_B á_I m_E
+đán đán đ_B á_I n_E
+đáng đáng đ_B á_I n_I g_E
+đánh đánh đ_B á_I n_I h_E
+đáo đáo đ_B á_I o_E
+đáp đáp đ_B á_I p_E
+đáy đáy đ_B á_I y_E
+đâm đâm đ_B â_I m_E
+đâu đâu đ_B â_I u_E
+đây đây đ_B â_I y_E
+đã đã đ_B ã_E
+đãi đãi đ_B ã_I i_E
+đãng đãng đ_B ã_I n_I g_E
+đèn đèn đ_B è_I n_E
+đèo đèo đ_B è_I o_E
+đéc đéc đ_B é_I c_E
+đéo đéo đ_B é_I o_E
+đét đét đ_B é_I t_E
+đê đê đ_B ê_E
+đêm đêm đ_B ê_I m_E
+đì đì đ_B ì_E
+đình đình đ_B ì_I n_I h_E
+đìu đìu đ_B ì_I u_E
+đích đích đ_B í_I c_I h_E
+đính đính đ_B í_I n_I h_E
+đít đít đ_B í_I t_E
+đò đò đ_B ò_E
+đòi đòi đ_B ò_I i_E
+đòn đòn đ_B ò_I n_E
+đó đó đ_B ó_E
+đóa đóa đ_B ó_I a_E
+đói đói đ_B ó_I i_E
+đóm đóm đ_B ó_I m_E
+đón đón đ_B ó_I n_E
+đóng đóng đ_B ó_I n_I g_E
+đô đô đ_B ô_E
+đôi đôi đ_B ô_I i_E
+đôn đôn đ_B ô_I n_E
+đông đông đ_B ô_I n_I g_E
+đù đù đ_B ù_E
+đùa đùa đ_B ù_I a_E
+đùi đùi đ_B ù_I i_E
+đùm đùm đ_B ù_I m_E
+đú đú đ_B ú_E
+đúc đúc đ_B ú_I c_E
+đúng đúng đ_B ú_I n_I g_E
+đúp đúp đ_B ú_I p_E
+đút đút đ_B ú_I t_E
+đăk đăk đ_B ă_I k_E
+đăng đăng đ_B ă_I n_I g_E
+đĩ đĩ đ_B ĩ_E
+đĩa đĩa đ_B ĩ_I a_E
+đũa đũa đ_B ũ_I a_E
+đơi đơi đ_B ơ_I i_E
+đơn đơn đ_B ơ_I n_E
+đưa đưa đ_B ư_I a_E
+đương đương đ_B ư_I ơ_I n_I g_E
+đười đười đ_B ư_I ờ_I i_E
+đường đường đ_B ư_I ờ_I n_I g_E
+được được đ_B ư_I ợ_I c_E
+đượm đượm đ_B ư_I ợ_I m_E
+đạc đạc đ_B ạ_I c_E
+đại đại đ_B ạ_I i_E
+đạm đạm đ_B ạ_I m_E
+đạn đạn đ_B ạ_I n_E
+đạo đạo đ_B ạ_I o_E
+đạp đạp đ_B ạ_I p_E
+đạt đạt đ_B ạ_I t_E
+đả đả đ_B ả_E
+đảm đảm đ_B ả_I m_E
+đảng đảng đ_B ả_I n_I g_E
+đảo đảo đ_B ả_I o_E
+đấm đấm đ_B ấ_I m_E
+đất đất đ_B ấ_I t_E
+đấu đấu đ_B ấ_I u_E
+đấy đấy đ_B ấ_I y_E
+đầm đầm đ_B ầ_I m_E
+đần đần đ_B ầ_I n_E
+đầu đầu đ_B ầ_I u_E
+đầy đầy đ_B ầ_I y_E
+đẩu đẩu đ_B ẩ_I u_E
+đẩy đẩy đ_B ẩ_I y_E
+đẫm đẫm đ_B ẫ_I m_E
+đẫy đẫy đ_B ẫ_I y_E
+đậm đậm đ_B ậ_I m_E
+đập đập đ_B ậ_I p_E
+đậu đậu đ_B ậ_I u_E
+đậy đậy đ_B ậ_I y_E
+đắc đắc đ_B ắ_I c_E
+đắk đắk đ_B ắ_I k_E
+đắm đắm đ_B ắ_I m_E
+đắn đắn đ_B ắ_I n_E
+đắng đắng đ_B ắ_I n_I g_E
+đắt đắt đ_B ắ_I t_E
+đằng đằng đ_B ằ_I n_I g_E
+đẳng đẳng đ_B ẳ_I n_I g_E
+đặc đặc đ_B ặ_I c_E
+đặn đặn đ_B ặ_I n_E
+đặng đặng đ_B ặ_I n_I g_E
+đặt đặt đ_B ặ_I t_E
+đẹp đẹp đ_B ẹ_I p_E
+đẻ đẻ đ_B ẻ_E
+đẽ đẽ đ_B ẽ_E
+đẽo đẽo đ_B ẽ_I o_E
+đế đế đ_B ế_E
+đếm đếm đ_B ế_I m_E
+đến đến đ_B ế_I n_E
+đề đề đ_B ề_E
+đềm đềm đ_B ề_I m_E
+đền đền đ_B ề_I n_E
+đều đều đ_B ề_I u_E
+để để đ_B ể_E
+đệ đệ đ_B ệ_E
+đệm đệm đ_B ệ_I m_E
+đỉnh đỉnh đ_B ỉ_I n_I h_E
+địa địa đ_B ị_I a_E
+địch địch đ_B ị_I c_I h_E
+định định đ_B ị_I n_I h_E
+địt địt đ_B ị_I t_E
+địu địu đ_B ị_I u_E
+đọ đọ đ_B ọ_E
+đọa đọa đ_B ọ_I a_E
+đọc đọc đ_B ọ_I c_E
+đỏ đỏ đ_B ỏ_E
+đố đố đ_B ố_E
+đốc đốc đ_B ố_I c_E
+đối đối đ_B ố_I i_E
+đốn đốn đ_B ố_I n_E
+đống đống đ_B ố_I n_I g_E
+đốt đốt đ_B ố_I t_E
+đồ đồ đ_B ồ_E
+đồi đồi đ_B ồ_I i_E
+đồn đồn đ_B ồ_I n_E
+đồng đồng đ_B ồ_I n_I g_E
+đổ đổ đ_B ổ_E
+đổi đổi đ_B ổ_I i_E
+đổng đổng đ_B ổ_I n_I g_E
+đỗ đỗ đ_B ỗ_E
+đỗi đỗi đ_B ỗ_I i_E
+độ độ đ_B ộ_E
+độc độc đ_B ộ_I c_E
+đội đội đ_B ộ_I i_E
+độn độn đ_B ộ_I n_E
+động động đ_B ộ_I n_I g_E
+đột đột đ_B ộ_I t_E
+đớ đớ đ_B ớ_E
+đới đới đ_B ớ_I i_E
+đớn đớn đ_B ớ_I n_E
+đời đời đ_B ờ_I i_E
+đờn đờn đ_B ờ_I n_E
+đỡ đỡ đ_B ỡ_E
+đợi đợi đ_B ợ_I i_E
+đợt đợt đ_B ợ_I t_E
+đụ đụ đ_B ụ_E
+đục đục đ_B ụ_I c_E
+đụn đụn đ_B ụ_I n_E
+đụng đụng đ_B ụ_I n_I g_E
+đủ đủ đ_B ủ_E
+đủng đủng đ_B ủ_I n_I g_E
+đứ đứ đ_B ứ_E
+đứa đứa đ_B ứ_I a_E
+đức đức đ_B ứ_I c_E
+đứng đứng đ_B ứ_I n_I g_E
+đứt đứt đ_B ứ_I t_E
+đừ đừ đ_B ừ_E
+đừa đừa đ_B ừ_I a_E
+đừng đừng đ_B ừ_I n_I g_E
+đực đực đ_B ự_I c_E
+đựng đựng đ_B ự_I n_I g_E
+ĩ ĩ ĩ_S
+ĩnh ĩnh ĩ_B n_I h_E
+ơ ơ ơ_S
+ơi ơi ơ_B i_E
+ơn ơn ơ_B n_E
+ư ư ư_S
+ưa ưa ư_B a_E
+ưu ưu ư_B u_E
+ươ ươ ư_B ơ_E
+ươi ươi ư_B ơ_I i_E
+ươm ươm ư_B ơ_I m_E
+ươn ươn ư_B ơ_I n_E
+ương ương ư_B ơ_I n_I g_E
+ươu ươu ư_B ơ_I u_E
+ước ước ư_B ớ_I c_E
+ướm ướm ư_B ớ_I m_E
+ướp ướp ư_B ớ_I p_E
+ướt ướt ư_B ớ_I t_E
+ườn ườn ư_B ờ_I n_E
+ưỡn ưỡn ư_B ỡ_I n_E
+ạ ạ ạ_S
+ạch ạch ạ_B c_I h_E
+ạt ạt ạ_B t_E
+ả ả ả_S
+ải ải ả_B i_E
+ảm ảm ả_B m_E
+ảnh ảnh ả_B n_I h_E
+ảo ảo ả_B o_E
+ảrập ảrập ả_B r_I ậ_I p_E
+ấm ấm ấ_B m_E
+ấn ấn ấ_B n_E
+ấnâu ấnâu ấ_B n_I â_I u_E
+ấp ấp ấ_B p_E
+ấu ấu ấ_B u_E
+ấy ấy ấ_B y_E
+ầm ầm ầ_B m_E
+ầy ầy ầ_B y_E
+ẩm ẩm ẩ_B m_E
+ẩn ẩn ẩ_B n_E
+ẩu ẩu ẩ_B u_E
+ẩy ẩy ẩ_B y_E
+ập ập ậ_B p_E
+ắc ắc ắ_B c_E
+ắng ắng ắ_B n_I g_E
+ắp ắp ắ_B p_E
+ẵm ẵm ẵ_B m_E
+ặc ặc ặ_B c_E
+ẹ ẹ ẹ_S
+ẹo ẹo ẹ_B o_E
+ẻ ẻ ẻ_S
+ẻm ẻm ẻ_B m_E
+ế ế ế_S
+ếch ếch ế_B c_I h_E
+ến ến ế_B n_E
+ệ ệ ệ_S
+ỉ ỉ ỉ_S
+ỉa ỉa ỉ_B a_E
+ỉu ỉu ỉ_B u_E
+ịch ịch ị_B c_I h_E
+ịt ịt ị_B t_E
+ọc ọc ọ_B c_E
+ỏi ỏi ỏ_B i_E
+ố ố ố_S
+ốc ốc ố_B c_E
+ối ối ố_B i_E
+ốm ốm ố_B m_E
+ống ống ố_B n_I g_E
+ốp ốp ố_B p_E
+ồn ồn ồ_B n_E
+ổ ổ ổ_S
+ổi ổi ổ_B i_E
+ổn ổn ổ_B n_E
+ổng ổng ổ_B n_I g_E
+ỗ ỗ ỗ_S
+ộ ộ ộ_S
+ộp ộp ộ_B p_E
+ớt ớt ớ_B t_E
+ở ở ở_S
+ục ục ụ_B c_E
+ủi ủi ủ_B i_E
+ủng ủng ủ_B n_I g_E
+ủy ủy ủ_B y_E
+ứ ứ ứ_S
+ức ức ứ_B c_E
+ứng ứng ứ_B n_I g_E
+ừ ừ ừ_S
+ừm ừm ừ_B m_E
+ửi ửi ử_B i_E
+ửng ửng ử_B n_I g_E
+ữ ữ ữ_S
+ữa ữa ữ_B a_E
+ỳ ỳ ỳ_S
+ỷ ỷ ỷ_S

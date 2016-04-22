@@ -1,0 +1,427 @@
+#!/bin/bash
+
+# This recipe is based on the egs/swbd/s5b recipe, by Arnab Ghoshal.
+# The swbd recipe was downscaled by Karel Vesely (iveselyk@fit.vutbr.cz).
+#
+# The final LVCSR has following characteristics:
+# - single pass DNN system on top of FBANK features
+# - search can be accelerated by lowering the search beams (--beam, --latbeam)
+# - further acceleration is possible by reducing number of parameters in the DNN (<4hidden layers, <1024 units per layer)
+
+# This is a shell script, but it's recommended that you run the commands one by
+# one by copying and pasting into the shell.
+# Caution: some of the graph creation steps use quite a bit of memory, so you
+# should run this on a machine that has sufficient memory.
+
+. cmd.sh
+. path.sh
+
+false && \
+{
+##########################################################################
+### DATA PREPARATION
+##########################################################################
+  
+local/prepare_data.sh || exit 1
+#local/prepare_dict.sh || exit 1
+exit 1;
+utils/prepare_lang.sh data/local/dict "<unk>" data/local/lang data/lang || exit 1
+
+# LM: Now we build the language model. 
+#
+# IRSTLM : We tried to use IRSTLM, but it produces LM with unsorted ngrams, 
+# which caused problems when converting to OpenFST format:
+#lm_corpus=data/local/lm/text
+#local/train_lm.sh $lm_corpus data/local/dict/lexicon.txt data/local/lm-irstlm || exit 1
+#LM=data/local/lm-irstlm/trn.o3g.wb.gz
+#utils/format_lm.sh data/lang $LM data/local/dict/lexicon.txt data/lang_test-irstlm || exit 1
+#
+# SRILM : For a moment we were using SRILM, which can be used for non-commercial purposes:
+#local/train_lm_sri.sh \
+#  data/train/text data/local/dict/lexicon.txt data/local/lm-srilm || exit 1
+# Convert the ARPA LM to OpenFst format : 
+#LM=data/local/lm-srilm/trn.o3g.kn.gz
+#utils/format_lm.sh data/lang $LM data/local/dict/lexicon.txt data/lang_test || exit 1
+#
+# MITLM : Finally we switched to MIT-LM, which is distributed under MIT license
+lm_corpus=data/local/lm/text
+local/train_lm_mitlm.sh $lm_corpus data/local/dict/lexicon.txt data/local/lm || exit 1
+LM=data/local/lm/trn.o3g.kn.gz
+utils/format_lm.sh data/lang $LM data/local/dict/lexicon.txt data/lang_test || exit 1
+
+
+
+##########################################################################
+### FEATURE EXTRACTION
+##########################################################################
+
+# Change the wav file location, so we can see it at gremlin 
+sed -i 's|/home|/mnt|' data/train/wav.scp
+sed -i 's|/home|/mnt|' data/test/wav.scp
+
+# Convert the spk2utt mapping
+utils/utt2spk_to_spk2utt.pl data/train/utt2spk > data/train/spk2utt
+utils/utt2spk_to_spk2utt.pl data/test/utt2spk > data/test/spk2utt
+
+# Copy prepared data dirs to data-fbank,
+{
+  mkdir -p data-fbank/{train,test}
+  cp data/train/* data-fbank/train
+  cp data/test/* data-fbank/test
+}
+ 
+# Create MFCCs for the train set
+data=data/train
+steps/make_mfcc.sh --nj 4 --cmd "$train_cmd" $data $data/log $data/data || exit 1;
+steps/compute_cmvn_stats.sh $data $data/log $data/data || exit 1;
+# Remove the small number of utterances that couldn't be extracted for some 
+# reason (e.g. too short; no such file).
+utils/fix_data_dir.sh $data || exit 1;
+
+# Create MFCCs for the test set
+data=data/test
+steps/make_mfcc.sh --cmd "$train_cmd" --nj 4 $data $data/log $data/data || exit 1;
+steps/compute_cmvn_stats.sh $data $data/log  $data/data || exit 1;
+utils/fix_data_dir.sh $data || exit 1 # remove segments with problems
+
+
+# Create FBANK for the train set
+data=data-fbank/train
+steps/make_fbank.sh --nj 4 --cmd "$train_cmd" $data $data/log $data/data || exit 1;
+steps/compute_cmvn_stats.sh $data $data/log $data/data || exit 1;
+utils/fix_data_dir.sh $data || exit 1 # remove segments with problems
+
+# Create FBANK for the test set
+data=data-fbank/test
+steps/make_fbank.sh --cmd "$train_cmd" --nj 4 $data $data/log $data/data || exit 1;
+steps/compute_cmvn_stats.sh $data $data/log  $data/data || exit 1;
+utils/fix_data_dir.sh $data || exit 1 # remove segments with problems
+
+
+##########################################################################
+### MAKING SUBSETS
+##########################################################################
+ 
+# Use the first 1k sentences as dev set. Note: when we trained the LM, we used
+# the 1st 1k sentences as dev set, so the 1st 1k won't have been used in the
+# LM training data. However, they will be in the lexicon, plus speakers
+# may overlap, so it's still not quite equivalent to a test set.
+#
+# Also we should make sure, that 1k sentences are not the ones that are
+# repeated by multiple speakers in the training data.
+# TODO
+
+# Split the MFCCs to dev/nodev set:
+utils/subset_data_dir.sh --first data/train 1000 data/train_dev # 1.7hr
+n=$[`cat data/train/feats.scp | wc -l` - 1000]
+utils/subset_data_dir.sh --last data/train $n data/train_nodev
+# also split the FBANKs
+utils/subset_data_dir.sh --first data-fbank/train 1000 data-fbank/train_dev # 1.7hr
+n=$[`cat data/train/feats.scp | wc -l` - 1000]
+utils/subset_data_dir.sh --last data-fbank/train $n data-fbank/train_nodev
+
+# Now-- there are 10k utterances (14.9hr), and we want to start the 
+# monophone training on relatively short utterances (easier to align).
+# So we take 4k subset of shortest utterances (about 3.9hr).
+utils/subset_data_dir.sh --shortest data/train_nodev 4000 data/train_4kshort
+
+# Show the size of training sets in hours:
+hours_train=$(feat-to-len scp:data/train/feats.scp ark,t:- | awk '{sum_frames += $2;} END{print sum_frames/100.0/3600;}')
+hours_train_dev=$(feat-to-len scp:data/train_dev/feats.scp ark,t:- | awk '{sum_frames += $2;} END{print sum_frames/100.0/3600;}')
+hours_train_nodev=$(feat-to-len scp:data/train_nodev/feats.scp ark,t:- | awk '{sum_frames += $2;} END{print sum_frames/100.0/3600;}')
+hours_train_4kshort=$(feat-to-len scp:data/train_4kshort/feats.scp ark,t:- | awk '{sum_frames += $2;} END{print sum_frames/100.0/3600;}')
+echo "
+Set-size in hours:
+ data/train $hours_train
+ data/train_dev $hours_train_dev
+ data/train_nodev $hours_train_nodev
+ data/train_4kshort $hours_train_4kshort
+"
+
+ 
+##########################################################################
+### TRAINING GMM SYSTEMS
+##########################################################################
+ 
+# Because we intend to build a 1-pass DNN system, it is sufficient to build
+# a ML-trained GMM system. The alignments from MFCC+D+DD system are good enough
+# to train a DNN. Also we do not use speaker adaptation (fMLLR), so we save
+# time and skip later GMM stages, that are in the Switchboard recipe.
+
+## Starting basic training on MFCC features
+
+# mono (this is on short utterances)
+steps/train_mono.sh --nj 4 --cmd "$train_cmd" \
+  data/train_4kshort data/lang exp/mono || exit 1;
+
+$train_cmd exp/mono/graph/mkgraph.log \
+  utils/mkgraph.sh --mono data/lang_test exp/mono exp/mono/graph || exit 1;
+steps/decode_si.sh --nj 4 --cmd "$decode_cmd" --config conf/decode.conf --acwt 0.1 \
+  exp/mono/graph data/test exp/mono/decode_test || exit 1;
+steps/decode_si.sh --nj 4 --cmd "$decode_cmd" --config conf/decode.conf --acwt 0.1 \
+  exp/mono/graph data/train_dev exp/mono/decode_dev || exit 1;
+
+# aligning all the data
+steps/align_si.sh --nj 4 --cmd "$train_cmd" \
+  data/train data/lang exp/mono exp/mono_ali_all || exit 1;
+
+# tri1 (here you can possibly use subset of 10k utterances)
+steps/train_deltas.sh --cmd "$train_cmd" \
+  2000 20000 data/train_nodev data/lang exp/mono_ali_all exp/tri1 || exit 1;
+
+$train_cmd exp/tri1/graph/mkgraph.log \
+  utils/mkgraph.sh data/lang_test exp/tri1 exp/tri1/graph || exit 1
+steps/decode_si.sh --nj 4 --cmd "$decode_cmd" --config conf/decode.conf \
+  exp/tri1/graph data/test exp/tri1/decode_test || exit 1
+steps/decode_si.sh --nj 4 --cmd "$decode_cmd" --config conf/decode.conf \
+  exp/tri1/graph data/train_dev exp/tri1/decode_dev || exit 1
+
+steps/align_si.sh --nj 4 --cmd "$train_cmd" \
+  data/train_nodev data/lang exp/tri1 exp/tri1_ali || exit 1;
+
+# tri2 
+# - here we rebuild the triphone tree,
+# - the optimal number of pdf-states/Gaussians depends on amount of data, 
+#   it is good to try several values
+steps/train_deltas.sh --cmd "$train_cmd" \
+  3200 30000 data/train_nodev data/lang exp/tri1_ali exp/tri2 || exit 1;
+
+$train_cmd exp/tri2/graph/mkgraph.log \
+  utils/mkgraph.sh data/lang_test exp/tri2 exp/tri2/graph || exit 1
+steps/decode_si.sh --nj 4 --cmd "$decode_cmd" --config conf/decode.conf \
+  exp/tri2/graph data/test exp/tri2/decode_test || exit 1
+steps/decode_si.sh --nj 4 --cmd "$decode_cmd" --config conf/decode.conf \
+  exp/tri2/graph data/train_dev exp/tri2/decode_dev || exit 1
+
+
+# aligning all the data,
+steps/align_si.sh --nj 4 --cmd "$train_cmd" \
+  data/train data/lang exp/tri2 exp/tri2_ali_all || exit 1;
+
+
+##########################################################################
+### PHONE LATTICE DECODING EXAMPLE (GMM)
+##########################################################################
+
+# Create phone-bigram grammar (unsmoothed) estimated from alignments
+utils/make_phone_bigram_lang.sh data/lang exp/tri2_ali_all data/lang_test_phn || exit 1;
+# Create phone recognition graph
+$train_cmd exp/tri2/graph/mkgraph_phn.log \
+  utils/mkgraph.sh data/lang_test_phn exp/tri2 exp/tri2/graph_phn || exit 1
+# Decode phone lattices
+steps/decode_si.sh --nj 4 --cmd "$decode_cmd" --config conf/decode.conf --skip-scoring true \
+  exp/tri2/graph_phn data/test exp/tri2/decode_test_phn || exit 1
+# Convert to HTK-SLF format
+lat_dir=exp/tri2/decode_test_phn
+out_dir=exp/tri2/decode_test_phn/slf_lats; [ ! -d $out_dir ] && mkdir $out_dir
+model=exp/tri2/final.mdl # we need transition-model
+symtab=data/lang_test_phn/words.txt # symbol table to translate ints to phones
+lattice-align-phones $model "ark:gunzip -c $lat_dir/lat.*.gz |" ark,t:- | int2sym.pl -f 3 $symtab | utils/convert_slf.pl - $out_dir
+
+
+##########################################################################
+### TRAINING THE MONO-STATE NN (small : 2 hid-layers, 512 neurons/layer)
+##########################################################################
+
+{ # Train the MLP
+dir=exp/mono_dnn_2L512
+ali=exp/mono_ali_all
+(tail --pid=$$ -F $dir/_train_nnet.log 2>/dev/null)& 
+$cuda_cmd $dir/_train_nnet.log \
+  steps/train_nnet.sh --config conf/dnn_2L512.conf \
+   data-fbank/train_nodev data-fbank/train_dev data/lang ${ali} ${ali} $dir || exit 1;
+# decode (reuse HCLG graph from mono-GMM)
+steps/decode_nnet.sh --nj 4 --cmd "$decode_cmd" --config conf/dnn_decode.conf \
+  exp/mono/graph data-fbank/test $dir/decode_test || exit 1;
+steps/decode_nnet.sh --nj 4 --cmd "$decode_cmd" --config conf/dnn_decode.conf \
+  exp/mono/graph data-fbank/train_dev $dir/decode_dev || exit 1;
+}
+
+
+##########################################################################
+### PHONE LATTICE DECODING EXAMPLE (mono-NN)
+##########################################################################
+
+# Create phone-bigram grammar (unsmoothed) estimated from alignments
+utils/make_phone_bigram_lang.sh data/lang exp/mono_ali_all data/lang_test_phn-mono || exit 1;
+# Create phone recognition graph
+$train_cmd exp/mono/graph/mkgraph_phn.log \
+  utils/mkgraph.sh --mono data/lang_test_phn-mono exp/mono exp/mono/graph_phn || exit 1
+# Decode phone lattices
+steps/decode_nnet.sh --nj 4 --cmd "$decode_cmd" --config conf/dnn_decode_mono_phn.conf --skip-scoring true \
+  exp/mono/graph_phn data-fbank/test exp/mono_dnn_2L512/decode_test_phn || exit 1
+# Convert to HTK-SLF format
+lat_dir=exp/mono_dnn_2L512/decode_test_phn
+out_dir=exp/mono_dnn_2L512/decode_test_phn/slf_lats; [ ! -d $out_dir ] && mkdir $out_dir
+model=exp/mono/final.mdl # we need transition model
+symtab=data/lang_test_phn-mono/words.txt # symbol table to translate ints to phones
+lattice-align-phones $model "ark:gunzip -c $lat_dir/lat.*.gz |" ark,t:- | int2sym.pl -f 3 $symtab | utils/convert_slf.pl - $out_dir
+
+
+
+##########################################################################
+### TRAINING THE DNN (small : 2 hid-layers, 512 neurons/layer)
+##########################################################################
+
+{ # Train the MLP
+dir=exp/tri2_dnn_2L512
+ali=exp/tri2_ali_all
+(tail --pid=$$ -F $dir/_train_nnet.log 2>/dev/null)& 
+$cuda_cmd $dir/_train_nnet.log \
+  steps/train_nnet.sh --config conf/dnn_2L512.conf \
+   data-fbank/train_nodev data-fbank/train_dev data/lang ${ali} ${ali} $dir || exit 1;
+# decode (reuse HCLG graph from GMM, no change in triphone-tree clustering)
+steps/decode_nnet.sh --nj 4 --cmd "$decode_cmd" --config conf/dnn_decode.conf \
+  exp/tri2/graph data-fbank/test $dir/decode_test || exit 1;
+steps/decode_nnet.sh --nj 4 --cmd "$decode_cmd" --config conf/dnn_decode.conf \
+  exp/tri2/graph data-fbank/train_dev $dir/decode_dev || exit 1;
+}
+
+
+
+} # false
+
+##########################################################################
+### PHONE LATTICE DECODING EXAMPLE (small-NN)
+##########################################################################
+
+#THIS IS ALREADY DONE
+# Create phone-bigram grammar (unsmoothed) estimated from alignments 
+#utils/make_phone_bigram_lang.sh data/lang exp/tri2_ali_all data/lang_test_phn || exit 1;
+# Create phone recognition graph
+#$train_cmd exp/tri2/graph/mkgraph_phn.log \
+#  utils/mkgraph.sh data/lang_test_phn exp/mono exp/mono/graph_phn || exit 1
+
+# Decode phone lattices
+steps/decode_nnet.sh --nj 4 --cmd "$decode_cmd" --config conf/dnn_decode.conf --skip-scoring true \
+  exp/tri2/graph_phn data-fbank/test exp/tri2_dnn_2L512/decode_test_phn || exit 1
+# Convert to HTK-SLF format
+lat_dir=exp/tri2_dnn_2L512/decode_test_phn
+out_dir=exp/tri2_dnn_2L512/decode_test_phn/slf_lats; [ ! -d $out_dir ] && mkdir $out_dir
+model=exp/tri2/final.mdl # we need transition model
+symtab=data/lang_test_phn/words.txt # symbol table to translate ints to phones
+lattice-align-phones $model "ark:gunzip -c $lat_dir/lat.*.gz |" ark,t:- | int2sym.pl -f 3 $symtab | utils/convert_slf.pl - $out_dir
+
+
+##########################################################################
+### TRAINING THE DNN (medium : 4 hid-layers, 1024 neurons/layer)
+##########################################################################
+
+{ # Train the MLP
+dir=exp/tri2_dnn_4L1024
+ali=exp/tri2_ali_all
+(tail --pid=$$ -F $dir/_train_nnet.log 2>/dev/null)& 
+$cuda_cmd $dir/_train_nnet.log \
+  steps/train_nnet.sh --config conf/dnn_4L1024.conf \
+   data-fbank/train_nodev data-fbank/train_dev data/lang ${ali} ${ali} $dir || exit 1;
+# decode (reuse HCLG graph from GMM, no change in triphone-tree clustering)
+steps/decode_nnet.sh --nj 4 --cmd "$decode_cmd" --config conf/dnn_decode.conf \
+  exp/tri2/graph data-fbank/test $dir/decode_test || exit 1;
+steps/decode_nnet.sh --nj 4 --cmd "$decode_cmd" --config conf/dnn_decode.conf \
+  exp/tri2/graph data-fbank/train_dev $dir/decode_dev || exit 1;
+}
+
+
+
+
+exit 0
+
+
+##########################################################################
+### TRAINING THE DNN (RBM pre-training, bad results, not sure why)
+##########################################################################
+
+ 
+###
+### Let's pre-train the stack of RBMs
+###
+
+#false && \
+{ # Pre-train the DBN
+dir=exp/tri2_pretrain-dbn
+(tail --pid=$$ -F $dir/_pretrain_dbn.log 2>/dev/null)&
+$cuda_cmd $dir/_pretrain_dbn.log \
+  steps/pretrain_dbn.sh --config conf/dnn_pretrain.conf \
+   data-fbank/train_nodev $dir || exit 1
+}
+
+
+###
+### Train the DNN, while optimizing frame-level cross-entropy.
+### This can take some time, depending on amount of data.
+### - training on 'nodev' set, early stopping based on frame-accu from 'dev' set
+### - after few epochs using learning rate halving till convergence of frame-accu on 'dev' set
+###
+
+#false && \
+{ # Train the MLP
+dir=exp/tri2_pretrain-dbn_dnn
+ali=exp/tri2_ali_all
+feature_transform=exp/tri2_pretrain-dbn/final.feature_transform
+dbn=exp/tri2_pretrain-dbn/4.dbn
+(tail --pid=$$ -F $dir/_train_nnet.log 2>/dev/null)& 
+$cuda_cmd $dir/_train_nnet.log \
+  steps/train_nnet.sh --config conf/dnn.conf \
+    --feature-transform $feature_transform --dbn $dbn \
+    data-fbank/train_nodev data-fbank/train_dev data/lang ${ali} ${ali} $dir || exit 1;
+# decode (reuse HCLG graph from GMM, no change in triphone-tree clustering)
+steps/decode_nnet.sh --nj 4 --cmd "$decode_cmd" --config conf/dnn_decode.conf \
+  exp/tri2/graph data-fbank/test $dir/decode_test || exit 1;
+steps/decode_nnet.sh --nj 4 --cmd "$decode_cmd" --config conf/dnn_decode.conf \
+  exp/tri2/graph data-fbank/train_dev $dir/decode_dev || exit 1;
+}
+
+# If you have time it is possible to re-align from the DNN using steps/align_nnet.sh, 
+# and repeat the previous step (usually ~0.5% WER improvement).
+
+
+exit 0; # The recipe ends here. Eventually you can do the sequence-discriminative sMBR training 
+# however this takes a lot of time to generate the lattices of all the training data. 
+# The sequence-discriminative training should give about 10% relative improvement.
+
+###
+### Finally train the DNN using sMBR criterion.
+### We do Stochastic-GD with per-utterance updates. 
+###
+### To get faster convergence, we will re-generate 
+### the lattices after 1st epoch of sMBR.
+###
+
+dir=exp/tri2_pretrain-dbn_dnn_smbr
+srcdir=exp/tri2_pretrain-dbn_dnn
+acwt=0.1
+
+# First we need to generate lattices and alignments:
+#false && \
+{
+steps/align_nnet.sh --nj 4 --cmd "$train_cmd" \
+  data-fbank/train_nodev data/lang $srcdir ${srcdir}_ali_all || exit 1;
+steps/make_denlats_nnet.sh --nj 4 --cmd "$decode_cmd" --config conf/dnn_decode.conf --acwt $acwt \
+  data-fbank/train_nodev data/lang $srcdir ${srcdir}_denlats_all  || exit 1;
+}
+# Now we re-train the hybrid by single iteration of sMBR 
+#false && \
+{
+steps/train_nnet_mpe.sh --cmd "$cuda_cmd" --num-iters 4 --acwt $acwt --do-smbr true \
+  data-fbank/train_nodev data/lang $srcdir \
+  ${srcdir}_ali_all \
+  ${srcdir}_denlats_all \
+  $dir || exit 1
+}
+# Decode
+#false && \
+{
+for ITER in 1 2 3 4; do
+  # decode dev
+  steps/decode_nnet.sh --nj 30 --cmd "$decode_cmd" --config conf/dnn_decode.conf \
+    --nnet $dir/${ITER}.nnet --acwt $acwt \
+    exp/tri2/graph data-fbank/train_dev $dir/decode_dev_it${ITER} || exit 1
+  # decode test 
+  steps/decode_nnet.sh --nj 30 --cmd "$decode_cmd" --config conf/dnn_decode.conf \
+    --nnet $dir/${ITER}.nnet --acwt $acwt \
+    exp/tri2/graph data-fbank/test $dir/decode_test_it${ITER} || exit 1
+done 
+}
+
+# Getting results (see RESULTS file)
+# for x in exp/*/decode*; do [ -d $x ] && grep WER $x/wer_* | utils/best_wer.sh; done

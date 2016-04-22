@@ -1,0 +1,4 @@
+s/ u a / u\.a /g
+s/ u a$/ u\.a/g
+s/k\.a\.s\.t\.i\.ll\.a\.l\.a/k\.a\.s\.t\.i\.ll\.a l\.a/g
+s/ñ/nn/g

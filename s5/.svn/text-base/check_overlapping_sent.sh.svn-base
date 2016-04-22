@@ -1,0 +1,19 @@
+#!/bin/bash
+
+cut -d' ' -f2- data/train/text | sort | uniq > text_train
+cut -d' ' -f2- data/train_dev/text | sort | uniq > text_train_dev
+cut -d' ' -f2- data/train_nodev/text | sort | uniq > text_train_nodev
+cut -d' ' -f2- data/test/text | sort | uniq > text_test
+
+cat text_train text_test | sort | uniq > text_train_test
+
+wc -l text_train text_train_dev text_train_nodev text_test text_train_test
+
+f1=text_train
+f2=text_test
+echo "Overlap of same sentences $f1 vs. $f2 : " $(join -t@ $f1 $f2 | wc -l)
+
+f1=text_train_dev
+f2=text_train_nodev
+echo "Overlap of same sentences $f1 vs. $f2 : " $(join -t@ $f1 $f2 | wc -l)
+

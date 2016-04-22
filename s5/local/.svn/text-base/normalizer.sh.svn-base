@@ -1,0 +1,13 @@
+#|/bin/bash
+#text normalization script
+arg=$(cat)
+
+echo $arg | \
+	sed 's/[,\.\?\¿\¡()!;-]//g' | \
+	sed 's/\"//g' | \
+	sed 's/\://g' | \
+	tr '[:upper:]' '[:lower:]' | \
+	sed 's/  */ /g' | \
+	sed 's/ *$//g' | \
+	sed 's/^  *//g' | \
+	sed -f conf/rules.sed # Apply especific rules for the database 

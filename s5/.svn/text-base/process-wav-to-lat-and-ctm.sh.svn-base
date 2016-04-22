@@ -1,0 +1,185 @@
+#!/bin/bash
+
+# This script decodes single utterance in wav format by using DNN,
+# It can be used to decode with LM or to force-align to reference
+
+# Change directory to the location of this script.
+cwd=$PWD
+cd $(dirname $0)
+#
+
+. cmd.sh  || exit 1 #source the queue options
+. path.sh || exit 1 #source the path to kaldi tools
+
+
+# Begin configuration.
+stage=0
+align_to_ref= # Set reference to enable force-alignment
+dnn=exp/tri2_dnn_2L512 # Select DNN directory
+
+graph=exp/tri2/graph   # Decoding : select pre-compliled HCLG graph directory (HCLG.fst, words.txt)
+ acwt=0.10 # Acoustic scaling is tuned on dev set
+ pruning="--beam 13 --latbeam 8"  # Lower values are faster
+
+lang=data/lang         # Aligning : select lang directory for aligning (L.fst, words.txt, oov.int)
+# End configuration.
+
+
+
+[ $# -gt 1 ] && echo "$0 $@"  # Print the command line for logging
+. parse_options.sh || exit 1;
+
+if [ $# -ne 2 ]; then
+  echo "$0 <input-sph> <output-dir>"
+  echo "  --stage <N>          Begin at stage N (default $stage)"
+  echo ""
+  echo "  --align-to-ref <str> Set reference to enable force-alignment (default '$align_to_ref')"
+  echo "  --dnn <dir>          DNN directory (default $dnn)"
+  echo ""
+  echo "  --graph <dir>        Decoding: HCLG graph directory (default $graph)"
+  echo "   --acwt <float>       Acoustic scale value (default $acwt)"
+  echo "   --pruning <str>      Pruning options (default '$pruning')"
+  echo ""
+  echo "  --lang <dir>         Aligning: lang directory with lexicon L.fst (default $graph)"
+  echo ""
+  exit 1
+fi
+
+input_sph=$1
+odir=$2/$(basename $input_sph | sed 's|\..*$||')
+
+# Make input_sph and odir full path, if they were relative..
+[ "${input_sph:0:1}" != "/" ] && input_sph=$cwd/$input_sph
+[ "${odir:0:1}" != "/" ] && odir=$cwd/$odir
+#
+
+[ ! -r $input_sph ] && echo "Cannot open '$input_sph'" && exit 1
+[ ! -d $odir ] && mkdir -p $odir
+
+name=$(basename $input_sph | sed 's|\..*$||') 
+
+
+
+#0) Convert sph to wav
+input_wav=$odir/$name.wav
+if [ $stage -le 0 ]; then
+  echo "# PRE-PROCESSING #"
+  #check the format of the input file
+  input_ext=${input_sph: -3}
+  case $input_ext in
+    sph)
+      echo "Converting SPH to WAV by 'sph2pipe'"
+      echo "$input_sph -> $input_wav"
+      sph2pipe -p -f wav $input_sph $input_wav || exit 1
+      ;;
+    wav)
+      echo "Input is wav file, copying (assuming it has correct format)"
+      echo "$input_sph -> $input_wav"
+      cp $input_sph $input_wav || exit 1
+    ;;
+    *)
+      echo "Unsupported file extension '$input_ext'"
+      exit 1
+    ;;
+  esac
+fi
+
+
+#1) Prepare the data directory
+if [ $stage -le 1 ]; then
+  mkdir -p $odir/data
+  #prepare wav.scp
+  echo "$name $input_wav" > $odir/data/wav.scp
+  #prepare fake utt2spk
+  echo "$name $name" > $odir/data/utt2spk
+  utils/utt2spk_to_spk2utt.pl $odir/data/utt2spk > $odir/data/spk2utt
+  if [ ! -z "$align_to_ref" ]; then
+    echo "$name $align_to_ref" > $odir/data/text
+  else
+    echo "$name <unk>" > $odir/data/text
+  fi
+fi
+
+#1.5) At this point VAD can be applied and converted 
+#     to $odir/data/segments...
+
+#2) Run feature extraction
+if [ $stage -le 2 ]; then
+  echo "# FEATURE EXTRACTION #"
+  data=$odir/data
+  # make the FBANK features 
+  steps/make_fbank.sh --cmd "$train_cmd" --nj 1 \
+    $data $data/log $data/data || exit 1
+  steps/compute_cmvn_stats.sh $data $data/log  $data/data || exit 1;
+  # check if there are inconsistencies in the setup
+  utils/fix_data_dir.sh $data || exit 1
+  
+  # Check that the length is reasonable (<30 secs).
+  # Long segments are hard to decode, consume lot 
+  # of memory and are likely to cause stability problems.
+  frame_length=$(feat-to-len scp:$data/feats.scp ark,t:- | awk '{ print $2; }')
+  if [ $frame_length -gt 3000 ]; then
+    echo "Utterance $input_sph is longer than 30secs, please pre-segment the data...";
+    exit 1;
+  fi
+fi
+
+#3) Decode with DNN to get lattices
+if [ $stage -le 3 ]; then
+  echo "align_to_ref $align_to_ref"
+  data=$odir/data
+  decodedir=$odir/decode_dnn
+  if [ ! -z "$align_to_ref" ]; then
+    echo "# ALIGNING #"
+    steps/align_nnet.sh --nj 1 --cmd "$decode_cmd" --align-to-lats true \
+     $data $lang $dnn $decodedir || exit 1
+    graph_or_lang=$lang
+  else
+    echo "# DECODING #"
+    steps/decode_nnet.sh --nj 1 --cmd "$decode_cmd" $pruning \
+     --acwt $acwt --skip-scoring true --srcdir $dnn --parallel-opts "" \
+     $graph $data $decodedir || exit 1
+    graph_or_lang=$graph
+  fi
+fi
+
+#4) Convert lattice to HTK-SLF format
+
+if [ $stage -le 4 ]; then
+  echo "# CONVERTING TO HTK-SLF #"
+  data=$odir/data
+  decodedir=$odir/decode_dnn
+  slfdir=$odir; [ ! -d $slfdir ] && mkdir $slfdir
+  if [ -r $graph_or_lang/phones/word_boundary.int ]; then
+    lattice-align-words --output-error-lats=true $graph_or_lang/phones/word_boundary.int $dnn/final.mdl "ark:gunzip -c $decodedir/lat.*.gz |" ark,t:- | \
+     utils/int2sym.pl -f 3 $graph_or_lang/words.txt | utils/convert_slf.pl - $slfdir || exit 1
+  else
+    lattice-align-phones --output-error-lats=true $dnn/final.mdl "ark:gunzip -c $decodedir/lat.*.gz |" ark,t:- | \
+     utils/int2sym.pl -f 3 $graph_or_lang/words.txt | utils/convert_slf.pl - $slfdir || exit 1
+  fi
+fi
+
+#5) Get 1-best in CTM format
+if [ $stage -le 5 ]; then
+  echo "# CONVERTING TO 1-BEST CTM #"
+  decodedir=$odir/decode_dnn
+  ctmdir=$odir
+  if [ -r $graph_or_lang/phones/word_boundary.int ]; then
+    lattice-align-words --output-error-lats=true $graph_or_lang/phones/word_boundary.int $dnn/final.mdl "ark:gunzip -c $decodedir/lat.*.gz |" ark:- | \
+     lattice-to-ctm-conf --decode-mbr=true --acoustic-scale=$acwt ark:- - | \
+     utils/int2sym.pl -f 5 $graph_or_lang/words.txt > $odir/$name.ctm || exit 1;
+  else 
+    lattice-align-phones --output-error-lats=true $dnn/final.mdl "ark:gunzip -c $decodedir/lat.*.gz |" ark:- | \
+     lattice-to-ctm-conf --decode-mbr=true --acoustic-scale=$acwt ark:- - | \
+     utils/int2sym.pl -f 5 $graph_or_lang/words.txt > $odir/$name.ctm || exit 1;
+  fi
+fi
+
+echo "# FINISHED #"
+echo " Success... ($0)
+ input   : $input_sph 
+ lattice : $odir/$name.lat.gz
+ 1best   : $odir/$name.ctm
+ decoded : $(cat $odir/$name.ctm | awk '{ print $5; }' | tr '\n' ' ')
+"
+exit 0

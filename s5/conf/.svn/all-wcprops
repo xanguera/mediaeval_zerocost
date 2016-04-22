@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repositorio/research/!svn/ver/5029/mami/kaldi/s5/conf
+END
+fbank.conf
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repositorio/research/!svn/ver/5029/mami/kaldi/s5/conf/fbank.conf
+END
+dnn_decode.conf
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repositorio/research/!svn/ver/5029/mami/kaldi/s5/conf/dnn_decode.conf
+END
+decode.conf
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repositorio/research/!svn/ver/5029/mami/kaldi/s5/conf/decode.conf
+END
+dnn_pretrain.conf
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repositorio/research/!svn/ver/5029/mami/kaldi/s5/conf/dnn_pretrain.conf
+END
+dnn_2L512.conf
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repositorio/research/!svn/ver/5029/mami/kaldi/s5/conf/dnn_2L512.conf
+END
+dnn_4L1024.conf
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repositorio/research/!svn/ver/5029/mami/kaldi/s5/conf/dnn_4L1024.conf
+END
+mfcc.conf
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repositorio/research/!svn/ver/5029/mami/kaldi/s5/conf/mfcc.conf
+END
+rules_phone.sed
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repositorio/research/!svn/ver/5029/mami/kaldi/s5/conf/rules_phone.sed
+END
+rules.sed.old
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repositorio/research/!svn/ver/5029/mami/kaldi/s5/conf/rules.sed.old
+END
+dnn.conf
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repositorio/research/!svn/ver/5029/mami/kaldi/s5/conf/dnn.conf
+END
+dnn_decode_mono_phn.conf
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repositorio/research/!svn/ver/5029/mami/kaldi/s5/conf/dnn_decode_mono_phn.conf
+END
+topo.proto
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repositorio/research/!svn/ver/5029/mami/kaldi/s5/conf/topo.proto
+END
+rules.sed
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repositorio/research/!svn/ver/5029/mami/kaldi/s5/conf/rules.sed
+END

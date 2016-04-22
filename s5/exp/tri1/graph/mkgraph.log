@@ -1,0 +1,19 @@
+# utils/mkgraph.sh data/lang_test exp/tri1 exp/tri1/graph 
+# Started at Thu Apr 21 08:56:42 WEST 2016
+#
+fstcomposecontext --context-size=3 --central-position=1 --read-disambig-syms=data/lang_test/phones/disambig.int --write-disambig-syms=data/lang_test/tmp/disambig_ilabels_3_1.int data/lang_test/tmp/ilabels_3_1 
+fstisstochastic data/lang_test/tmp/CLG_3_1.fst 
+0.00048393 -0.540093
+[info]: CLG not stochastic.
+make-h-transducer --disambig-syms-out=exp/tri1/graph/disambig_tid.int --transition-scale=1.0 data/lang_test/tmp/ilabels_3_1 exp/tri1/tree exp/tri1/final.mdl 
+fsttablecompose exp/tri1/graph/Ha.fst data/lang_test/tmp/CLG_3_1.fst 
+fstrmepslocal 
+fstrmsymbols exp/tri1/graph/disambig_tid.int 
+fstminimizeencoded 
+fstdeterminizestar --use-log=true 
+fstisstochastic exp/tri1/graph/HCLGa.fst 
+0.000757664 -0.540211
+HCLGa is not stochastic
+add-self-loops --self-loop-scale=0.1 --reorder=true exp/tri1/final.mdl 
+# Accounting: time=64 threads=1
+# Ended (code 0) at Thu Apr 21 08:57:46 WEST 2016, elapsed time 64 seconds

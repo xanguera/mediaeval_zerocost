@@ -1,0 +1,105 @@
+#!/bin/bash -v 
+
+# Copytight 2013  Telefonica (author: Karel Vesely)
+# Copyright 2013  Arnab Ghoshal
+#                 Johns Hopkins University (author: Daniel Povey)
+
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#  http://www.apache.org/licenses/LICENSE-2.0
+#
+# THIS CODE IS PROVIDED *AS IS* BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+# KIND, EITHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION ANY IMPLIED
+# WARRANTIES OR CONDITIONS OF TITLE, FITNESS FOR A PARTICULAR PURPOSE,
+# MERCHANTABLITY OR NON-INFRINGEMENT.
+# See the Apache 2 License for the specific language governing permissions and
+# limitations under the License.
+
+
+# To be run from one directory above this script.
+
+# Begin configuration section.
+heldout_sent=100 #number of held-out sentences to measure perplexity of LM
+# end configuration sections
+
+help_message="Usage: "`basename $0`" [options] <lm-corpus> <dict> <out-dir>
+Train language model from the LM training corpus.\n
+The lm-corpus is normalized ASCII text file, one sentence per line.\n
+options: 
+  --help          # print this message and exit
+  --heldout-sent  # number of held-out sentences, which are used to measure perplexity
+";
+
+. utils/parse_options.sh
+
+if [ $# -ne 3 ]; then
+  printf "$help_message\n";
+  exit 1;
+fi
+
+text=$1     # data/local/train/text
+lexicon=$2  # data/local/dict/lexicon.txt
+dir=$3      # data/local/lm
+
+for f in "$text" "$lexicon"; do
+  [ ! -f $x ] && echo "$0: No such file $f" && exit 1;
+done
+
+# Search for the IRSTLM training tool tlm
+loc=`which tlm`;
+if [ -z $loc ]; then
+    sdir=`pwd`/../../../tools/irstlm/bin
+  if [ -f $sdir/tlm ]; then
+    echo Using IRSTLM tools from $sdir
+    export PATH=$PATH:$sdir
+  else
+    echo You appear to not have IRSTLM tools installed, either on your path,
+    echo or installed in $sdir.  IRSTLM should be installed by running tools/Makefile.
+    exit 1
+  fi
+fi
+    
+
+set -o errexit
+mkdir -p $dir
+export LC_ALL=C 
+
+# We assume file is raw ASCII corpus, one sentence per line (no <s>, </s>, no utterance-id)
+cat $text | gzip -c > $dir/train.all.gz
+cat $text | tail -n +$heldout_sent | gzip -c > $dir/train.gz
+cat $text | head -n $heldout_sent > $dir/heldout
+
+# Prepare a wordlist from lexicon
+cut -d' ' -f1 $lexicon | sort | uniq > $dir/wordlist
+
+# Find lexicon words missing in corpus
+gunzip -c $dir/train.gz | tr ' ' '\n' | sort | uniq > $dir/wordlist.train
+join -v 1 $dir/wordlist $dir/wordlist.train | grep -v '<unk>' > $dir/wordlist.not_in.train
+echo "Adding $(cat $dir/wordlist.not_in.train | wc -l) words to '$dir/train.gz'"
+cat $dir/wordlist.not_in.train | gzip -c >> $dir/train.gz
+
+# Add the <s> sent... </s> :
+gunzip -c $dir/train.gz | awk '{ print "<s> "$0" </s>" }' | gzip -c > $dir/train-with-s.gz
+
+# Original SRILM training:
+# ngram-count -text $dir/train.gz -order 3 -limit-vocab -vocab $dir/wordlist \
+#   -unk -map-unk "<unk>" -kndiscount -interpolate -lm $dir/trn.o3g.kn.gz || exit 1
+
+# IRSTLM training, for manual see:
+# http://sourceforge.net/apps/mediawiki/irstlm/index.php?title=User_Manual
+tlm -tr="gunzip -c $dir/train-with-s.gz" -n=3 -d=$dir/wordlist -lm=wb -bo=no -te=$dir/heldout -o=$dir/trn.o3g.wb || exit 1
+
+
+
+
+
+
+
+gzip -f $dir/trn.o3g.wb || exit 1 #creates $dir/trn.o3g.wb.gz
+ 
+# Switchboard: 
+# file data/local/lm/heldout: 10000 sentences, 118254 words, 0 OOVs
+# 0 zeroprobs, logprob= -250952 ppl= 90.5071 ppl1= 132.479
+

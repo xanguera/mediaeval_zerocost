@@ -1,0 +1,6 @@
+#|/bin/bash
+#text normalization script
+arg=$(cat)
+
+echo $arg | \
+	sed -f conf/rules_phone.sed # Apply especific rules for the database in the phone transcription 

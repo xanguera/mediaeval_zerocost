@@ -1,0 +1,7 @@
+#!/bin/bash
+
+#This command prints all the results :
+for x in exp/*/decode*; do [ -d $x ] && grep WER $x/wer_* | utils/best_wer.sh; done
+exit 0
+
+#Here you can put the list of results:

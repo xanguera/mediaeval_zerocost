@@ -1,0 +1,24 @@
+#!/bin/bash -v
+
+wav=/mnt/speech/data/BBDD_Entrenamiento/SPATIS/20109_42.wav
+s5dir=/mnt/NAS3/speech/kaldi-trunk/trunk/egs/telefonica_spanish/s5
+
+# Word n-gram LM decoding
+$s5dir/process-wav-to-lat-and-ctm.sh $wav TEST-OUTPUT
+echo "Press enter..."; read
+
+# Phone 2-gram LM decoding (change recognition network)
+$s5dir/process-wav-to-lat-and-ctm.sh --graph exp/tri2/graph_phn $wav TEST-OUTPUT-PHN
+echo "Press enter..."; read
+
+# Align wav with reference to a ctm file
+ref="por favor reserva un billete de ida y vuelta en primera clase para el vuelo de delta lineas aereas siete cuatro dos que va de sevilla a los rodeos"
+$s5dir/process-wav-to-lat-and-ctm.sh --align-to-ref "$ref" $wav TEST-OUTPUT-ALIGN
+echo "Press enter..."; read
+
+# Monophone 2-gram LM decoding (change recognition network, dnn and pruning beams)
+$s5dir/process-wav-to-lat-and-ctm.sh --graph exp/mono/graph_phn --dnn exp/mono_dnn_2L512 --pruning "--beam 6.0 --latbeam 5.0" $wav TEST-OUTPUT-PHN-MONO
+echo "Press enter..."; read
+
+
+

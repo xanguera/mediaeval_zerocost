@@ -1,0 +1,9 @@
+# Setup the RBM pre-training to a reasonably sized DNN for 1-pass decoding
+
+nn_depth=4 # use 4 hidden layers.
+hid_dim=1024 # use 1024 sigmoid neurons per hidden layer.
+
+rbm_iter=5 # swipe the data 5x to ``see'' ~100h of data per RBM level.
+
+apply_cmvn=true # apply Cepstral Mean Normalization (no CVN)
+splice=10 # concatenate +/- 10 frames on DNN input

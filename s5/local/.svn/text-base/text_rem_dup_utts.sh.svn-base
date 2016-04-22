@@ -1,0 +1,81 @@
+#!/bin/bash -v
+
+# Copytight 2013  Telefonica (author: Karel Vesely)
+#                 Johns Hopkins University (author: Daniel Povey)
+
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#  http://www.apache.org/licenses/LICENSE-2.0
+#
+# THIS CODE IS PROVIDED *AS IS* BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+# KIND, EITHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION ANY IMPLIED
+# WARRANTIES OR CONDITIONS OF TITLE, FITNESS FOR A PARTICULAR PURPOSE,
+# MERCHANTABLITY OR NON-INFRINGEMENT.
+# See the Apache 2 License for the specific language governing permissions and
+# limitations under the License.
+
+
+# To be run from one directory above this script.
+
+# Begin configuration section.
+cmd=run.sh
+# end configuration sections
+
+help_message="Usage: "`basename $0`" [options] <txt-in> <max-num> <txt-out>
+Filter the transcripts to limit number of duplicate sentences.\n
+options: 
+  --help          # print this message and exit
+";
+
+. utils/parse_options.sh
+
+if [ $# -ne 3 ]; then
+  printf "$help_message\n";
+  echo blah
+  exit 1;
+fi
+
+text_in=$1     # data/local/train/text
+maxcount=$2  # data/local/dict/lexicon.txt
+text_out=$3      # data/local/lm
+
+for f in "$text_in"; do
+  [ ! -f $x ] && echo "$0: No such file $f" && exit 1;
+done
+
+[ ! -d $(dirname $text_out) ] && mkdir -p $(dirname $text_out)
+
+echo "The 10 most frequent frequent senteces are:"
+cat $text_in | sed 's|^[^ ]* ||' | sort | uniq -c | sort -nr | head -n10
+
+cat $text_in | \
+  perl -e '
+  $maxcount = shift @ARGV; 
+  @all = ();
+   $p1 = 103349; $p2 = 71147; $k = 0;
+   sub random { # our own random number generator: predictable.
+     $k = ($k + $p1) % $p2;
+     return ($k / $p2);
+  }
+  while(<>) {
+    push @all, $_;
+    @A = split(" ", $_);
+    shift @A;
+    $text = join(" ", @A);
+    $count{$text} ++;
+  }
+  foreach $line (@all) {
+    @A = split(" ", $line);
+    shift @A;
+    $text = join(" ", @A);
+    $n = $count{$text};
+    if ($n < $maxcount || random() < ($maxcount / $n)) {
+      print $line;
+    }
+  }'  $maxcount >$text_out
+
+echo "Reduced number of utterances from `cat $text_in | wc -l` to `cat $text_out | wc -l`"
+
+

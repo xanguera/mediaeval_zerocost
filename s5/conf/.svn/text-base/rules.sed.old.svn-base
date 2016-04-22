@@ -1,0 +1,12 @@
+s/ u a / ua /g
+s/ u a$/ ua/g
+s/ao/año/g
+s/ñ/ñ/g
+s/á/á/g
+s/é/é/g
+s/í/í/g
+s/ó/ó/g
+s/ú/ú/g
+s/bigbang/bing bang/g
+s/alardduato/alard duato/g
+s/castillala/castilla la/g

@@ -1,0 +1,114 @@
+#!/bin/bash
+#this script prepares the data by splitting it into two sets (train and test) and creating the necessary lists
+
+#list of locations where to find the .wav and .info files for each of the databases
+databases=('/home/speech/data/BBDD_Entrenamiento/SPATIS' '/home/speech/data/BBDD_Entrenamiento/CEUDEX' );
+#databases=('/tmp/SPATIS' );
+
+#percentage of files used for training (the rest goes for test) written as how many for every 10 files
+trainPerten=9
+
+#path prefix for the output files
+pathPrefix=$TID_ROOT/data
+
+##############################################
+
+#if not present, create the output directories
+mkdir -p ${pathPrefix}/train
+mkdir -p ${pathPrefix}/test
+mkdir -p ${pathPrefix}/local/dict
+mkdir -p ${pathPrefix}/local/lm
+
+#create the wav.scp file for training and for testing, taking into account the percentage split we defined before
+rm -f ${pathPrefix}/train/wav.scp
+rm -f ${pathPrefix}/train/text
+rm -f ${pathPrefix}/train/utt2spk
+rm -f ${pathPrefix}/test/wav.scp
+rm -f ${pathPrefix}/test/text
+rm -f ${pathPrefix}/test/utt2spk
+rm -f ${pathPrefix}/local/dict/lexicon.txt
+rm -f ${pathPrefix}/local/lm/text
+rm -f ${pathPrefix}/local/dict/extra_questions.txt
+rm -f ${pathPrefix}/local/dict/nonsilence_phones.txt
+rm -f ${pathPrefix}/local/dict/optional_silence.txt
+rm -f ${pathPrefix}/local/dict/silence_phones.txt
+
+# Using system clock to create unique tmp files among differences instances of this script
+tmp_dict=/tmp/`date +%s%N | cut -b1-13`
+sleep 1
+tmp_lmtext=/tmp/`date +%s%N | cut -b1-13`
+
+#the beginning of the lexicon is always the same
+echo "!sil sil" > ${pathPrefix}/local/dict/lexicon.txt
+echo "<unk> unk" >> ${pathPrefix}/local/dict/lexicon.txt
+
+#the silence phone is the sil phone (more to come if in other datasets we have extra markings)
+echo "sil" >> ${pathPrefix}/local/dict/silence_phones.txt
+echo "unk" >> ${pathPrefix}/local/dict/silence_phones.txt
+echo "sil" >> ${pathPrefix}/local/dict/optional_silence.txt
+
+#for now we do not have any extra questions
+touch ${pathPrefix}/local/dict/extra_questions.txt
+
+for database in "${databases[@]}"
+do
+    counter=0
+    for file in `ls ${database}/*.wav`; do
+	let counter+=1
+	#we consider the file name sall have the following format <speakerID>_<uttID>.wav
+	tmpFile=$( echo ${file} | sed 's/.*\/\([^\/]*\/[^\/]*\).wav/\1/' ) #keeps the last directory name and the file name (no extension)
+	uttID=$( echo ${tmpFile} | sed 's/\//-/' )
+	speakerID=$( echo ${uttID} | sed 's/_.*//' )
+
+	#we extract the transcription (phoneme and word level) and eliminate some characters that are not needed
+	infoFile=$( echo ${file} | sed 's/.wav/.info/' )
+	codif=$( file ${infoFile} | cut -d':' -f2 | cut -d' ' -f2 )
+        if [ "$codif" == "ISO-8859" ] ; then codif="ISO-8859-1" ; fi	
+	wordTrans=$( cat ${infoFile} | grep "frase\[0\]: (CHAR) " | sed 's/.*(CHAR) *//' | sed 's/  */ /g' |  iconv -f $codif | local/normalizer.sh )
+	phoneTrans=$( cat ${infoFile} | grep "fonemas\[0\]: (CHAR)" | sed 's/.*(CHAR) *//' | sed 's/  */ /g' | iconv -f $codif | local/normalizer_phone.sh )    
+	    
+
+        if [ $counter -le $trainPerten ]
+	then
+		echo "${uttID} $file" >> ${pathPrefix}/train/wav.scp
+		echo "${uttID} ${wordTrans}" >> ${pathPrefix}/train/text
+		echo "${uttID} ${speakerID}" >> ${pathPrefix}/train/utt2spk
+		#create the lexicon
+		phoneNumCols=$( echo ${phoneTrans} | awk '{print NF}' )
+		wordNumCols=$( echo ${wordTrans} | awk '{print NF}' )
+		if [ ${phoneNumCols} -eq $wordNumCols ]
+		then
+			perl -e 'my @elem1=split(/ /, $ARGV[0]); my @elem2=split(/ /, $ARGV[1]); my $numElems=@elem1; for(my $i=0; $i<$numElems; $i++){my $out2 = $elem2[$i]; $out2 =~ s/\./ /g; print "$elem1[$i] $out2\n";}' "$wordTrans" "$phoneTrans" >> $tmp_dict 
+			
+		else
+			echo -e "Word and phoneme transcriptions differ:\n${wordTrans}\n${phoneTrans}"
+		fi
+
+		#create the LM training text
+		echo ${wordTrans} >> $tmp_lmtext
+
+	else
+		echo "${uttID} $file" >> ${pathPrefix}/test/wav.scp
+		echo "${uttID} ${wordTrans}" >> ${pathPrefix}/test/text
+                echo "${uttID} ${speakerID}" >> ${pathPrefix}/test/utt2spk
+	fi
+
+	#when we get to 10, we start over
+	if [ $counter -eq 10 ]
+	then
+		let counter=0
+	fi
+
+    done
+done
+
+#output the dictionary
+cat $tmp_dict | sort | uniq >> ${pathPrefix}/local/dict/lexicon.txt
+rm -f $tmp_dict
+
+#output the LM training text
+cat $tmp_lmtext | sort | uniq >> ${pathPrefix}/local/lm/text
+rm -f $tmp_lmtext
+
+#list of all phonemes
+cat ${pathPrefix}/local/dict/lexicon.txt | cut -d' ' -f2- | tr '\n' ' ' | sed 's/^ //g'  | sed 's/  */ /g' | tr ' ' '\n' | sort | uniq > ${pathPrefix}/local/dict/nonsilence_phones.txt
