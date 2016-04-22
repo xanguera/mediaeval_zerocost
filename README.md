@@ -32,9 +32,13 @@ Some important tips on how to prepare the data:
 * Each audio file (.wav) needs to have its counterpart .txt file
 * Name convention for the files is <spkrID>_<utteranceID> which allows for one speaker to contribute multiple independent utterances to the training.
 * Inside the .txt file you need to place, in two columns, the text and transcription of each word in the utterance, separated by <tab>, for example:
+	
 	là      l à
+	
 	nai     n a i
+	
 	cái     c á i
+	
 	cây     c â y
 
 Note when running the training script: it requires the MITLM package to be downloaded and compiled under ./tools
